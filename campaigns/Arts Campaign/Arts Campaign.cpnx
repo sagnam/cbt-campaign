@@ -23,8 +23,8 @@
 		<lastTeamId>0</lastTeamId>
 		<lastPartId>294</lastPartId>
 		<lastForceId>1</lastForceId>
-		<lastMissionId>0</lastMissionId>
-		<lastScenarioId>0</lastScenarioId>
+		<lastMissionId>1</lastMissionId>
+		<lastScenarioId>1</lastScenarioId>
 		<calendar>3077-01-01 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -319,7 +319,26 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>0</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>0</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="039b3741-52c2-41bd-be47-d44752cd0b1d" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Prowler" model="PWR-1X" type="Biped" commander="false" externalId="039b3741-52c2-41bd-be47-d44752cd0b1d">
+			</entity>
+			<driverId>ca9e14bb-222e-448c-8342-82a24daf0988</driverId>
+			<gunnerId>ca9e14bb-222e-448c-8342-82a24daf0988</gunnerId>
+			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
+			<salvaged>false</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
+			<scenarioId>1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -348,51 +367,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
-			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>0</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>0</astechDaysMaintained>
-			<mothballTime>0</mothballTime>
-			<mothballed>false</mothballed>
-			<fluffName></fluffName>
-			<history></history>
-		</unit>
-		<unit id="039b3741-52c2-41bd-be47-d44752cd0b1d" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Prowler" model="PWR-1X" type="Biped" commander="false" externalId="039b3741-52c2-41bd-be47-d44752cd0b1d">
-			</entity>
-			<driverId>ca9e14bb-222e-448c-8342-82a24daf0988</driverId>
-			<gunnerId>ca9e14bb-222e-448c-8342-82a24daf0988</gunnerId>
-			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
-			<salvaged>false</salvaged>
-			<site>2</site>
-			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
-			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>0</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>0</astechDaysMaintained>
-			<mothballTime>0</mothballTime>
-			<mothballed>false</mothballed>
-			<fluffName></fluffName>
-			<history></history>
-		</unit>
-		<unit id="bb035d28-af13-4169-ad1c-d95358330d97" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Legionnaire" model="LGN-2X1 MUSE FIRE" type="Biped" commander="false" externalId="bb035d28-af13-4169-ad1c-d95358330d97">
-      The first slot in a location is at index="1".
-				<location index="0"> Head
-					<slot index="3" type="CLRotaryAC5 Ammo" shots="20"/>
-					<slot index="4" type="CLRotaryAC5 Ammo" shots="20"/>
-					<slot index="5" type="CLRotaryAC5 Ammo" shots="20"/>
-				</location>
-			</entity>
-			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
-			<gunnerId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</gunnerId>
-			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
-			<salvaged>false</salvaged>
-			<site>2</site>
-			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -423,7 +398,32 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>0</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>0</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="bb035d28-af13-4169-ad1c-d95358330d97" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Legionnaire" model="LGN-2X1 MUSE FIRE" type="Biped" commander="false" externalId="bb035d28-af13-4169-ad1c-d95358330d97">
+      The first slot in a location is at index="1".
+				<location index="0"> Head
+					<slot index="3" type="CLRotaryAC5 Ammo" shots="20"/>
+					<slot index="4" type="CLRotaryAC5 Ammo" shots="20"/>
+					<slot index="5" type="CLRotaryAC5 Ammo" shots="20"/>
+				</location>
+			</entity>
+			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
+			<gunnerId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</gunnerId>
+			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
+			<salvaged>false</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
+			<scenarioId>1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -442,7 +442,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -496,12 +496,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
@@ -556,13 +556,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3056-06-11 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -616,12 +616,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3048-11-02 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -727,12 +727,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -787,13 +787,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3046-11-21 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -969,13 +969,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3050-11-25 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -996,6 +996,29 @@
 	<ancestors>
 	</ancestors>
 	<missions>
+		<mission id="1" type="mekhq.campaign.mission.Mission">
+			<name>First Mission</name>
+			<type>Company Contract</type>
+			<planetName></planetName>
+			<status>0</status>
+			<desc>Do what were are told</desc>
+			<id>1</id>
+			<scenarios>
+				<scenario id="1" type="mekhq.campaign.mission.Scenario">
+					<name>Supply Run</name>
+					<desc>Should be calm</desc>
+					<report></report>
+					<status>0</status>
+					<id>1</id>
+					<loots>
+						<loot>
+							<name>Pay</name>
+							<cash>600000</cash>
+						</loot>
+					</loots>
+				</scenario>
+			</scenarios>
+		</mission>
 	</missions>
 	<forces>
 		<force id="0" type="mekhq.campaign.force.Force">
@@ -1003,7 +1026,7 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>1</scenarioId>
 			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
 			<units>
 				<unit id="13f4cd28-90b4-4fc8-9762-006444701835"/>
@@ -1362,12 +1385,12 @@
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -1399,12 +1422,12 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -1450,12 +1473,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -1470,13 +1493,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 		<ability>
@@ -1502,26 +1545,6 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Oblique Attacker (aToW)</displayName>
 			<lookupName>oblique_attacker</lookupName>
 			<desc>The penalty for indirect fire is reduced by one.</desc>
@@ -1532,11 +1555,11 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -1551,12 +1574,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aircraft</skill>
-				<skill>Gunnery/Spacecraft</skill>
+				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aerospace</skill>
-				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Spacecraft</skill>
 				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Vehicle</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -1572,22 +1595,6 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Tactical Genius (aToW)</displayName>
-			<lookupName>tactical_genius</lookupName>
-			<desc>A pilot who has a Tactical Genius may reroll their initiative once per turn.
- The second roll must be accepted.
-Note: Only one Tactical Genius may be utilized per team.</desc>
-			<xpCost>8</xpCost>
-			<weight>1</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Tactics::Green</skill>
 			</skillPrereq>
 		</ability>
 		<ability>
@@ -1607,6 +1614,22 @@ Note: Only one Tactical Genius may be utilized per team.</desc>
 				<skill>Piloting/VTOL::Regular</skill>
 				<skill>Piloting/Aircraft::Regular</skill>
 				<skill>Piloting/Mech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Tactical Genius (aToW)</displayName>
+			<lookupName>tactical_genius</lookupName>
+			<desc>A pilot who has a Tactical Genius may reroll their initiative once per turn.
+ The second roll must be accepted.
+Note: Only one Tactical Genius may be utilized per team.</desc>
+			<xpCost>8</xpCost>
+			<weight>1</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Tactics::Green</skill>
 			</skillPrereq>
 		</ability>
 		<ability>
@@ -1649,12 +1672,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -1686,11 +1709,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -1705,12 +1728,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -1725,12 +1748,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
