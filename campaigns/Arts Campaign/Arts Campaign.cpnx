@@ -21,10 +21,10 @@
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
 		<lastTeamId>0</lastTeamId>
-		<lastPartId>448</lastPartId>
+		<lastPartId>450</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>1</lastMissionId>
-		<lastScenarioId>1</lastScenarioId>
+		<lastScenarioId>2</lastScenarioId>
 		<calendar>3077-01-01 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -430,7 +430,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>2</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -459,7 +459,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>2</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -478,7 +478,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>2</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -503,7 +503,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>2</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -534,7 +534,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>2</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -553,7 +553,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>2</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -1167,6 +1167,19 @@
 					</forceStub>
 					<date>3077-01-01 12:00:00</date>
 				</scenario>
+				<scenario id="2" type="mekhq.campaign.mission.Scenario">
+					<name>Take Out Sniper Turret</name>
+					<desc>Get in and get out</desc>
+					<report></report>
+					<status>0</status>
+					<id>2</id>
+					<loots>
+						<loot>
+							<name>Pay</name>
+							<cash>672000</cash>
+						</loot>
+					</loots>
+				</scenario>
 			</scenarios>
 		</mission>
 	</missions>
@@ -1176,7 +1189,7 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>2</scenarioId>
 			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
 			<units>
 				<unit id="13f4cd28-90b4-4fc8-9762-006444701835"/>
