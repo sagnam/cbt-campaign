@@ -4,5 +4,5 @@
 !*/
 !.gitignore
 !*.mul
-!*.cpnx
-!*.mtx
+!**/Arts Campaign/*.cpnx
+!**/customs/Art/*.mtf
