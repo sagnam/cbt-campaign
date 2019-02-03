@@ -14,53 +14,26 @@
 		<gmMode>true</gmMode>
 		<showOverview>true</showOverview>
 		<astechPool>18</astechPool>
-		<astechPoolMinutes>8640</astechPoolMinutes>
+		<astechPoolMinutes>8100</astechPoolMinutes>
 		<astechPoolOvertime>4320</astechPoolOvertime>
 		<medicPool>0</medicPool>
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
 		<lastTeamId>0</lastTeamId>
-		<lastPartId>803</lastPartId>
+		<lastPartId>967</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>2</lastMissionId>
 		<lastScenarioId>4</lastScenarioId>
-		<calendar>3077-04-15 12:00:00</calendar>
+		<calendar>3077-04-16 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
 			<faction>General</faction>
 			<percentFemale>50</percentFemale>
 		</nameGen>
 		<currentReport>
-			<reportLine><![CDATA[<b>Sunday, April 15 3077</b>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSONNEL_MARKET'>Personnel market updated</a>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:eb7978f0-c882-4a2c-bd48-ca4654d121bd'>Orlando González</a> attempts to find Armor (Heavy Ferro-Fibrous)  needs 6 and rolls 8:<font color='green'><b> part found</b>.</font> It will be delivered in 30 days.]]></reportLine>
-			<reportLine><![CDATA[The customization of Hermes II HER-7S Mk II is complete.]]></reportLine>
-			<reportLine><![CDATA[Hoplite HOP-4X has been removed from the unit roster.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:93f2b224-e9f8-4203-b8cc-d7c313149f72'>Hoplite HOP-4XD</a> has been added to the unit roster.]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:ea523c3c-d20b-41cd-bd79-0242efc267b6'>Matt</a> has been set as the overall unit commander.]]></reportLine>
+			<reportLine><![CDATA[<b>Monday, April 16 3077</b>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:eb7978f0-c882-4a2c-bd48-ca4654d121bd'>Orlando González</a> attempts to fix Mech Right Arm (IS Endo Steel) on Enforcer III ENF-7X MUSE COMPACT Mk II,  needs 7 and rolls 4: <font color='red'><b> failed.</b></font>]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -329,67 +302,47 @@
 		<rats>Xotl,Total Warfare</rats>
 	</campaignOptions>
 	<units>
-		<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Enforcer III" model="ENF-7X MUSE COMPACT Mk II" type="Biped" commander="false" externalId="bb96f7e3-ce69-4b74-a250-5011aa07895b">
-			</entity>
-			<driverId>a1720c9f-9396-4645-a0b1-4120613eb75c</driverId>
-			<gunnerId>a1720c9f-9396-4645-a0b1-4120613eb75c</gunnerId>
-			<salvaged>false</salvaged>
-			<site>4</site>
-			<forceId>0</forceId>
-			<scenarioId>4</scenarioId>
-			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>4</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>24</astechDaysMaintained>
-			<mothballTime>0</mothballTime>
-			<mothballed>false</mothballed>
-			<fluffName></fluffName>
-			<history></history>
-		</unit>
-		<unit id="7055e444-c471-41d0-b2c3-7f933cac2dfd" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Black Panther" model="BKP-1R" type="Biped" commander="false" externalId="7055e444-c471-41d0-b2c3-7f933cac2dfd">
-			</entity>
-			<driverId>ca9e14bb-222e-448c-8342-82a24daf0988</driverId>
-			<gunnerId>ca9e14bb-222e-448c-8342-82a24daf0988</gunnerId>
-			<salvaged>false</salvaged>
-			<site>2</site>
-			<forceId>0</forceId>
-			<scenarioId>4</scenarioId>
-			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>6</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>36</astechDaysMaintained>
-			<mothballTime>0</mothballTime>
-			<mothballed>false</mothballed>
-			<fluffName></fluffName>
-			<history></history>
-		</unit>
-		<unit id="a31e2d93-52c8-4687-9a19-060e43931613" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Grim Reaper" model="GRM-R-PR31" type="Biped" commander="false" externalId="a31e2d93-52c8-4687-9a19-060e43931613" c3UUID="94812c7f-3161-4321-a5d8-8194c189e172">
+		<unit id="91cde6e8-4d50-49d9-94e1-e22db3081f03" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Venom" model="SDR-9KA" type="Biped" commander="false" externalId="91cde6e8-4d50-49d9-94e1-e22db3081f03">
       The first slot in a location is at index="1".
+				<location index="1"> Center Torso
+					<armor points="5"/>
+					<armor points="7" type="Internal"/>
+					<armor points="Destroyed" type="Rear"/>
+         <slot index="1" type="System" isHit="true" isDestroyed="true"/>
+         <slot index="5" type="System" isHit="true" isDestroyed="true"/>
+         <slot index="7" type="System" isHit="true" isDestroyed="true"/>
+				</location>
+				<location index="2" isDestroyed="true" /> Right Torso
 				<location index="3"> Left Torso
-					<slot index="5" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
-					<slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+					<armor points="Destroyed"/>
+					<armor points="1" type="Internal"/>
+					<armor points="Destroyed" type="Rear"/>
+         <slot index="2" type="System" isHit="true" isDestroyed="true"/>
+         <slot index="5" type="Jump Jet" isHit="true" isDestroyed="true"/>
+				</location>
+				<location index="4" isDestroyed="true" /> Right Arm
+				<location index="5" isDestroyed="true" /> Left Arm
+				<location index="6"> Right Leg
+					<armor points="Destroyed"/>
+					<armor points="4" type="Internal"/>
 				</location>
 			</entity>
-			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
-			<gunnerId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</gunnerId>
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>4</scenarioId>
+			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>6</daysSinceMaintenance>
+			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>36</astechDaysMaintained>
+			<astechDaysMaintained>6</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
 		</unit>
 		<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Hoplite" model="HOP-4XD" type="Biped" commander="false" externalId="93f2b224-e9f8-4203-b8cc-d7c313149f72">
+			<entity chassis="Hoplite" model="HOP-4XD" type="Biped" commander="false" externalId="93f2b224-e9f8-4203-b8cc-d7c313149f72" camoCategory="Davion/Chisholm&apos;s Raiders/" camoFileName="2nd Chisholms Raiders.jpg">
       The first slot in a location is at index="1".
 				<location index="2"> Right Torso
 					<slot index="3" type="CLRotaryAC5 Ammo" shots="20"/>
@@ -406,53 +359,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>4</scenarioId>
-			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>0</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>0</astechDaysMaintained>
-			<mothballTime>0</mothballTime>
-			<mothballed>false</mothballed>
-			<fluffName></fluffName>
-			<history></history>
-		</unit>
-		<unit id="6edb2dae-fde4-4ce0-b9c0-056fc3aef154" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Ursus" model="PR Mk II" type="Biped" commander="false" externalId="6edb2dae-fde4-4ce0-b9c0-056fc3aef154">
-      The first slot in a location is at index="1".
-				<location index="2"> Right Torso
-					<slot index="8" type="IS LB 10-X AC Ammo" shots="10"/>
-					<slot index="9" type="IS LB 10-X Cluster Ammo" shots="10"/>
-				</location>
-			</entity>
-			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
-			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
-			<salvaged>false</salvaged>
-			<site>3</site>
-			<forceId>0</forceId>
-			<scenarioId>4</scenarioId>
-			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>3</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>18</astechDaysMaintained>
-			<mothballTime>0</mothballTime>
-			<mothballed>false</mothballed>
-			<fluffName></fluffName>
-			<history></history>
-		</unit>
-		<unit id="bb035d28-af13-4169-ad1c-d95358330d97" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Legionnaire" model="LGN-2X1 MUSE FIRE Mk II" type="Biped" commander="false" externalId="bb035d28-af13-4169-ad1c-d95358330d97">
-      The first slot in a location is at index="1".
-				<location index="2"> Right Torso
-					<slot index="11" type="IS LB 10-X AC Ammo" shots="10"/>
-					<slot index="12" type="IS LB 10-X Cluster Ammo" shots="10"/>
-				</location>
-			</entity>
-			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
-			<gunnerId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</gunnerId>
-			<salvaged>false</salvaged>
-			<site>4</site>
-			<forceId>0</forceId>
-			<scenarioId>4</scenarioId>
+			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -465,14 +372,206 @@
 		<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Hermes II" model="HER-7S Mk II" type="Biped" commander="false" externalId="b10b3a94-8ba3-404c-9a93-3b0625244a61">
 			</entity>
+			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
+			<gunnerId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</gunnerId>
 			<salvaged>false</salvaged>
 			<site>2</site>
-			<forceId>-1</forceId>
+			<forceId>0</forceId>
+			<scenarioId>-1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>5</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>30</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="7055e444-c471-41d0-b2c3-7f933cac2dfd" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Black Panther" model="BKP-1R" type="Biped" commander="false" externalId="7055e444-c471-41d0-b2c3-7f933cac2dfd">
+			</entity>
+			<driverId>ca9e14bb-222e-448c-8342-82a24daf0988</driverId>
+			<gunnerId>ca9e14bb-222e-448c-8342-82a24daf0988</gunnerId>
+			<salvaged>false</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
+			<scenarioId>-1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>0</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>0</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="6edb2dae-fde4-4ce0-b9c0-056fc3aef154" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Ursus" model="PR Mk II" type="Biped" commander="false" externalId="6edb2dae-fde4-4ce0-b9c0-056fc3aef154" camoCategory="-- No Camo --">
+      The first slot in a location is at index="1".
+				<location index="2"> Right Torso
+					<slot index="8" type="IS LB 10-X AC Ammo" shots="10"/>
+					<slot index="9" type="IS LB 10-X Cluster Ammo" shots="10"/>
+				</location>
+			</entity>
+			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
+			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
+			<salvaged>false</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
 			<astechDaysMaintained>24</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="bb035d28-af13-4169-ad1c-d95358330d97" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Legionnaire" model="LGN-2X1 MUSE FIRE Mk II" type="Biped" commander="false" externalId="bb035d28-af13-4169-ad1c-d95358330d97" camoCategory="-- No Camo --">
+      The first slot in a location is at index="1".
+				<location index="2"> Right Torso
+					<slot index="11" type="IS LB 10-X AC Ammo" shots="10"/>
+					<slot index="12" type="IS LB 10-X Cluster Ammo" shots="10"/>
+				</location>
+			</entity>
+			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
+			<gunnerId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</gunnerId>
+			<salvaged>false</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
+			<scenarioId>-1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>2</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>12</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="a31e2d93-52c8-4687-9a19-060e43931613" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Grim Reaper" model="GRM-R-PR31" type="Biped" commander="false" externalId="a31e2d93-52c8-4687-9a19-060e43931613" c3UUID="94812c7f-3161-4321-a5d8-8194c189e172">
+      The first slot in a location is at index="1".
+				<location index="3"> Left Torso
+					<slot index="5" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+					<slot index="6" type="IS Ammo LRM-20 Artemis-capable" shots="6"/>
+				</location>
+			</entity>
+			<salvaged>false</salvaged>
+			<site>2</site>
+			<forceId>-1</forceId>
+			<scenarioId>-1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>0</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>0</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Enforcer III" model="ENF-7X MUSE COMPACT Mk II" type="Biped" commander="false" externalId="bb96f7e3-ce69-4b74-a250-5011aa07895b">
+				<location index="4"> Right Arm
+					<armor points="6" type="Internal"/>
+				</location>
+			</entity>
+			<driverId>a1720c9f-9396-4645-a0b1-4120613eb75c</driverId>
+			<gunnerId>a1720c9f-9396-4645-a0b1-4120613eb75c</gunnerId>
+			<salvaged>false</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
+			<scenarioId>-1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>5</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>30</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="1844947b-2273-4001-9cc6-046ad13148bf" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Icarus II" model="ICR-1S" type="Biped" commander="false" externalId="1844947b-2273-4001-9cc6-046ad13148bf">
+      The first slot in a location is at index="1".
+				<location index="0"> Head
+					<armor points="4"/>
+				</location>
+				<location index="1" isDestroyed="true" /> Center Torso
+				<location index="2"> Right Torso
+					<armor points="2"/>
+				</location>
+				<location index="3"> Left Torso
+					<armor points="9"/>
+					<slot index="3" type="IS Ammo AC/10" shots="1"/>
+				</location>
+				<location index="4"> Right Arm
+					<armor points="Destroyed"/>
+				</location>
+				<location index="5" isDestroyed="true" /> Left Arm
+				<location index="6"> Right Leg has been blown off.
+					<armor points="Destroyed"/>
+					<armor points="8" type="Internal"/>
+					<blownOff/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
+         <slot index="5" type="Jump Jet" isHit="true" isRepairable="false" isDestroyed="true"/>
+				</location>
+				<location index="7"> Left Leg
+					<armor points="10"/>
+				</location>
+			</entity>
+			<salvaged>true</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
+			<scenarioId>-1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>1</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>6</astechDaysMaintained>
+			<mothballTime>0</mothballTime>
+			<mothballed>false</mothballed>
+			<fluffName></fluffName>
+			<history></history>
+		</unit>
+		<unit id="d47c7a1a-3672-445e-985b-a85771d3106b" type="mekhq.campaign.unit.Unit">
+			<entity chassis="Blackjack" model="BJ-1DB" type="Biped" commander="false" externalId="d47c7a1a-3672-445e-985b-a85771d3106b">
+      The first slot in a location is at index="1".
+				<location index="1" isDestroyed="true" /> Center Torso
+				<location index="2"> Right Torso
+					<armor points="Destroyed"/>
+					<armor points="3" type="Internal"/>
+         <slot index="3" type="Heat Sink" isHit="true" isRepairable="false" isDestroyed="true"/>
+         <slot index="5" type="Heat Sink" isHit="true" isRepairable="false" isDestroyed="true"/>
+				</location>
+				<location index="3" isDestroyed="true" /> Left Torso
+				<location index="4"> Right Arm
+					<armor points="Destroyed"/>
+					<armor points="6" type="Internal"/>
+         <slot index="2" type="System" isHit="true" isRepairable="false" isDestroyed="true"/>
+         <slot index="5" type="Medium Laser" isHit="true" isRepairable="false" isDestroyed="true"/>
+				</location>
+				<location index="5" isDestroyed="true" /> Left Arm
+				<location index="6"> Right Leg
+					<armor points="Destroyed"/>
+					<armor points="10" type="Internal"/>
+				</location>
+				<location index="7"> Left Leg
+					<armor points="Destroyed"/>
+					<armor points="4" type="Internal"/>
+         <slot index="1" type="System" isHit="true" isDestroyed="true"/>
+         <slot index="3" type="System" isHit="true" isRepairable="false" isDestroyed="true"/>
+				</location>
+			</entity>
+			<salvaged>true</salvaged>
+			<site>2</site>
+			<forceId>0</forceId>
+			<scenarioId>-1</scenarioId>
+			<daysToArrival>0</daysToArrival>
+			<daysSinceMaintenance>1</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>6</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -497,7 +596,7 @@
 			<id>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>1</xp>
+			<xp>2</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>1</gender>
 			<rank>0</rank>
@@ -506,7 +605,7 @@
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
 			<nTasks>0</nTasks>
-			<unitId>a31e2d93-52c8-4687-9a19-060e43931613</unitId>
+			<unitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</unitId>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -541,6 +640,67 @@
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Hermes II HER-7S</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
 				<logEntry><date>3077-01-18 12:00:00</date><desc>Reassigned to Grim Reaper GRM-R-PR31</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
+				<logEntry><date>3077-04-16 12:00:00</date><desc>Reassigned to Hermes II HER-7S Mk II</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="9568ae7d-ae23-41c1-8a5b-9463ce9be8c2" type="mekhq.campaign.personnel.Person">
+			<name>Tibalt Syversen</name>
+			<callsign></callsign>
+			<primaryRole>1</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>9568ae7d-ae23-41c1-8a5b-9463ce9be8c2</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>1</xp>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
+			<gender>1</gender>
+			<rank>-2</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>0</nTasks>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>1</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>0</hits>
+			<toughness>0</toughness>
+			<minutesLeft>0</minutesLeft>
+			<overtimeLeft>0</overtimeLeft>
+			<birthday>3041-10-15 12:00:00</birthday>
+			<skill>
+				<type>Tactics</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Piloting/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<personnelLog>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Made Prisoner Art</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -564,7 +724,7 @@
 			<id>86cf842d-8c1f-42c7-ad42-70dc17065c92</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>1</xp>
+			<xp>2</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>1</gender>
 			<rank>0</rank>
@@ -602,6 +762,71 @@
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Ursus PR</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="33543925-5755-44bc-83b7-c2b997b05ee7" type="mekhq.campaign.personnel.Person">
+			<name>Gary Buchanan</name>
+			<callsign></callsign>
+			<primaryRole>1</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>33543925-5755-44bc-83b7-c2b997b05ee7</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>1</xp>
+			<daysToWaitForHealing>14</daysToWaitForHealing>
+			<gender>0</gender>
+			<rank>-2</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>0</nTasks>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>1</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>3</hits>
+			<toughness>0</toughness>
+			<minutesLeft>0</minutesLeft>
+			<overtimeLeft>0</overtimeLeft>
+			<birthday>3052-10-01 12:00:00</birthday>
+			<skill>
+				<type>Tactics</type>
+				<level>1</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>2</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Piloting/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<personnelLog>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Made Prisoner Art</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -625,7 +850,7 @@
 			<id>ca9e14bb-222e-448c-8342-82a24daf0988</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>1</xp>
+			<xp>2</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>0</gender>
 			<rank>0</rank>
@@ -665,6 +890,7 @@
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Prowler PWR-1X</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Black Panther BKP-1R</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -740,7 +966,7 @@
 			<id>a1720c9f-9396-4645-a0b1-4120613eb75c</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>1</xp>
+			<xp>2</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>1</gender>
 			<rank>0</rank>
@@ -778,6 +1004,133 @@
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Enforcer III ENF-7X MUSE COMPACT</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="ae80e408-2baa-42f9-829e-5c98dafbb0d8" type="mekhq.campaign.personnel.Person">
+			<name>Young-Hee Kim</name>
+			<callsign></callsign>
+			<primaryRole>1</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>ae80e408-2baa-42f9-829e-5c98dafbb0d8</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>1</xp>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
+			<gender>0</gender>
+			<rank>-2</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>0</nTasks>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>1</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>0</hits>
+			<toughness>0</toughness>
+			<minutesLeft>0</minutesLeft>
+			<overtimeLeft>0</overtimeLeft>
+			<birthday>3054-02-25 12:00:00</birthday>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Piloting/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<personnelLog>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Made Prisoner Art</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="eb7978f0-c882-4a2c-bd48-ca4654d121bd" type="mekhq.campaign.personnel.Person">
+			<name>Orlando González</name>
+			<callsign></callsign>
+			<primaryRole>15</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>eb7978f0-c882-4a2c-bd48-ca4654d121bd</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>0</xp>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
+			<gender>0</gender>
+			<rank>0</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>24</nTasks>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>0</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>0</hits>
+			<toughness>0</toughness>
+			<minutesLeft>390</minutesLeft>
+			<overtimeLeft>240</overtimeLeft>
+			<birthday>3050-10-05 12:00:00</birthday>
+			<skill>
+				<type>Scrounge</type>
+				<level>4</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Negotiation</type>
+				<level>4</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Tech/Mech</type>
+				<level>4</level>
+				<bonus>0</bonus>
+			</skill>
+			<personnelLog>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art&apos;s Campaign</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to My Campaign</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Over Prowler OVR-PWR-1X</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Hoplite HOP-4X</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Premature Ejections</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Premature Ejections</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Premature Ejections</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Prowler PWR-1X</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Premature Ejections</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -801,7 +1154,7 @@
 			<id>ea523c3c-d20b-41cd-bd79-0242efc267b6</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>1</xp>
+			<xp>2</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>1</gender>
 			<rank>0</rank>
@@ -841,78 +1194,12 @@
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
 				<logEntry><date>3077-04-15 12:00:00</date><desc>Removed from Hoplite HOP-4X</desc></logEntry>
 				<logEntry><date>3077-04-15 12:00:00</date><desc>Assigned to Hoplite HOP-4XD</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
 			<originalUnitTech>0</originalUnitTech>
 			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="eb7978f0-c882-4a2c-bd48-ca4654d121bd" type="mekhq.campaign.personnel.Person">
-			<name>Orlando González</name>
-			<callsign></callsign>
-			<primaryRole>15</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>eb7978f0-c882-4a2c-bd48-ca4654d121bd</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>0</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>0</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>23</nTasks>
-			<salary>-1</salary>
-			<status>0</status>
-			<prisonerstatus>0</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>480</minutesLeft>
-			<overtimeLeft>240</overtimeLeft>
-			<birthday>3050-10-05 12:00:00</birthday>
-			<skill>
-				<type>Scrounge</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Negotiation</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Tech/Mech</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art&apos;s Campaign</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to My Campaign</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Over Prowler OVR-PWR-1X</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Hoplite HOP-4X</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Premature Ejections</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Premature Ejections</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Premature Ejections</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Prowler PWR-1X</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Removed from Premature Ejections</desc></logEntry>
-			</personnelLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>1</acquisitions>
 <extraData/>		</person>
 		<person id="c21fdf42-e28a-435e-b652-0939b5c4e04e" type="mekhq.campaign.personnel.Person">
 			<name>Endre Aspelund</name>
@@ -981,7 +1268,7 @@
 			<id>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>1</xp>
+			<xp>2</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>0</gender>
 			<rank>0</rank>
@@ -1019,6 +1306,7 @@
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Legionnaire LGN-2X1 MUSE FIRE</desc></logEntry>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -1041,8 +1329,53 @@
 					<name>Materiel Recovery</name>
 					<desc>Salvage and pelts</desc>
 					<report></report>
-					<status>0</status>
+					<status>1</status>
 					<id>4</id>
+					<forceStub>
+						<name>Assigned Forces</name>
+						<iconCategory>-- General --</iconCategory>
+						<iconFileName>None</iconFileName>
+						<subforces>
+							<forceStub>
+								<name>Premature Ejections</name>
+								<iconCategory>-- General --</iconCategory>
+								<iconFileName>grimejection11.jpg</iconFileName>
+								<units>
+									<unitStub>
+										<desc>&lt;html&gt;Matt (3/4), &lt;i&gt;Hoplite HOP-4XD&lt;/i&gt;&lt;/html&gt;</desc>
+										<portraitCategory>-- General --</portraitCategory>
+										<portraitFileName>None</portraitFileName>
+									</unitStub>
+									<unitStub>
+										<desc>&lt;html&gt;Kurt (4/4), &lt;i&gt;Black Panther BKP-1R&lt;/i&gt;&lt;/html&gt;</desc>
+										<portraitCategory>-- General --</portraitCategory>
+										<portraitFileName>None</portraitFileName>
+									</unitStub>
+									<unitStub>
+										<desc>&lt;html&gt;Peter (4/4), &lt;i&gt;Enforcer III ENF-7X MUSE COMPACT Mk II&lt;/i&gt;&lt;/html&gt;</desc>
+										<portraitCategory>-- General --</portraitCategory>
+										<portraitFileName>None</portraitFileName>
+									</unitStub>
+									<unitStub>
+										<desc>&lt;html&gt;Sandy (4/4), &lt;i&gt;Legionnaire LGN-2X1 MUSE FIRE Mk II&lt;/i&gt;&lt;/html&gt;</desc>
+										<portraitCategory>-- General --</portraitCategory>
+										<portraitFileName>None</portraitFileName>
+									</unitStub>
+									<unitStub>
+										<desc>&lt;html&gt;Ryan (3/4), &lt;i&gt;Ursus PR Mk II&lt;/i&gt;&lt;/html&gt;</desc>
+										<portraitCategory>-- General --</portraitCategory>
+										<portraitFileName>None</portraitFileName>
+									</unitStub>
+									<unitStub>
+										<desc>&lt;html&gt;Don (3/4), &lt;i&gt;Grim Reaper GRM-R-PR31&lt;/i&gt;&lt;/html&gt;</desc>
+										<portraitCategory>-- General --</portraitCategory>
+										<portraitFileName>None</portraitFileName>
+									</unitStub>
+								</units>
+							</forceStub>
+						</subforces>
+					</forceStub>
+					<date>3077-04-15 12:00:00</date>
 				</scenario>
 			</scenarios>
 		</mission>
@@ -1167,14 +1500,14 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>4</scenarioId>
+			<scenarioId>-1</scenarioId>
 			<units>
 				<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72"/>
 				<unit id="7055e444-c471-41d0-b2c3-7f933cac2dfd"/>
 				<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b"/>
 				<unit id="bb035d28-af13-4169-ad1c-d95358330d97"/>
 				<unit id="6edb2dae-fde4-4ce0-b9c0-056fc3aef154"/>
-				<unit id="a31e2d93-52c8-4687-9a19-060e43931613"/>
+				<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61"/>
 			</units>
 		</force>
 	</forces>
@@ -1318,6 +1651,18 @@
 			<category>1</category>
 			<date>3077-04-15 12:00:00</date>
 		</transaction>
+		<transaction>
+			<amount>-2500</amount>
+			<description>Purchase of Lower Arm Actuator</description>
+			<category>1</category>
+			<date>3077-04-15 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-100000</amount>
+			<description>Purchase of Armor (Ferro-Fibrous)</description>
+			<category>1</category>
+			<date>3077-04-15 12:00:00</date>
+		</transaction>
 	</finances>
 	<location>
 		<currentPlanetId>Galatea</currentPlanetId>
@@ -1338,6 +1683,36 @@
 			<killed>Motorized Squad (SRM) (Master, Game Master)</killed>
 			<killer>Hoplite HOP-4X</killer>
 			<date>3077-01-01 12:00:00</date>
+		</kill>
+		<kill>
+			<pilotId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</pilotId>
+			<killed>Icarus II ICR-1S (Master, Game Master)</killed>
+			<killer>Grim Reaper GRM-R-PR31</killer>
+			<date>3077-04-15 12:00:00</date>
+		</kill>
+		<kill>
+			<pilotId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</pilotId>
+			<killed>MechWarrior Tibalt Syversen (Master, Game Master)</killed>
+			<killer>Legionnaire LGN-2X1 MUSE FIRE Mk II</killer>
+			<date>3077-04-15 12:00:00</date>
+		</kill>
+		<kill>
+			<pilotId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</pilotId>
+			<killed>Blackjack BJ-1DB (Master, Game Master)</killed>
+			<killer>Legionnaire LGN-2X1 MUSE FIRE Mk II</killer>
+			<date>3077-04-15 12:00:00</date>
+		</kill>
+		<kill>
+			<pilotId>ca9e14bb-222e-448c-8342-82a24daf0988</pilotId>
+			<killed>Venom SDR-9KA (Master, Game Master)</killed>
+			<killer>Black Panther BKP-1R</killer>
+			<date>3077-04-15 12:00:00</date>
+		</kill>
+		<kill>
+			<pilotId>ea523c3c-d20b-41cd-bd79-0242efc267b6</pilotId>
+			<killed>Hi-Scout Drone (NapFind) (Master, Game Master)</killed>
+			<killer>Hoplite HOP-4XD</killer>
+			<date>3077-04-15 12:00:00</date>
 		</kill>
 	</kills>
 	<skillTypes>
@@ -2221,7 +2596,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
-			<daysToArrival>30</daysToArrival>
+			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
 			<quantity>1</quantity>
 			<daysToWait>0</daysToWait>
@@ -2255,7 +2630,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>182</amount>
+			<amount>116</amount>
 			<type>0</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -2558,7 +2933,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>-1</equipmentNum>
 			<typeName>CLRotaryAC5 Ammo</typeName>
 			<munition>0</munition>
-			<shots>60</shots>
+			<shots>34</shots>
 		</part>
 		<part id="746" type="mekhq.campaign.parts.AmmoStorage">
 			<id>746</id>
@@ -2582,7 +2957,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>-1</equipmentNum>
 			<typeName>IS LB 10-X AC Ammo</typeName>
 			<munition>0</munition>
-			<shots>10</shots>
+			<shots>1</shots>
 		</part>
 		<part id="745" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>745</id>
@@ -5477,7 +5852,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>43</amount>
+			<amount>38</amount>
 			<type>3</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -5503,38 +5878,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>60</amount>
+			<amount>27</amount>
 			<type>1</type>
 			<location>-1</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
-		</part>
-		<part id="443" type="mekhq.campaign.parts.Armor">
-			<id>443</id>
-			<name>Armor (Ferro-Fibrous)</name>
-			<unitTonnage>45</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<amount>17</amount>
-			<type>1</type>
-			<location>-1</location>
-			<rear>false</rear>
-			<amountNeeded>0</amountNeeded>
-			<clan>false</clan>
 		</part>
 		<part id="441" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>441</id>
@@ -8062,6 +8411,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="963" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>963</id>
+			<name>Jump Jet</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>2</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
 		<part id="195" type="mekhq.campaign.parts.MekLocation">
 			<id>195</id>
 			<name>Mech Left Leg</name>
@@ -8118,6 +8491,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="961" type="mekhq.campaign.parts.equipment.MissingJumpJet">
+			<id>961</id>
+			<name>Jump Jet</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Jump Jet</typeName>
+			<equipmentNum>4</equipmentNum>
+			<equipTonnage>0.5</equipTonnage>
 		</part>
 		<part id="193" type="mekhq.campaign.parts.MekLocation">
 			<id>193</id>
@@ -8176,6 +8575,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="959" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>959</id>
+			<name>Jump Jet</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>2</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
 		<part id="191" type="mekhq.campaign.parts.MekLocation">
 			<id>191</id>
 			<name>Mech Left Arm</name>
@@ -8233,6 +8656,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="957" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>957</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>4</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
 		<part id="189" type="mekhq.campaign.parts.MekLocation">
 			<id>189</id>
 			<name>Mech Right Arm</name>
@@ -8263,6 +8710,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="956" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>956</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>1</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>3</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
 		<part id="188" type="mekhq.campaign.parts.Armor">
 			<id>188</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -8290,6 +8761,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="955" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>955</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>2</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
 		<part id="187" type="mekhq.campaign.parts.Armor">
 			<id>187</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -8316,6 +8811,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="954" type="mekhq.campaign.parts.Armor">
+			<id>954</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>46</amount>
+			<type>1</type>
+			<location>-1</location>
+			<rear>false</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
 		</part>
 		<part id="186" type="mekhq.campaign.parts.MekLocation">
 			<id>186</id>
@@ -8346,6 +8867,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
+		</part>
+		<part id="953" type="mekhq.campaign.parts.MekActuator">
+			<id>953</id>
+			<name>Lower Arm Actuator</name>
+			<unitTonnage>50</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>9</type>
+			<location>4</location>
 		</part>
 		<part id="185" type="mekhq.campaign.parts.Armor">
 			<id>185</id>
@@ -8401,6 +8945,31 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="951" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>951</id>
+			<name>Lower Arm Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>9</type>
+			<location>5</location>
+		</part>
 		<part id="183" type="mekhq.campaign.parts.MekLocation">
 			<id>183</id>
 			<name>Mech Right Torso</name>
@@ -8431,6 +9000,31 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="950" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>950</id>
+			<name>Upper Arm Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>8</type>
+			<location>5</location>
+		</part>
 		<part id="182" type="mekhq.campaign.parts.Armor">
 			<id>182</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -8458,6 +9052,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="949" type="mekhq.campaign.parts.MissingEnginePart">
+			<id>949</id>
+			<name>160 Fusion Engine</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<engineType>1</engineType>
+			<engineRating>160</engineRating>
+			<engineFlags>0</engineFlags>
+			<forHover>false</forHover>
+		</part>
 		<part id="181" type="mekhq.campaign.parts.Armor">
 			<id>181</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -8484,6 +9105,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="948" type="mekhq.campaign.parts.equipment.MissingEquipmentPart">
+			<id>948</id>
+			<name>Small Laser</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Small Laser</typeName>
+			<equipmentNum>7</equipmentNum>
+			<equipTonnage>0.5</equipTonnage>
 		</part>
 		<part id="180" type="mekhq.campaign.parts.MekLocation">
 			<id>180</id>
@@ -8515,6 +9162,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="947" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>947</id>
+			<name>AC/10</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>7</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>6</equipmentNum>
+			<typeName>Autocannon/10</typeName>
+			<equipTonnage>12.0</equipTonnage>
+		</part>
 		<part id="179" type="mekhq.campaign.parts.Armor">
 			<id>179</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -8541,6 +9212,35 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="946" type="mekhq.campaign.parts.MissingMekLocation">
+			<id>946</id>
+			<name>Mech Left Arm</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<loc>5</loc>
+			<structureType>0</structureType>
+		<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
 		</part>
 		<part id="178" type="mekhq.campaign.parts.MekLocation">
 			<id>178</id>
@@ -8572,6 +9272,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="945" type="mekhq.campaign.parts.MekActuator">
+			<id>945</id>
+			<name>Foot Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>14</type>
+			<location>7</location>
+		</part>
 		<part id="177" type="mekhq.campaign.parts.MekActuator">
 			<id>177</id>
 			<name>Foot Actuator</name>
@@ -8594,6 +9317,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>14</type>
 			<location>7</location>
+		</part>
+		<part id="944" type="mekhq.campaign.parts.MekActuator">
+			<id>944</id>
+			<name>Foot Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>14</type>
+			<location>6</location>
 		</part>
 		<part id="176" type="mekhq.campaign.parts.MekActuator">
 			<id>176</id>
@@ -8618,6 +9364,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>14</type>
 			<location>6</location>
 		</part>
+		<part id="943" type="mekhq.campaign.parts.MekActuator">
+			<id>943</id>
+			<name>Lower Leg Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>13</type>
+			<location>7</location>
+		</part>
 		<part id="175" type="mekhq.campaign.parts.MekActuator">
 			<id>175</id>
 			<name>Lower Leg Actuator</name>
@@ -8640,6 +9409,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>13</type>
 			<location>7</location>
+		</part>
+		<part id="942" type="mekhq.campaign.parts.MekActuator">
+			<id>942</id>
+			<name>Lower Leg Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>13</type>
+			<location>6</location>
 		</part>
 		<part id="174" type="mekhq.campaign.parts.MekActuator">
 			<id>174</id>
@@ -8664,6 +9456,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>13</type>
 			<location>6</location>
 		</part>
+		<part id="941" type="mekhq.campaign.parts.MekActuator">
+			<id>941</id>
+			<name>Upper Leg Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>12</type>
+			<location>7</location>
+		</part>
 		<part id="173" type="mekhq.campaign.parts.MekActuator">
 			<id>173</id>
 			<name>Upper Leg Actuator</name>
@@ -8686,6 +9501,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>12</type>
 			<location>7</location>
+		</part>
+		<part id="940" type="mekhq.campaign.parts.MekActuator">
+			<id>940</id>
+			<name>Upper Leg Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>12</type>
+			<location>6</location>
 		</part>
 		<part id="172" type="mekhq.campaign.parts.MekActuator">
 			<id>172</id>
@@ -8710,6 +9548,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>12</type>
 			<location>6</location>
 		</part>
+		<part id="939" type="mekhq.campaign.parts.MekActuator">
+			<id>939</id>
+			<name>Hand Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>10</type>
+			<location>4</location>
+		</part>
 		<part id="171" type="mekhq.campaign.parts.MekActuator">
 			<id>171</id>
 			<name>Hand Actuator</name>
@@ -8733,6 +9594,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>10</type>
 			<location>5</location>
 		</part>
+		<part id="938" type="mekhq.campaign.parts.MekActuator">
+			<id>938</id>
+			<name>Lower Arm Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>9</type>
+			<location>4</location>
+		</part>
 		<part id="170" type="mekhq.campaign.parts.MekActuator">
 			<id>170</id>
 			<name>Hand Actuator</name>
@@ -8754,6 +9638,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<type>10</type>
+			<location>4</location>
+		</part>
+		<part id="937" type="mekhq.campaign.parts.MekActuator">
+			<id>937</id>
+			<name>Upper Arm Actuator</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>8</type>
 			<location>4</location>
 		</part>
 		<part id="169" type="mekhq.campaign.parts.MekActuator">
@@ -8779,6 +9686,28 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>9</type>
 			<location>5</location>
 		</part>
+		<part id="936" type="mekhq.campaign.parts.MekCockpit">
+			<id>936</id>
+			<name>Standard Cockpit</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>0</type>
+		</part>
 		<part id="168" type="mekhq.campaign.parts.MekActuator">
 			<id>168</id>
 			<name>Lower Arm Actuator</name>
@@ -8801,6 +9730,27 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>9</type>
 			<location>4</location>
+		</part>
+		<part id="935" type="mekhq.campaign.parts.MekSensor">
+			<id>935</id>
+			<name>Mech Sensors</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
 		</part>
 		<part id="167" type="mekhq.campaign.parts.MekActuator">
 			<id>167</id>
@@ -8825,6 +9775,27 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>8</type>
 			<location>5</location>
 		</part>
+		<part id="934" type="mekhq.campaign.parts.MekLifeSupport">
+			<id>934</id>
+			<name>Mech Life Support System</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+		</part>
 		<part id="166" type="mekhq.campaign.parts.MekActuator">
 			<id>166</id>
 			<name>Upper Arm Actuator</name>
@@ -8848,6 +9819,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>8</type>
 			<location>4</location>
 		</part>
+		<part id="933" type="mekhq.campaign.parts.MekGyro">
+			<id>933</id>
+			<name>Standard Gyro</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>4</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>0</type>
+			<gyroTonnage>2.0</gyroTonnage>
+		</part>
 		<part id="165" type="mekhq.campaign.parts.MekCockpit">
 			<id>165</id>
 			<name>Torso-Mounted Cockpit</name>
@@ -8870,6 +9864,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>3</type>
 		</part>
+		<part id="932" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>932</id>
+			<name>Medium Laser</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>14</equipmentNum>
+			<typeName>Medium Laser</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="164" type="mekhq.campaign.parts.MekSensor">
 			<id>164</id>
 			<name>Mech Sensors</name>
@@ -8891,6 +9909,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 		</part>
+		<part id="931" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>931</id>
+			<name>Medium Laser</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>13</equipmentNum>
+			<typeName>Medium Laser</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="163" type="mekhq.campaign.parts.MekLifeSupport">
 			<id>163</id>
 			<name>Mech Life Support System</name>
@@ -8911,6 +9953,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
+		</part>
+		<part id="930" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>930</id>
+			<name>Heat Sink</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>12</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
 		</part>
 		<part id="162" type="mekhq.campaign.parts.MekGyro">
 			<id>162</id>
@@ -8934,6 +10000,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>0</type>
 			<gyroTonnage>4.0</gyroTonnage>
+		</part>
+		<part id="929" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>929</id>
+			<name>Heat Sink</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>11</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
 		</part>
 		<part id="161" type="mekhq.campaign.parts.EnginePart">
 			<id>161</id>
@@ -8960,6 +10050,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<engineFlags>0</engineFlags>
 			<forHover>false</forHover>
 		</part>
+		<part id="928" type="mekhq.campaign.parts.equipment.AmmoBin">
+			<id>928</id>
+			<name>AC/10 Ammo Bin</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>10</equipmentNum>
+			<typeName>IS Ammo AC/10</typeName>
+			<munition>0</munition>
+			<shotsNeeded>9</shotsNeeded>
+			<checkedToday>false</checkedToday>
+			<oneShot>false</oneShot>
+		</part>
 		<part id="160" type="mekhq.campaign.parts.equipment.AmmoBin">
 			<id>160</id>
 			<name>Rotary AC/5 Ammo Bin</name>
@@ -8985,6 +10102,102 @@ Note: This ability is only used for BattleMechs.</desc>
 			<shotsNeeded>20</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
+		</part>
+		<part id="927" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>927</id>
+			<name>Heat Sink</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>9</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="926" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>926</id>
+			<name>Heat Sink</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>8</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="925" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>925</id>
+			<name>Jump Jet</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>5</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
+		<part id="923" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>923</id>
+			<name>Jump Jet</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>3</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
 		</part>
 		<part id="154" type="mekhq.campaign.parts.Armor">
 			<id>154</id>
@@ -9013,6 +10226,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="921" type="mekhq.campaign.parts.Armor">
+			<id>921</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>10</amount>
+			<type>0</type>
+			<location>7</location>
+			<rear>false</rear>
+			<amountNeeded>5</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="153" type="mekhq.campaign.parts.MekLocation">
 			<id>153</id>
 			<name>Mech Left Leg (IS Endo Steel)</name>
@@ -9035,6 +10275,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<loc>7</loc>
 			<structureType>2</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="920" type="mekhq.campaign.parts.MekLocation">
+			<id>920</id>
+			<name>Mech Left Leg</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>7</loc>
+			<structureType>0</structureType>
 			<clan>false</clan>
 			<tsm>false</tsm>
 			<percent>1.0</percent>
@@ -9070,6 +10340,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="919" type="mekhq.campaign.parts.Armor">
+			<id>919</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>6</location>
+			<rear>false</rear>
+			<amountNeeded>15</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="151" type="mekhq.campaign.parts.MekLocation">
 			<id>151</id>
 			<name>Mech Right Leg (IS Endo Steel)</name>
@@ -9095,6 +10392,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<clan>false</clan>
 			<tsm>false</tsm>
 			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="918" type="mekhq.campaign.parts.MekLocation">
+			<id>918</id>
+			<name>Mech Right Leg</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>6</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.8</percent>
 			<forQuad>false</forQuad>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
@@ -9127,6 +10454,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="917" type="mekhq.campaign.parts.Armor">
+			<id>917</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>5</location>
+			<rear>false</rear>
+			<amountNeeded>10</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="149" type="mekhq.campaign.parts.MekLocation">
 			<id>149</id>
 			<name>Mech Left Arm (IS Endo Steel)</name>
@@ -9157,6 +10511,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="916" type="mekhq.campaign.parts.Armor">
+			<id>916</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>4</location>
+			<rear>false</rear>
+			<amountNeeded>10</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="148" type="mekhq.campaign.parts.Armor">
 			<id>148</id>
 			<name>Armor (Reflective)</name>
@@ -9183,6 +10564,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="915" type="mekhq.campaign.parts.MekLocation">
+			<id>915</id>
+			<name>Mech Right Arm</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>4</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
 		</part>
 		<part id="147" type="mekhq.campaign.parts.MekLocation">
 			<id>147</id>
@@ -9214,6 +10625,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="914" type="mekhq.campaign.parts.Armor">
+			<id>914</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>6</amount>
+			<type>0</type>
+			<location>3</location>
+			<rear>true</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="146" type="mekhq.campaign.parts.Armor">
 			<id>146</id>
 			<name>Armor (Reflective)</name>
@@ -9241,6 +10679,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="913" type="mekhq.campaign.parts.Armor">
+			<id>913</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>9</amount>
+			<type>0</type>
+			<location>3</location>
+			<rear>false</rear>
+			<amountNeeded>5</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="145" type="mekhq.campaign.parts.Armor">
 			<id>145</id>
 			<name>Armor (Reflective)</name>
@@ -9267,6 +10732,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="912" type="mekhq.campaign.parts.MekLocation">
+			<id>912</id>
+			<name>Mech Left Torso</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>3</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
 		</part>
 		<part id="144" type="mekhq.campaign.parts.MekLocation">
 			<id>144</id>
@@ -9298,6 +10793,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="911" type="mekhq.campaign.parts.Armor">
+			<id>911</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>6</amount>
+			<type>0</type>
+			<location>2</location>
+			<rear>true</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="143" type="mekhq.campaign.parts.Armor">
 			<id>143</id>
 			<name>Armor (Reflective)</name>
@@ -9325,6 +10847,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="910" type="mekhq.campaign.parts.Armor">
+			<id>910</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>2</amount>
+			<type>0</type>
+			<location>2</location>
+			<rear>false</rear>
+			<amountNeeded>12</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="142" type="mekhq.campaign.parts.Armor">
 			<id>142</id>
 			<name>Armor (Reflective)</name>
@@ -9351,6 +10900,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="909" type="mekhq.campaign.parts.MekLocation">
+			<id>909</id>
+			<name>Mech Right Torso</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>2</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
 		</part>
 		<part id="141" type="mekhq.campaign.parts.MekLocation">
 			<id>141</id>
@@ -9382,6 +10961,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="908" type="mekhq.campaign.parts.Armor">
+			<id>908</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>1</location>
+			<rear>true</rear>
+			<amountNeeded>6</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="140" type="mekhq.campaign.parts.Armor">
 			<id>140</id>
 			<name>Armor (Reflective)</name>
@@ -9408,6 +11014,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>true</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="907" type="mekhq.campaign.parts.Armor">
+			<id>907</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>1</location>
+			<rear>false</rear>
+			<amountNeeded>15</amountNeeded>
+			<clan>false</clan>
 		</part>
 		<part id="139" type="mekhq.campaign.parts.Armor">
 			<id>139</id>
@@ -9436,6 +11069,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="906" type="mekhq.campaign.parts.Armor">
+			<id>906</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>4</amount>
+			<type>0</type>
+			<location>0</location>
+			<rear>false</rear>
+			<amountNeeded>5</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="138" type="mekhq.campaign.parts.MekLocation">
 			<id>138</id>
 			<name>Mech Center Torso (IS Endo Steel)</name>
@@ -9458,6 +11118,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<loc>1</loc>
 			<structureType>2</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="905" type="mekhq.campaign.parts.MekLocation">
+			<id>905</id>
+			<name>Mech Head</name>
+			<unitTonnage>40</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>1844947b-2273-4001-9cc6-046ad13148bf</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>0</loc>
+			<structureType>0</structureType>
 			<clan>false</clan>
 			<tsm>false</tsm>
 			<percent>1.0</percent>
@@ -9493,6 +11183,31 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="904" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>904</id>
+			<name>Lower Leg Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>13</type>
+			<location>7</location>
+		</part>
 		<part id="136" type="mekhq.campaign.parts.MekLocation">
 			<id>136</id>
 			<name>Mech Head (IS Endo Steel)</name>
@@ -9523,6 +11238,31 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="903" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>903</id>
+			<name>Upper Arm Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>8</type>
+			<location>5</location>
+		</part>
 		<part id="135" type="mekhq.campaign.parts.MekActuator">
 			<id>135</id>
 			<name>Foot Actuator</name>
@@ -9545,6 +11285,31 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>14</type>
 			<location>7</location>
+		</part>
+		<part id="902" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>902</id>
+			<name>Upper Arm Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>8</type>
+			<location>4</location>
 		</part>
 		<part id="134" type="mekhq.campaign.parts.MekActuator">
 			<id>134</id>
@@ -9569,6 +11334,31 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>14</type>
 			<location>6</location>
 		</part>
+		<part id="901" type="mekhq.campaign.parts.MissingMekGyro">
+			<id>901</id>
+			<name>Standard Gyro</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>0</type>
+			<gyroTonnage>2.0</gyroTonnage>
+		</part>
 		<part id="133" type="mekhq.campaign.parts.MekActuator">
 			<id>133</id>
 			<name>Lower Leg Actuator</name>
@@ -9591,6 +11381,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>13</type>
 			<location>7</location>
+		</part>
+		<part id="900" type="mekhq.campaign.parts.MissingEnginePart">
+			<id>900</id>
+			<name>180 Fusion Engine</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<engineType>1</engineType>
+			<engineRating>180</engineRating>
+			<engineFlags>0</engineFlags>
+			<forHover>false</forHover>
 		</part>
 		<part id="132" type="mekhq.campaign.parts.MekActuator">
 			<id>132</id>
@@ -9615,6 +11432,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>13</type>
 			<location>6</location>
 		</part>
+		<part id="899" type="mekhq.campaign.parts.equipment.MissingHeatSink">
+			<id>899</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Heat Sink</typeName>
+			<equipmentNum>19</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="131" type="mekhq.campaign.parts.MekActuator">
 			<id>131</id>
 			<name>Upper Leg Actuator</name>
@@ -9637,6 +11480,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>12</type>
 			<location>7</location>
+		</part>
+		<part id="898" type="mekhq.campaign.parts.equipment.MissingHeatSink">
+			<id>898</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Heat Sink</typeName>
+			<equipmentNum>17</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
 		</part>
 		<part id="130" type="mekhq.campaign.parts.MekActuator">
 			<id>130</id>
@@ -9661,6 +11530,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>12</type>
 			<location>6</location>
 		</part>
+		<part id="897" type="mekhq.campaign.parts.equipment.MissingHeatSink">
+			<id>897</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Heat Sink</typeName>
+			<equipmentNum>14</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="129" type="mekhq.campaign.parts.MekActuator">
 			<id>129</id>
 			<name>Lower Arm Actuator</name>
@@ -9684,15 +11579,15 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>9</type>
 			<location>5</location>
 		</part>
-		<part id="128" type="mekhq.campaign.parts.MekActuator">
-			<id>128</id>
-			<name>Lower Arm Actuator</name>
-			<unitTonnage>50</unitTonnage>
+		<part id="896" type="mekhq.campaign.parts.equipment.MissingHeatSink">
+			<id>896</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
-			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
@@ -9704,8 +11599,37 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<type>9</type>
-			<location>4</location>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Heat Sink</typeName>
+			<equipmentNum>13</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="895" type="mekhq.campaign.parts.equipment.MissingHeatSink">
+			<id>895</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Heat Sink</typeName>
+			<equipmentNum>12</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
 		</part>
 		<part id="127" type="mekhq.campaign.parts.MekActuator">
 			<id>127</id>
@@ -9730,6 +11654,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>8</type>
 			<location>5</location>
 		</part>
+		<part id="894" type="mekhq.campaign.parts.equipment.MissingHeatSink">
+			<id>894</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Heat Sink</typeName>
+			<equipmentNum>11</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="126" type="mekhq.campaign.parts.MekActuator">
 			<id>126</id>
 			<name>Upper Arm Actuator</name>
@@ -9753,6 +11703,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>8</type>
 			<location>4</location>
 		</part>
+		<part id="893" type="mekhq.campaign.parts.equipment.MissingHeatSink">
+			<id>893</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Heat Sink</typeName>
+			<equipmentNum>10</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="125" type="mekhq.campaign.parts.MekCockpit">
 			<id>125</id>
 			<name>Standard Cockpit</name>
@@ -9775,6 +11751,32 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>0</type>
 		</part>
+		<part id="892" type="mekhq.campaign.parts.equipment.MissingEquipmentPart">
+			<id>892</id>
+			<name>Medium Laser</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Medium Laser</typeName>
+			<equipmentNum>9</equipmentNum>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="124" type="mekhq.campaign.parts.MekSensor">
 			<id>124</id>
 			<name>Mech Sensors</name>
@@ -9796,6 +11798,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 		</part>
+		<part id="891" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>891</id>
+			<name>Medium Laser</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>1</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>7</equipmentNum>
+			<typeName>Medium Laser</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
 		<part id="123" type="mekhq.campaign.parts.MekLifeSupport">
 			<id>123</id>
 			<name>Mech Life Support System</name>
@@ -9816,6 +11842,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
+		</part>
+		<part id="890" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>890</id>
+			<name>Large Laser</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>2</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>6</equipmentNum>
+			<typeName>Large Laser</typeName>
+			<equipTonnage>5.0</equipTonnage>
 		</part>
 		<part id="122" type="mekhq.campaign.parts.MekGyro">
 			<id>122</id>
@@ -9839,6 +11889,35 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>1</type>
 			<gyroTonnage>1.5</gyroTonnage>
+		</part>
+		<part id="889" type="mekhq.campaign.parts.MissingMekLocation">
+			<id>889</id>
+			<name>Mech Left Arm</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<loc>5</loc>
+			<structureType>0</structureType>
+		<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
 		</part>
 		<part id="121" type="mekhq.campaign.parts.EnginePart">
 			<id>121</id>
@@ -9865,6 +11944,35 @@ Note: This ability is only used for BattleMechs.</desc>
 			<engineFlags>1</engineFlags>
 			<forHover>false</forHover>
 		</part>
+		<part id="888" type="mekhq.campaign.parts.MissingMekLocation">
+			<id>888</id>
+			<name>Mech Left Torso</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<loc>3</loc>
+			<structureType>0</structureType>
+		<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+		</part>
 		<part id="120" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>120</id>
 			<name>Improved Jump Jet</name>
@@ -9888,6 +11996,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>13</equipmentNum>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="887" type="mekhq.campaign.parts.MekActuator">
+			<id>887</id>
+			<name>Foot Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>14</type>
+			<location>7</location>
 		</part>
 		<part id="119" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>119</id>
@@ -9913,6 +12044,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
+		<part id="886" type="mekhq.campaign.parts.MekActuator">
+			<id>886</id>
+			<name>Foot Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>14</type>
+			<location>6</location>
+		</part>
 		<part id="118" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>118</id>
 			<name>Improved Jump Jet</name>
@@ -9936,6 +12090,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>11</equipmentNum>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="885" type="mekhq.campaign.parts.MekActuator">
+			<id>885</id>
+			<name>Lower Leg Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>13</type>
+			<location>6</location>
 		</part>
 		<part id="117" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>117</id>
@@ -9961,6 +12138,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
+		<part id="884" type="mekhq.campaign.parts.MekActuator">
+			<id>884</id>
+			<name>Upper Leg Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>12</type>
+			<location>7</location>
+		</part>
 		<part id="116" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>116</id>
 			<name>Improved Jump Jet</name>
@@ -9984,6 +12184,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>9</equipmentNum>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="883" type="mekhq.campaign.parts.MekActuator">
+			<id>883</id>
+			<name>Upper Leg Actuator</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>12</type>
+			<location>6</location>
 		</part>
 		<part id="115" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>115</id>
@@ -10009,6 +12232,28 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
+		<part id="882" type="mekhq.campaign.parts.MekCockpit">
+			<id>882</id>
+			<name>Standard Cockpit</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>0</type>
+		</part>
 		<part id="114" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>114</id>
 			<name>Improved Jump Jet</name>
@@ -10032,6 +12277,27 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>14</equipmentNum>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="881" type="mekhq.campaign.parts.MekSensor">
+			<id>881</id>
+			<name>Mech Sensors</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
 		</part>
 		<part id="113" type="mekhq.campaign.parts.equipment.JumpJet">
 			<id>113</id>
@@ -10057,6 +12323,27 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
+		<part id="880" type="mekhq.campaign.parts.MekLifeSupport">
+			<id>880</id>
+			<name>Mech Life Support System</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+		</part>
 		<part id="112" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>112</id>
 			<name>Binary Laser (Blazer) Cannon</name>
@@ -10079,6 +12366,102 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>5</equipmentNum>
 			<typeName>Binary Laser (Blazer) Cannon</typeName>
 			<equipTonnage>9.0</equipTonnage>
+		</part>
+		<part id="879" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>879</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>18</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="878" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>878</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>16</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="877" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>877</id>
+			<name>Heat Sink</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>15</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="876" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>876</id>
+			<name>Large Laser</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>8</equipmentNum>
+			<typeName>Large Laser</typeName>
+			<equipTonnage>5.0</equipTonnage>
 		</part>
 		<part id="108" type="mekhq.campaign.parts.Armor">
 			<id>108</id>
@@ -10106,6 +12489,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="875" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>875</id>
+			<name>Jump Jet</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>5</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
 		</part>
 		<part id="107" type="mekhq.campaign.parts.MekLocation">
 			<id>107</id>
@@ -10137,6 +12544,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="874" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>874</id>
+			<name>Jump Jet</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>4</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
 		<part id="106" type="mekhq.campaign.parts.Armor">
 			<id>106</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -10163,6 +12594,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="873" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>873</id>
+			<name>Jump Jet</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>3</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
 		</part>
 		<part id="105" type="mekhq.campaign.parts.MekLocation">
 			<id>105</id>
@@ -10221,6 +12676,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="871" type="mekhq.campaign.parts.Armor">
+			<id>871</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>7</location>
+			<rear>false</rear>
+			<amountNeeded>14</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="103" type="mekhq.campaign.parts.MekLocation">
 			<id>103</id>
 			<name>Mech Left Arm (IS Endo Steel)</name>
@@ -10246,6 +12728,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<clan>false</clan>
 			<tsm>false</tsm>
 			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="870" type="mekhq.campaign.parts.MekLocation">
+			<id>870</id>
+			<name>Mech Left Leg</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>7</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.36363636363636365</percent>
 			<forQuad>false</forQuad>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
@@ -10278,6 +12790,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="869" type="mekhq.campaign.parts.Armor">
+			<id>869</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>6</location>
+			<rear>false</rear>
+			<amountNeeded>14</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="101" type="mekhq.campaign.parts.MekLocation">
 			<id>101</id>
 			<name>Mech Right Arm (IS Endo Steel)</name>
@@ -10285,7 +12824,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
+			<skillMin>4</skillMin>
 			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
@@ -10302,7 +12841,37 @@ Note: This ability is only used for BattleMechs.</desc>
 			<structureType>2</structureType>
 			<clan>false</clan>
 			<tsm>false</tsm>
-			<percent>1.0</percent>
+			<percent>0.75</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="868" type="mekhq.campaign.parts.MekLocation">
+			<id>868</id>
+			<name>Mech Right Leg</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>6</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.9090909090909091</percent>
 			<forQuad>false</forQuad>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
@@ -10335,6 +12904,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="867" type="mekhq.campaign.parts.Armor">
+			<id>867</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>5</location>
+			<rear>false</rear>
+			<amountNeeded>11</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="99" type="mekhq.campaign.parts.Armor">
 			<id>99</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -10362,6 +12958,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="866" type="mekhq.campaign.parts.Armor">
+			<id>866</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>4</location>
+			<rear>false</rear>
+			<amountNeeded>11</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="98" type="mekhq.campaign.parts.MekLocation">
 			<id>98</id>
 			<name>Mech Left Torso (IS Endo Steel)</name>
@@ -10387,6 +13010,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<clan>false</clan>
 			<tsm>false</tsm>
 			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="865" type="mekhq.campaign.parts.MekLocation">
+			<id>865</id>
+			<name>Mech Right Arm</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>4</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.8571428571428571</percent>
 			<forQuad>false</forQuad>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
@@ -10419,6 +13072,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="864" type="mekhq.campaign.parts.Armor">
+			<id>864</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>3</location>
+			<rear>true</rear>
+			<amountNeeded>5</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="96" type="mekhq.campaign.parts.Armor">
 			<id>96</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -10445,6 +13125,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="863" type="mekhq.campaign.parts.Armor">
+			<id>863</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>3</location>
+			<rear>false</rear>
+			<amountNeeded>14</amountNeeded>
+			<clan>false</clan>
 		</part>
 		<part id="95" type="mekhq.campaign.parts.MekLocation">
 			<id>95</id>
@@ -10476,6 +13183,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="862" type="mekhq.campaign.parts.Armor">
+			<id>862</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>5</amount>
+			<type>0</type>
+			<location>2</location>
+			<rear>true</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="94" type="mekhq.campaign.parts.Armor">
 			<id>94</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -10503,6 +13237,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
+		<part id="861" type="mekhq.campaign.parts.Armor">
+			<id>861</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>2</location>
+			<rear>false</rear>
+			<amountNeeded>14</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="93" type="mekhq.campaign.parts.Armor">
 			<id>93</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -10529,6 +13290,36 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="860" type="mekhq.campaign.parts.MekLocation">
+			<id>860</id>
+			<name>Mech Right Torso</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>2</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.2727272727272727</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
 		</part>
 		<part id="92" type="mekhq.campaign.parts.MekLocation">
 			<id>92</id>
@@ -10560,6 +13351,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="859" type="mekhq.campaign.parts.Armor">
+			<id>859</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>1</location>
+			<rear>true</rear>
+			<amountNeeded>7</amountNeeded>
+			<clan>false</clan>
+		</part>
 		<part id="91" type="mekhq.campaign.parts.Armor">
 			<id>91</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -10586,6 +13404,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="858" type="mekhq.campaign.parts.Armor">
+			<id>858</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>0</type>
+			<location>1</location>
+			<rear>false</rear>
+			<amountNeeded>16</amountNeeded>
+			<clan>false</clan>
 		</part>
 		<part id="90" type="mekhq.campaign.parts.MekLocation">
 			<id>90</id>
@@ -10616,6 +13461,1294 @@ Note: This ability is only used for BattleMechs.</desc>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
+		</part>
+		<part id="857" type="mekhq.campaign.parts.Armor">
+			<id>857</id>
+			<name>Armor (Standard)</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>9</amount>
+			<type>0</type>
+			<location>0</location>
+			<rear>false</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="856" type="mekhq.campaign.parts.MekLocation">
+			<id>856</id>
+			<name>Mech Head</name>
+			<unitTonnage>45</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>d47c7a1a-3672-445e-985b-a85771d3106b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>0</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="855" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>855</id>
+			<name>Hand Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>10</type>
+			<location>5</location>
+		</part>
+		<part id="854" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>854</id>
+			<name>Hand Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>10</type>
+			<location>4</location>
+		</part>
+		<part id="853" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>853</id>
+			<name>Lower Arm Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>9</type>
+			<location>5</location>
+		</part>
+		<part id="852" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>852</id>
+			<name>Upper Arm Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>8</type>
+			<location>5</location>
+		</part>
+		<part id="851" type="mekhq.campaign.parts.MissingMekActuator">
+			<id>851</id>
+			<name>Upper Arm Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<type>8</type>
+			<location>4</location>
+		</part>
+		<part id="850" type="mekhq.campaign.parts.equipment.MissingEquipmentPart">
+			<id>850</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>ISMediumPulseLaser</typeName>
+			<equipmentNum>12</equipmentNum>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="849" type="mekhq.campaign.parts.equipment.MissingJumpJet">
+			<id>849</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Jump Jet</typeName>
+			<equipmentNum>11</equipmentNum>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
+		<part id="848" type="mekhq.campaign.parts.equipment.MissingJumpJet">
+			<id>848</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Jump Jet</typeName>
+			<equipmentNum>10</equipmentNum>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
+		<part id="847" type="mekhq.campaign.parts.equipment.MissingJumpJet">
+			<id>847</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<typeName>Jump Jet</typeName>
+			<equipmentNum>8</equipmentNum>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
+		<part id="846" type="mekhq.campaign.parts.MissingMekLocation">
+			<id>846</id>
+			<name>Mech Left Arm</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<loc>5</loc>
+			<structureType>0</structureType>
+		<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+		</part>
+		<part id="845" type="mekhq.campaign.parts.MissingMekLocation">
+			<id>845</id>
+			<name>Mech Right Arm</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<loc>4</loc>
+			<structureType>0</structureType>
+		<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+		</part>
+		<part id="844" type="mekhq.campaign.parts.MissingMekLocation">
+			<id>844</id>
+			<name>Mech Right Torso</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<loc>2</loc>
+			<structureType>0</structureType>
+		<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+		</part>
+		<part id="843" type="mekhq.campaign.parts.MekActuator">
+			<id>843</id>
+			<name>Foot Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>14</type>
+			<location>7</location>
+		</part>
+		<part id="842" type="mekhq.campaign.parts.MekActuator">
+			<id>842</id>
+			<name>Foot Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>14</type>
+			<location>6</location>
+		</part>
+		<part id="841" type="mekhq.campaign.parts.MekActuator">
+			<id>841</id>
+			<name>Lower Leg Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>13</type>
+			<location>7</location>
+		</part>
+		<part id="840" type="mekhq.campaign.parts.MekActuator">
+			<id>840</id>
+			<name>Lower Leg Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>13</type>
+			<location>6</location>
+		</part>
+		<part id="839" type="mekhq.campaign.parts.MekActuator">
+			<id>839</id>
+			<name>Upper Leg Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>12</type>
+			<location>7</location>
+		</part>
+		<part id="838" type="mekhq.campaign.parts.MekActuator">
+			<id>838</id>
+			<name>Upper Leg Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>12</type>
+			<location>6</location>
+		</part>
+		<part id="837" type="mekhq.campaign.parts.MekActuator">
+			<id>837</id>
+			<name>Lower Arm Actuator</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>1</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>9</type>
+			<location>4</location>
+		</part>
+		<part id="836" type="mekhq.campaign.parts.MekCockpit">
+			<id>836</id>
+			<name>Standard Cockpit</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>0</type>
+		</part>
+		<part id="835" type="mekhq.campaign.parts.MekSensor">
+			<id>835</id>
+			<name>Mech Sensors</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+		</part>
+		<part id="834" type="mekhq.campaign.parts.MekLifeSupport">
+			<id>834</id>
+			<name>Mech Life Support System</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+		</part>
+		<part id="833" type="mekhq.campaign.parts.MekGyro">
+			<id>833</id>
+			<name>Standard Gyro</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>2</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>0</type>
+			<gyroTonnage>3.0</gyroTonnage>
+		</part>
+		<part id="832" type="mekhq.campaign.parts.EnginePart">
+			<id>832</id>
+			<name>280 XL Engine</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>5</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<engineType>2</engineType>
+			<engineRating>280</engineRating>
+			<engineFlags>0</engineFlags>
+			<forHover>false</forHover>
+		</part>
+		<part id="831" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>831</id>
+			<name>Heat Sink</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>13</equipmentNum>
+			<typeName>Heat Sink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="830" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>830</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>1</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>9</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
+		<part id="829" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>829</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>7</equipmentNum>
+			<typeName>ISMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="828" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>828</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>6</equipmentNum>
+			<typeName>ISMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="827" type="mekhq.campaign.parts.equipment.JumpJet">
+			<id>827</id>
+			<name>Jump Jet</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>5</equipmentNum>
+			<typeName>Jump Jet</typeName>
+			<equipTonnage>0.5</equipTonnage>
+		</part>
+		<part id="823" type="mekhq.campaign.parts.Armor">
+			<id>823</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>10</amount>
+			<type>1</type>
+			<location>7</location>
+			<rear>false</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="822" type="mekhq.campaign.parts.MekLocation">
+			<id>822</id>
+			<name>Mech Left Leg</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>7</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="821" type="mekhq.campaign.parts.Armor">
+			<id>821</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>6</location>
+			<rear>false</rear>
+			<amountNeeded>10</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="820" type="mekhq.campaign.parts.MekLocation">
+			<id>820</id>
+			<name>Mech Right Leg</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>6</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.5</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="819" type="mekhq.campaign.parts.Armor">
+			<id>819</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>5</location>
+			<rear>false</rear>
+			<amountNeeded>10</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="818" type="mekhq.campaign.parts.Armor">
+			<id>818</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>4</location>
+			<rear>false</rear>
+			<amountNeeded>10</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="817" type="mekhq.campaign.parts.Armor">
+			<id>817</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>3</location>
+			<rear>true</rear>
+			<amountNeeded>3</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="816" type="mekhq.campaign.parts.Armor">
+			<id>816</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>3</location>
+			<rear>false</rear>
+			<amountNeeded>13</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="815" type="mekhq.campaign.parts.MekLocation">
+			<id>815</id>
+			<name>Mech Left Torso</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>3</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.125</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="814" type="mekhq.campaign.parts.Armor">
+			<id>814</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>2</location>
+			<rear>true</rear>
+			<amountNeeded>3</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="813" type="mekhq.campaign.parts.Armor">
+			<id>813</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>2</location>
+			<rear>false</rear>
+			<amountNeeded>13</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="812" type="mekhq.campaign.parts.Armor">
+			<id>812</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>0</amount>
+			<type>1</type>
+			<location>1</location>
+			<rear>true</rear>
+			<amountNeeded>3</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="811" type="mekhq.campaign.parts.Armor">
+			<id>811</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>5</amount>
+			<type>1</type>
+			<location>1</location>
+			<rear>false</rear>
+			<amountNeeded>9</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="810" type="mekhq.campaign.parts.MekLocation">
+			<id>810</id>
+			<name>Mech Center Torso</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>1</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>0.6363636363636364</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="809" type="mekhq.campaign.parts.Armor">
+			<id>809</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>9</amount>
+			<type>1</type>
+			<location>0</location>
+			<rear>false</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="808" type="mekhq.campaign.parts.MekLocation">
+			<id>808</id>
+			<name>Mech Head</name>
+			<unitTonnage>35</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>91cde6e8-4d50-49d9-94e1-e22db3081f03</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>0</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>false</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="806" type="mekhq.campaign.parts.equipment.AmmoBin">
+			<id>806</id>
+			<name>Streak LRM 15 Ammo Bin</name>
+			<unitTonnage>55</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>4</equipmentNum>
+			<typeName>Clan Streak LRM 15 Ammo</typeName>
+			<munition>0</munition>
+			<shotsNeeded>0</shotsNeeded>
+			<checkedToday>false</checkedToday>
+			<oneShot>false</oneShot>
+		</part>
+		<part id="805" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>805</id>
+			<name>Rotary AC/5</name>
+			<unitTonnage>55</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>3</equipmentNum>
+			<typeName>CLRotaryAC5</typeName>
+			<equipTonnage>10.0</equipTonnage>
+		</part>
+		<part id="804" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>804</id>
+			<name>Streak LRM 15</name>
+			<unitTonnage>55</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>2</equipmentNum>
+			<typeName>CLStreakLRM15</typeName>
+			<equipTonnage>7.0</equipTonnage>
 		</part>
 		<part id="803" type="mekhq.campaign.parts.MekActuator">
 			<id>803</id>
@@ -11044,81 +15177,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
-		</part>
-		<part id="785" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>785</id>
-			<name>Streak LRM 15 Ammo Bin</name>
-			<unitTonnage>55</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>4</equipmentNum>
-			<typeName>Clan Streak LRM 15 Ammo</typeName>
-			<munition>0</munition>
-			<shotsNeeded>0</shotsNeeded>
-			<checkedToday>false</checkedToday>
-			<oneShot>false</oneShot>
-		</part>
-		<part id="784" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>784</id>
-			<name>Rotary AC/5</name>
-			<unitTonnage>55</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>3</equipmentNum>
-			<typeName>CLRotaryAC5</typeName>
-			<equipTonnage>10.0</equipTonnage>
-		</part>
-		<part id="783" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>783</id>
-			<name>Streak LRM 15</name>
-			<unitTonnage>55</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>2</equipmentNum>
-			<typeName>CLStreakLRM15</typeName>
-			<equipTonnage>7.0</equipTonnage>
 		</part>
 		<part id="782" type="mekhq.campaign.parts.Armor">
 			<id>782</id>
