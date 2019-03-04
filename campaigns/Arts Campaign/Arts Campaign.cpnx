@@ -321,7 +321,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>7</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -339,7 +339,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>7</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>6</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -362,7 +362,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>7</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>5</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -380,7 +380,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>7</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -424,7 +424,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>7</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -442,7 +442,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>7</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>6</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -1497,7 +1497,7 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>7</scenarioId>
 			<units>
 				<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72"/>
 				<unit id="7055e444-c471-41d0-b2c3-7f933cac2dfd"/>
