@@ -21,10 +21,10 @@
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
 		<lastTeamId>0</lastTeamId>
-		<lastPartId>2968</lastPartId>
+		<lastPartId>2971</lastPartId>
 		<lastForceId>1</lastForceId>
-		<lastMissionId>2</lastMissionId>
-		<lastScenarioId>9</lastScenarioId>
+		<lastMissionId>3</lastMissionId>
+		<lastScenarioId>10</lastScenarioId>
 		<calendar>3077-05-09 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -380,7 +380,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>10</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>1</daysActivelyMaintained>
@@ -420,11 +420,13 @@
 					<slot index="4" type="Clan Streak LRM 15 Ammo" shots="8"/>
 				</location>
 			</entity>
+			<driverId>ea523c3c-d20b-41cd-bd79-0242efc267b6</driverId>
+			<gunnerId>ea523c3c-d20b-41cd-bd79-0242efc267b6</gunnerId>
 			<techId>6c7ee68c-4f5c-4a05-958e-be513d6cfa0f</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>-1</forceId>
-			<scenarioId>-1</scenarioId>
+			<forceId>0</forceId>
+			<scenarioId>10</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>3</daysActivelyMaintained>
@@ -443,7 +445,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>10</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>1</daysActivelyMaintained>
@@ -467,12 +469,10 @@
 					<slot index="9" type="ISRotaryAC5 Ammo" shots="20"/>
 				</location>
 			</entity>
-			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
-			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
 			<techId>8ad0f7cb-cca7-4f06-99e1-0854a1f6780b</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>0</forceId>
+			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
@@ -514,7 +514,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>10</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -532,13 +532,13 @@
 					<slot index="12" type="IS Ammo MML-5 SRM Artemis-capable" shots="20"/>
 				</location>
 			</entity>
-			<driverId>ea523c3c-d20b-41cd-bd79-0242efc267b6</driverId>
-			<gunnerId>ea523c3c-d20b-41cd-bd79-0242efc267b6</gunnerId>
+			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
+			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
 			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>10</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -622,7 +622,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>10</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>6</daysSinceMaintenance>
 			<daysActivelyMaintained>3</daysActivelyMaintained>
@@ -719,7 +719,7 @@
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
 			<nTasks>0</nTasks>
-			<unitId>9039fabe-890c-4174-9299-2f1edddafb53</unitId>
+			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -735,13 +735,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -763,6 +763,7 @@
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Gladiator GLD-5R</desc></logEntry>
 				<logEntry><date>3077-05-09 12:00:00</date><desc>Reassigned to Gladiator GLD-5R Mk II</desc></logEntry>
+				<logEntry><date>3077-05-09 12:00:00</date><desc>Reassigned to Hoplite HOP-4XD</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -810,13 +811,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -859,7 +860,7 @@
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
 			<nTasks>0</nTasks>
-			<unitId>ce0138ea-1990-4201-9df9-13b64cb95fc0</unitId>
+			<unitId>9039fabe-890c-4174-9299-2f1edddafb53</unitId>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -875,13 +876,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -903,6 +904,7 @@
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Grim Reaper GRM-R-PR31</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Rifleman RFL-8D</desc></logEntry>
+				<logEntry><date>3077-05-09 12:00:00</date><desc>Reassigned to Gladiator GLD-5R Mk II</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -951,12 +953,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1304,12 +1306,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-09-05 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1479,13 +1481,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1539,12 +1541,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1561,6 +1563,138 @@
 				<logEntry><date>3077-04-19 12:00:00</date><desc>Participated in Stolen Arms during mission Hauptmann</desc></logEntry>
 				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc></logEntry>
+				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="ebe7bc91-c464-4a81-bd40-49c862a5adae" type="mekhq.campaign.personnel.Person">
+			<name>Waheeda  Dhupam</name>
+			<callsign></callsign>
+			<primaryRole>1</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>ebe7bc91-c464-4a81-bd40-49c862a5adae</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>1</xp>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
+			<gender>1</gender>
+			<rank>-2</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>0</nTasks>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>1</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>0</hits>
+			<toughness>0</toughness>
+			<minutesLeft>0</minutesLeft>
+			<overtimeLeft>0</overtimeLeft>
+			<birthday>3056-06-20 12:00:00</birthday>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Piloting/Mech</type>
+				<level>5</level>
+				<bonus>0</bonus>
+			</skill>
+			<personnelLog>
+				<logEntry><date>3077-04-24 12:00:00</date><desc>Made Prisoner Art</desc></logEntry>
+				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="2c5fa8bb-3073-4231-84dd-e9fd7dd2c743" type="mekhq.campaign.personnel.Person">
+			<name>Sandy</name>
+			<callsign></callsign>
+			<primaryRole>1</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>6</xp>
+			<daysToWaitForHealing>1</daysToWaitForHealing>
+			<gender>0</gender>
+			<rank>0</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>0</nTasks>
+			<unitId>39ca108a-d98d-4ef6-a1e3-ab494107ecce</unitId>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>0</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>0</hits>
+			<toughness>0</toughness>
+			<minutesLeft>0</minutesLeft>
+			<overtimeLeft>0</overtimeLeft>
+			<birthday>3050-11-25 12:00:00</birthday>
+			<skill>
+				<type>Tactics</type>
+				<level>2</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>2</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Piloting/Mech</type>
+				<level>4</level>
+				<bonus>0</bonus>
+			</skill>
+			<edge>edge 3</edge>
+			<personnelLog>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Legionnaire LGN-2X1 MUSE FIRE</desc></logEntry>
+				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
+				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
+				<logEntry><date>3077-04-19 12:00:00</date><desc>Participated in Stolen Arms during mission Hauptmann</desc></logEntry>
+				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
+				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc></logEntry>
+				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Griffin GRF-3M</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
@@ -1610,14 +1744,14 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
 				<type>Gunnery/Mech</type>
 				<level>4</level>
 				<bonus>1</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>4</level>
+				<bonus>0</bonus>
 			</skill>
 			<skill>
 				<type>Piloting/Mech</type>
@@ -1636,197 +1770,6 @@
 				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc></logEntry>
-			</personnelLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="2c5fa8bb-3073-4231-84dd-e9fd7dd2c743" type="mekhq.campaign.personnel.Person">
-			<name>Sandy</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>6</xp>
-			<daysToWaitForHealing>1</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>0</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<unitId>39ca108a-d98d-4ef6-a1e3-ab494107ecce</unitId>
-			<salary>-1</salary>
-			<status>0</status>
-			<prisonerstatus>0</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3050-11-25 12:00:00</birthday>
-			<skill>
-				<type>Tactics</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<edge>edge 3</edge>
-			<personnelLog>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Joined Art</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Legionnaire LGN-2X1 MUSE FIRE</desc></logEntry>
-				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc></logEntry>
-				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc></logEntry>
-				<logEntry><date>3077-04-19 12:00:00</date><desc>Participated in Stolen Arms during mission Hauptmann</desc></logEntry>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
-				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc></logEntry>
-				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Griffin GRF-3M</desc></logEntry>
-				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc></logEntry>
-			</personnelLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="ebe7bc91-c464-4a81-bd40-49c862a5adae" type="mekhq.campaign.personnel.Person">
-			<name>Waheeda  Dhupam</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>ebe7bc91-c464-4a81-bd40-49c862a5adae</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3056-06-20 12:00:00</birthday>
-			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Made Prisoner Art</desc></logEntry>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
-			</personnelLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="d7d598c0-9773-43c9-8a02-be18667afb96" type="mekhq.campaign.personnel.Person">
-			<name>Dan Xuan</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>d7d598c0-9773-43c9-8a02-be18667afb96</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3040-01-02 12:00:00</birthday>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Made Prisoner Art</desc></logEntry>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -1875,6 +1818,65 @@
 			</skill>
 			<personnelLog>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Joined Art</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="d7d598c0-9773-43c9-8a02-be18667afb96" type="mekhq.campaign.personnel.Person">
+			<name>Dan Xuan</name>
+			<callsign></callsign>
+			<primaryRole>1</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>d7d598c0-9773-43c9-8a02-be18667afb96</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>1</xp>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
+			<gender>0</gender>
+			<rank>-2</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>0</nTasks>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>1</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>0</hits>
+			<toughness>0</toughness>
+			<minutesLeft>0</minutesLeft>
+			<overtimeLeft>0</overtimeLeft>
+			<birthday>3040-01-02 12:00:00</birthday>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>2</level>
+				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Piloting/Mech</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<personnelLog>
+				<logEntry><date>3077-04-24 12:00:00</date><desc>Made Prisoner Art</desc></logEntry>
+				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -1993,54 +1995,6 @@
 			<originalUnitTech>0</originalUnitTech>
 			<acquisitions>0</acquisitions>
 <extraData/>		</person>
-		<person id="95e96b95-1693-46cb-9e23-cc3e899ae4af" type="mekhq.campaign.personnel.Person">
-			<name>Eric Chang</name>
-			<callsign></callsign>
-			<primaryRole>20</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>95e96b95-1693-46cb-9e23-cc3e899ae4af</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>0</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>0</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>6</nTasks>
-			<salary>-1</salary>
-			<status>0</status>
-			<prisonerstatus>0</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>480</minutesLeft>
-			<overtimeLeft>240</overtimeLeft>
-			<birthday>3051-12-31 12:00:00</birthday>
-			<skill>
-				<type>Doctor</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-19 12:00:00</date><desc>Joined Art</desc></logEntry>
-			</personnelLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
 		<person id="e5856c30-b7c7-4642-aaaf-d1e1a03fcbda" type="mekhq.campaign.personnel.Person">
 			<name>Mae Hoang</name>
 			<callsign></callsign>
@@ -2083,6 +2037,54 @@
 			</skill>
 			<personnelLog>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Joined Art</desc></logEntry>
+			</personnelLog>
+			<founder>false</founder>
+			<originalUnitWeight>0</originalUnitWeight>
+			<originalUnitTech>0</originalUnitTech>
+			<acquisitions>0</acquisitions>
+<extraData/>		</person>
+		<person id="95e96b95-1693-46cb-9e23-cc3e899ae4af" type="mekhq.campaign.personnel.Person">
+			<name>Eric Chang</name>
+			<callsign></callsign>
+			<primaryRole>20</primaryRole>
+			<secondaryRole>0</secondaryRole>
+			<primaryDesignator>0</primaryDesignator>
+			<secondaryDesignator>0</secondaryDesignator>
+			<commander>false</commander>
+			<dependent>false</dependent>
+			<clan>false</clan>
+			<phenotype>0</phenotype>
+			<bloodname></bloodname>
+			<biography></biography>
+			<idleMonths>-1</idleMonths>
+			<id>95e96b95-1693-46cb-9e23-cc3e899ae4af</id>
+			<portraitCategory>-- General --</portraitCategory>
+			<portraitFile>None</portraitFile>
+			<xp>0</xp>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
+			<gender>0</gender>
+			<rank>0</rank>
+			<rankLevel>0</rankLevel>
+			<rankSystem>-1</rankSystem>
+			<maneiDominiRank>-1</maneiDominiRank>
+			<maneiDominiClass>0</maneiDominiClass>
+			<nTasks>6</nTasks>
+			<salary>-1</salary>
+			<status>0</status>
+			<prisonerstatus>0</prisonerstatus>
+			<willingToDefect>false</willingToDefect>
+			<hits>0</hits>
+			<toughness>0</toughness>
+			<minutesLeft>480</minutesLeft>
+			<overtimeLeft>240</overtimeLeft>
+			<birthday>3051-12-31 12:00:00</birthday>
+			<skill>
+				<type>Doctor</type>
+				<level>3</level>
+				<bonus>0</bonus>
+			</skill>
+			<personnelLog>
+				<logEntry><date>3077-04-19 12:00:00</date><desc>Joined Art</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -2182,13 +2184,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2241,12 +2243,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-02-25 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2268,6 +2270,23 @@
 	<ancestors>
 	</ancestors>
 	<missions>
+		<mission id="3" type="mekhq.campaign.mission.Mission">
+			<name>The Rush Job</name>
+			<type></type>
+			<planetId>Unknown Planet</planetId>
+			<status>0</status>
+			<desc></desc>
+			<id>3</id>
+			<scenarios>
+				<scenario id="10" type="mekhq.campaign.mission.Scenario">
+					<name>Hanson&apos;s Hairdresser Delivery</name>
+					<desc></desc>
+					<report></report>
+					<status>0</status>
+					<id>10</id>
+				</scenario>
+			</scenarios>
+		</mission>
 		<mission id="2" type="mekhq.campaign.mission.Mission">
 			<name>Hauptmann</name>
 			<type>Company Contract</type>
@@ -2659,13 +2678,13 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>10</scenarioId>
 			<units>
-				<unit id="9039fabe-890c-4174-9299-2f1edddafb53"/>
+				<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72"/>
 				<unit id="814205df-e7bd-4ec0-8848-029ced9922c4"/>
 				<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b"/>
 				<unit id="39ca108a-d98d-4ef6-a1e3-ab494107ecce"/>
-				<unit id="ce0138ea-1990-4201-9df9-13b64cb95fc0"/>
+				<unit id="9039fabe-890c-4174-9299-2f1edddafb53"/>
 				<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61"/>
 			</units>
 		</force>
@@ -3611,12 +3630,12 @@
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -3648,12 +3667,12 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -3699,12 +3718,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -3719,13 +3738,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 		<ability>
@@ -3751,26 +3790,6 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Oblique Attacker (aToW)</displayName>
 			<lookupName>oblique_attacker</lookupName>
 			<desc>The penalty for indirect fire is reduced by one.</desc>
@@ -3781,11 +3800,11 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -3800,12 +3819,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Battlesuit</skill>
-				<skill>Gunnery/Aerospace</skill>
+				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Spacecraft</skill>
-				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Aerospace</skill>
 				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Mech</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -3821,22 +3840,6 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Tactical Genius (aToW)</displayName>
-			<lookupName>tactical_genius</lookupName>
-			<desc>A pilot who has a Tactical Genius may reroll their initiative once per turn.
- The second roll must be accepted.
-Note: Only one Tactical Genius may be utilized per team.</desc>
-			<xpCost>8</xpCost>
-			<weight>1</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Tactics::Green</skill>
 			</skillPrereq>
 		</ability>
 		<ability>
@@ -3856,6 +3859,22 @@ Note: Only one Tactical Genius may be utilized per team.</desc>
 				<skill>Piloting/VTOL::Regular</skill>
 				<skill>Piloting/Aircraft::Regular</skill>
 				<skill>Piloting/Mech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Tactical Genius (aToW)</displayName>
+			<lookupName>tactical_genius</lookupName>
+			<desc>A pilot who has a Tactical Genius may reroll their initiative once per turn.
+ The second roll must be accepted.
+Note: Only one Tactical Genius may be utilized per team.</desc>
+			<xpCost>8</xpCost>
+			<weight>1</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Tactics::Green</skill>
 			</skillPrereq>
 		</ability>
 		<ability>
@@ -3898,12 +3917,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -3935,11 +3954,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -3954,12 +3973,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -3974,12 +3993,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -18471,33 +18490,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
-		<part id="1674" type="mekhq.campaign.parts.Armor">
-			<id>1674</id>
-			<name>Armor (Ferro-Fibrous)</name>
-			<unitTonnage>55</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>cd89d99b-69bc-420f-8911-b0a12ce48f87</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<amount>0</amount>
-			<type>1</type>
-			<location>6</location>
-			<rear>false</rear>
-			<amountNeeded>26</amountNeeded>
-			<clan>false</clan>
-		</part>
 		<part id="139" type="mekhq.campaign.parts.Armor">
 			<id>139</id>
 			<name>Armor (Reflective)</name>
@@ -18525,9 +18517,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
-		<part id="1673" type="mekhq.campaign.parts.MekLocation">
-			<id>1673</id>
-			<name>Mech Right Leg (TSM)</name>
+		<part id="1674" type="mekhq.campaign.parts.Armor">
+			<id>1674</id>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>55</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -18545,15 +18537,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<loc>6</loc>
-			<structureType>0</structureType>
+			<amount>0</amount>
+			<type>1</type>
+			<location>6</location>
+			<rear>false</rear>
+			<amountNeeded>26</amountNeeded>
 			<clan>false</clan>
-			<tsm>true</tsm>
-			<percent>1.0</percent>
-			<forQuad>false</forQuad>
-			<sensors>false</sensors>
-			<lifeSupport>false</lifeSupport>
-			<breached>false</breached>
 		</part>
 		<part id="138" type="mekhq.campaign.parts.MekLocation">
 			<id>138</id>
@@ -18585,9 +18574,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
-		<part id="1672" type="mekhq.campaign.parts.Armor">
-			<id>1672</id>
-			<name>Armor (Ferro-Fibrous)</name>
+		<part id="1673" type="mekhq.campaign.parts.MekLocation">
+			<id>1673</id>
+			<name>Mech Right Leg (TSM)</name>
 			<unitTonnage>55</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -18605,12 +18594,15 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>8</amount>
-			<type>1</type>
-			<location>5</location>
-			<rear>false</rear>
-			<amountNeeded>10</amountNeeded>
+			<loc>6</loc>
+			<structureType>0</structureType>
 			<clan>false</clan>
+			<tsm>true</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
 		</part>
 		<part id="137" type="mekhq.campaign.parts.Armor">
 			<id>137</id>
@@ -18639,9 +18631,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
-		<part id="1671" type="mekhq.campaign.parts.MekLocation">
-			<id>1671</id>
-			<name>Mech Left Arm (TSM)</name>
+		<part id="1672" type="mekhq.campaign.parts.Armor">
+			<id>1672</id>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>55</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -18659,15 +18651,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<loc>5</loc>
-			<structureType>0</structureType>
+			<amount>8</amount>
+			<type>1</type>
+			<location>5</location>
+			<rear>false</rear>
+			<amountNeeded>10</amountNeeded>
 			<clan>false</clan>
-			<tsm>true</tsm>
-			<percent>1.0</percent>
-			<forQuad>false</forQuad>
-			<sensors>false</sensors>
-			<lifeSupport>false</lifeSupport>
-			<breached>false</breached>
 		</part>
 		<part id="136" type="mekhq.campaign.parts.MekLocation">
 			<id>136</id>
@@ -18699,6 +18688,59 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="1671" type="mekhq.campaign.parts.MekLocation">
+			<id>1671</id>
+			<name>Mech Left Arm (TSM)</name>
+			<unitTonnage>55</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>cd89d99b-69bc-420f-8911-b0a12ce48f87</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<loc>5</loc>
+			<structureType>0</structureType>
+			<clan>false</clan>
+			<tsm>true</tsm>
+			<percent>1.0</percent>
+			<forQuad>false</forQuad>
+			<sensors>false</sensors>
+			<lifeSupport>false</lifeSupport>
+			<breached>false</breached>
+		</part>
+		<part id="135" type="mekhq.campaign.parts.MekActuator">
+			<id>135</id>
+			<name>Foot Actuator</name>
+			<unitTonnage>50</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>14</type>
+			<location>7</location>
+		</part>
 		<part id="1670" type="mekhq.campaign.parts.Armor">
 			<id>1670</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -18726,8 +18768,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>18</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="135" type="mekhq.campaign.parts.MekActuator">
-			<id>135</id>
+		<part id="134" type="mekhq.campaign.parts.MekActuator">
+			<id>134</id>
 			<name>Foot Actuator</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
@@ -18747,7 +18789,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<type>14</type>
-			<location>7</location>
+			<location>6</location>
 		</part>
 		<part id="1669" type="mekhq.campaign.parts.MekLocation">
 			<id>1669</id>
@@ -18779,9 +18821,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
-		<part id="134" type="mekhq.campaign.parts.MekActuator">
-			<id>134</id>
-			<name>Foot Actuator</name>
+		<part id="133" type="mekhq.campaign.parts.MekActuator">
+			<id>133</id>
+			<name>Lower Leg Actuator</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -18799,8 +18841,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<type>14</type>
-			<location>6</location>
+			<type>13</type>
+			<location>7</location>
 		</part>
 		<part id="1668" type="mekhq.campaign.parts.Armor">
 			<id>1668</id>
@@ -18829,8 +18871,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="133" type="mekhq.campaign.parts.MekActuator">
-			<id>133</id>
+		<part id="132" type="mekhq.campaign.parts.MekActuator">
+			<id>132</id>
 			<name>Lower Leg Actuator</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
@@ -18850,7 +18892,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<type>13</type>
-			<location>7</location>
+			<location>6</location>
 		</part>
 		<part id="1667" type="mekhq.campaign.parts.Armor">
 			<id>1667</id>
@@ -18879,9 +18921,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>1</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="132" type="mekhq.campaign.parts.MekActuator">
-			<id>132</id>
-			<name>Lower Leg Actuator</name>
+		<part id="131" type="mekhq.campaign.parts.MekActuator">
+			<id>131</id>
+			<name>Upper Leg Actuator</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -18899,8 +18941,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<type>13</type>
-			<location>6</location>
+			<type>12</type>
+			<location>7</location>
 		</part>
 		<part id="1666" type="mekhq.campaign.parts.MekLocation">
 			<id>1666</id>
@@ -18932,8 +18974,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
-		<part id="131" type="mekhq.campaign.parts.MekActuator">
-			<id>131</id>
+		<part id="130" type="mekhq.campaign.parts.MekActuator">
+			<id>130</id>
 			<name>Upper Leg Actuator</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
@@ -18953,7 +18995,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<type>12</type>
-			<location>7</location>
+			<location>6</location>
 		</part>
 		<part id="1665" type="mekhq.campaign.parts.Armor">
 			<id>1665</id>
@@ -18982,9 +19024,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="130" type="mekhq.campaign.parts.MekActuator">
-			<id>130</id>
-			<name>Upper Leg Actuator</name>
+		<part id="129" type="mekhq.campaign.parts.MekActuator">
+			<id>129</id>
+			<name>Lower Arm Actuator</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -19002,8 +19044,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<type>12</type>
-			<location>6</location>
+			<type>9</type>
+			<location>5</location>
 		</part>
 		<part id="1664" type="mekhq.campaign.parts.Armor">
 			<id>1664</id>
@@ -19031,29 +19073,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>18</amountNeeded>
 			<clan>false</clan>
-		</part>
-		<part id="129" type="mekhq.campaign.parts.MekActuator">
-			<id>129</id>
-			<name>Lower Arm Actuator</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<type>9</type>
-			<location>5</location>
 		</part>
 		<part id="1663" type="mekhq.campaign.parts.MekLocation">
 			<id>1663</id>
@@ -19085,6 +19104,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
+		<part id="127" type="mekhq.campaign.parts.MekActuator">
+			<id>127</id>
+			<name>Upper Arm Actuator</name>
+			<unitTonnage>50</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<type>8</type>
+			<location>5</location>
+		</part>
 		<part id="1662" type="mekhq.campaign.parts.Armor">
 			<id>1662</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -19112,8 +19154,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>10</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="127" type="mekhq.campaign.parts.MekActuator">
-			<id>127</id>
+		<part id="126" type="mekhq.campaign.parts.MekActuator">
+			<id>126</id>
 			<name>Upper Arm Actuator</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
@@ -19133,7 +19175,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<type>8</type>
-			<location>5</location>
+			<location>4</location>
 		</part>
 		<part id="1661" type="mekhq.campaign.parts.Armor">
 			<id>1661</id>
@@ -19162,29 +19204,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>26</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="126" type="mekhq.campaign.parts.MekActuator">
-			<id>126</id>
-			<name>Upper Arm Actuator</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<type>8</type>
-			<location>4</location>
-		</part>
 		<part id="125" type="mekhq.campaign.parts.MekCockpit">
 			<id>125</id>
 			<name>Standard Cockpit</name>
@@ -19206,6 +19225,27 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<type>0</type>
+		</part>
+		<part id="124" type="mekhq.campaign.parts.MekSensor">
+			<id>124</id>
+			<name>Mech Sensors</name>
+			<unitTonnage>50</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
 		</part>
 		<part id="1659" type="mekhq.campaign.parts.Armor">
 			<id>1659</id>
@@ -19234,9 +19274,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="124" type="mekhq.campaign.parts.MekSensor">
-			<id>124</id>
-			<name>Mech Sensors</name>
+		<part id="123" type="mekhq.campaign.parts.MekLifeSupport">
+			<id>123</id>
+			<name>Mech Life Support System</name>
 			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -19284,27 +19324,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
-		</part>
-		<part id="123" type="mekhq.campaign.parts.MekLifeSupport">
-			<id>123</id>
-			<name>Mech Life Support System</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
 		</part>
 		<part id="122" type="mekhq.campaign.parts.MekGyro">
 			<id>122</id>
@@ -19764,30 +19783,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
-		<part id="1637" type="mekhq.campaign.parts.AmmoStorage">
-			<id>1637</id>
-			<name>LRM 15 Artemis-capable Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>IS Ammo LRM-15 Artemis-capable</typeName>
-			<munition>8192</munition>
-			<shots>19</shots>
-		</part>
 		<part id="102" type="mekhq.campaign.parts.Armor">
 			<id>102</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -19814,6 +19809,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="1637" type="mekhq.campaign.parts.AmmoStorage">
+			<id>1637</id>
+			<name>LRM 15 Artemis-capable Ammo</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>IS Ammo LRM-15 Artemis-capable</typeName>
+			<munition>8192</munition>
+			<shots>19</shots>
 		</part>
 		<part id="101" type="mekhq.campaign.parts.MekLocation">
 			<id>101</id>
@@ -20097,30 +20116,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
 		</part>
-		<part id="1626" type="mekhq.campaign.parts.AmmoStorage">
-			<id>1626</id>
-			<name>Streak SRM 2 Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Streak SRM 2 Ammo</typeName>
-			<munition>0</munition>
-			<shots>50</shots>
-		</part>
 		<part id="91" type="mekhq.campaign.parts.Armor">
 			<id>91</id>
 			<name>Armor (Ferro-Fibrous)</name>
@@ -20147,6 +20142,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
+		</part>
+		<part id="1626" type="mekhq.campaign.parts.AmmoStorage">
+			<id>1626</id>
+			<name>Streak SRM 2 Ammo</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>Clan Streak SRM 2 Ammo</typeName>
+			<munition>0</munition>
+			<shots>50</shots>
 		</part>
 		<part id="90" type="mekhq.campaign.parts.MekLocation">
 			<id>90</id>
@@ -21406,13 +21425,13 @@ Note: This ability is only used for BattleMechs.</desc>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Vehicle</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<founder>false</founder>
