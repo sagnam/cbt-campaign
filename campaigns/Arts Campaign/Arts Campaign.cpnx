@@ -14,14 +14,14 @@
 		<gmMode>true</gmMode>
 		<showOverview>true</showOverview>
 		<astechPool>60</astechPool>
-		<astechPoolMinutes>25740</astechPoolMinutes>
+		<astechPoolMinutes>18690</astechPoolMinutes>
 		<astechPoolOvertime>14400</astechPoolOvertime>
 		<medicPool>12</medicPool>
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
 		<lastTeamId>0</lastTeamId>
-		<lastPartId>2978</lastPartId>
+		<lastPartId>2983</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>3</lastMissionId>
 		<lastScenarioId>10</lastScenarioId>
@@ -104,6 +104,37 @@
 			<reportLine><![CDATA[<a href='UNIT:39ca108a-d98d-4ef6-a1e3-ab494107ecce'>Griffin GRF-3M</a> has been recovered.]]></reportLine>
 			<reportLine><![CDATA[<a href='UNIT:9039fabe-890c-4174-9299-2f1edddafb53'>Gladiator GLD-5R Mk II</a> has been recovered.]]></reportLine>
 			<reportLine><![CDATA[<a href='UNIT:b10b3a94-8ba3-404c-9a93-3b0625244a61'>Hermes II HER-7S Mk III</a> has been recovered.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:eb7978f0-c882-4a2c-bd48-ca4654d121bd'>Orlando González</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 2 and rolls 4: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 5: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 11: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c21fdf42-e28a-435e-b652-0939b5c4e04e'>Endre Aspelund</a> attempts to fix Armor (Heavy Ferro-Fibrous) on Hermes II HER-7S Mk III,  needs 3 and rolls 5: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c21fdf42-e28a-435e-b652-0939b5c4e04e'>Endre Aspelund</a> attempts to fix Armor (Heavy Ferro-Fibrous) on Hermes II HER-7S Mk III,  needs 3 and rolls 10: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 5: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 11: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 9: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:8ad0f7cb-cca7-4f06-99e1-0854a1f6780b'>Luu-Danh Antic</a> attempts to fix XL Gyro on Gladiator GLD-5R Mk II,  needs 8 and rolls 6: <font color='red'><b> failed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix XL Gyro on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 6: <font color='red'><b> failed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:cbd3826c-2f56-45a1-947e-05d4d32a9b3f'>Mary Svensli</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 5 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 5: <font color='red'><b> failed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c21fdf42-e28a-435e-b652-0939b5c4e04e'>Endre Aspelund</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 5 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 9: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 12: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> works on Hermes II HER-7S Mk IV Customization, 3075 minutes left.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:eb7978f0-c882-4a2c-bd48-ca4654d121bd'>Orlando González</a> works on Gladiator GLD-5R Mk III Customization, 2045 minutes left.]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -444,28 +475,14 @@
 		<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Hoplite" model="HOP-4XD" type="Biped" commander="false" externalId="93f2b224-e9f8-4203-b8cc-d7c313149f72" camoCategory="Davion/Chisholm&apos;s Raiders/" camoFileName="1st Chisholms Raiders.jpg">
       The first slot in a location is at index="1".
-				<location index="1"> Center Torso
-					<armor points="23"/>
-				</location>
 				<location index="2"> Right Torso
-					<armor points="15"/>
-					<slot index="3" type="ISRotaryAC5 Ammo" shots="20"/>
-					<slot index="4" type="ISRotaryAC5 Ammo" shots="20"/>
-					<slot index="5" type="ISRotaryAC5 Ammo" shots="20"/>
+					<slot index="3" type="CLRotaryAC5 Ammo" shots="20"/>
+					<slot index="4" type="CLRotaryAC5 Ammo" shots="20"/>
+					<slot index="5" type="CLRotaryAC5 Ammo" shots="20"/>
 				</location>
 				<location index="3"> Left Torso
-					<armor points="13"/>
-					<slot index="3" type="Clan Streak LRM 15 Ammo" shots="0"/>
+					<slot index="3" type="Clan Streak LRM 15 Ammo" shots="8"/>
 					<slot index="4" type="Clan Streak LRM 15 Ammo" shots="8"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="13"/>
-				</location>
-				<location index="6"> Right Leg
-					<armor points="22"/>
-				</location>
-				<location index="7"> Left Leg
-					<armor points="13"/>
 				</location>
 			</entity>
 			<driverId>ea523c3c-d20b-41cd-bd79-0242efc267b6</driverId>
@@ -486,12 +503,6 @@
 		</unit>
 		<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Hermes II" model="HER-7S Mk III" type="Biped" commander="false" externalId="b10b3a94-8ba3-404c-9a93-3b0625244a61">
-				<location index="2"> Right Torso
-					<armor points="13"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="8"/>
-				</location>
 			</entity>
 			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
 			<gunnerId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</gunnerId>
@@ -508,6 +519,77 @@
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
+			<refit>
+				<entity chassis="Hermes II" model="HER-7S Mk IV" type="Biped" commander="false" externalId="70a4979b-938c-4fc4-8b02-459c5471583d">
+				</entity>
+				<time>3240</time>
+				<timeSpent>165</timeSpent>
+				<refitClass>5</refitClass>
+				<cost>0</cost>
+				<failedCheck>false</failedCheck>
+				<customJob>true</customJob>
+				<kitFound>false</kitFound>
+				<isRefurbishing>false</isRefurbishing>
+				<armorNeeded>0</armorNeeded>
+				<sameArmorType>true</sameArmorType>
+				<assignedTechId>16937ed0-2fbc-470d-b304-ad1ed08e94d5</assignedTechId>
+				<quantity>1</quantity>
+				<daysToWait>0</daysToWait>
+				<oldUnitParts>
+					<pid>763</pid>
+					<pid>2069</pid>
+				</oldUnitParts>
+				<newUnitParts>
+					<pid>228</pid>
+					<pid>229</pid>
+					<pid>230</pid>
+					<pid>231</pid>
+					<pid>232</pid>
+					<pid>233</pid>
+					<pid>234</pid>
+					<pid>235</pid>
+					<pid>749</pid>
+					<pid>237</pid>
+					<pid>238</pid>
+					<pid>239</pid>
+					<pid>240</pid>
+					<pid>241</pid>
+					<pid>242</pid>
+					<pid>243</pid>
+					<pid>244</pid>
+					<pid>751</pid>
+					<pid>246</pid>
+					<pid>2834</pid>
+					<pid>758</pid>
+					<pid>755</pid>
+					<pid>752</pid>
+					<pid>756</pid>
+					<pid>255</pid>
+					<pid>254</pid>
+					<pid>253</pid>
+					<pid>257</pid>
+					<pid>736</pid>
+					<pid>753</pid>
+					<pid>260</pid>
+					<pid>261</pid>
+					<pid>262</pid>
+					<pid>263</pid>
+					<pid>265</pid>
+					<pid>264</pid>
+					<pid>267</pid>
+					<pid>266</pid>
+					<pid>268</pid>
+					<pid>754</pid>
+					<pid>269</pid>
+					<pid>759</pid>
+					<pid>271</pid>
+					<pid>757</pid>
+					<pid>273</pid>
+					<pid>584</pid>
+				</newUnitParts>
+				<shoppingList>
+				</shoppingList>
+			</refit>
 		</unit>
 		<unit id="ce0138ea-1990-4201-9df9-13b64cb95fc0" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Rifleman" model="RFL-8D" type="Biped" commander="false" externalId="ce0138ea-1990-4201-9df9-13b64cb95fc0">
@@ -561,18 +643,6 @@
 		</unit>
 		<unit id="814205df-e7bd-4ec0-8848-029ced9922c4" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Black Panther" model="BKP-1R Mk II" type="Biped" commander="false" externalId="814205df-e7bd-4ec0-8848-029ced9922c4">
-				<location index="1"> Center Torso
-					<armor points="25"/>
-				</location>
-				<location index="2"> Right Torso
-					<armor points="16"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="16"/>
-				</location>
-				<location index="6"> Right Leg
-					<armor points="4"/>
-				</location>
 			</entity>
 			<driverId>ca9e14bb-222e-448c-8342-82a24daf0988</driverId>
 			<gunnerId>ca9e14bb-222e-448c-8342-82a24daf0988</gunnerId>
@@ -593,30 +663,9 @@
 		<unit id="9039fabe-890c-4174-9299-2f1edddafb53" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Gladiator" model="GLD-5R Mk II" type="Biped" commander="false" externalId="9039fabe-890c-4174-9299-2f1edddafb53" c3UUID="c6070b9a-26fd-484b-afe2-85ae15deba16" camoCategory="Davion/Chisholm&apos;s Raiders/" camoFileName="1st Chisholms Raiders.jpg">
       The first slot in a location is at index="1".
-				<location index="1"> Center Torso
-					<armor points="12"/>
-					<armor points="7" type="Rear"/>
-         <slot index="4" type="System" isHit="true" isDestroyed="true"/>
-				</location>
 				<location index="2"> Right Torso
-					<armor points="16"/>
-					<slot index="11" type="IS Ammo MML-5 LRM Semi-guided" shots="24"/>
+					<slot index="11" type="IS Ammo MML-5 LRM Artemis-capable" shots="24"/>
 					<slot index="12" type="IS Ammo MML-5 SRM Artemis-capable" shots="20"/>
-				</location>
-				<location index="3"> Left Torso
-					<armor points="9"/>
-				</location>
-				<location index="4"> Right Arm
-					<armor points="16"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="12"/>
-				</location>
-				<location index="6"> Right Leg
-					<armor points="12"/>
-				</location>
-				<location index="7"> Left Leg
-					<armor points="22"/>
 				</location>
 			</entity>
 			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
@@ -634,6 +683,95 @@
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
+			<refit>
+				<entity chassis="Gladiator" model="GLD-5R Mk III" type="Biped" commander="false" externalId="a3f337f8-3ee0-4a9f-a67a-42af5a7ca2c9">
+      The first slot in a location is at index="1".
+					<location index="2"> Right Torso
+						<slot index="11" type="IS Ammo MML-5 LRM Artemis-capable" shots="24"/>
+						<slot index="12" type="IS Ammo MML-5 SRM Artemis-capable" shots="20"/>
+					</location>
+					<location index="3"> Left Torso
+						<slot index="12" type="ISAMS Ammo" shots="12"/>
+					</location>
+				</entity>
+				<time>2400</time>
+				<timeSpent>355</timeSpent>
+				<refitClass>5</refitClass>
+				<cost>0</cost>
+				<failedCheck>false</failedCheck>
+				<customJob>true</customJob>
+				<kitFound>false</kitFound>
+				<isRefurbishing>false</isRefurbishing>
+				<armorNeeded>-1</armorNeeded>
+				<sameArmorType>true</sameArmorType>
+				<assignedTechId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</assignedTechId>
+				<quantity>1</quantity>
+				<daysToWait>0</daysToWait>
+				<oldUnitParts>
+					<pid>2872</pid>
+					<pid>2844</pid>
+				</oldUnitParts>
+				<newUnitParts>
+					<pid>2840</pid>
+					<pid>2841</pid>
+					<pid>2842</pid>
+					<pid>2843</pid>
+					<pid>2845</pid>
+					<pid>2846</pid>
+					<pid>2847</pid>
+					<pid>2848</pid>
+					<pid>2849</pid>
+					<pid>2850</pid>
+					<pid>2851</pid>
+					<pid>2852</pid>
+					<pid>2853</pid>
+					<pid>2854</pid>
+					<pid>2855</pid>
+					<pid>2856</pid>
+					<pid>2857</pid>
+					<pid>2858</pid>
+					<pid>2954</pid>
+					<pid>2955</pid>
+					<pid>2956</pid>
+					<pid>2862</pid>
+					<pid>2864</pid>
+					<pid>2863</pid>
+					<pid>2958</pid>
+					<pid>2957</pid>
+					<pid>2959</pid>
+					<pid>2868</pid>
+					<pid>2870</pid>
+					<pid>2869</pid>
+					<pid>2871</pid>
+					<pid>2874</pid>
+					<pid>2873</pid>
+					<pid>2875</pid>
+					<pid>2876</pid>
+					<pid>2877</pid>
+					<pid>2878</pid>
+					<pid>2879</pid>
+					<pid>2880</pid>
+					<pid>2881</pid>
+					<pid>2882</pid>
+					<pid>2883</pid>
+					<pid>2885</pid>
+					<pid>2884</pid>
+					<pid>2887</pid>
+					<pid>2886</pid>
+					<pid>2889</pid>
+					<pid>2888</pid>
+					<pid>2891</pid>
+					<pid>2890</pid>
+					<pid>2893</pid>
+					<pid>2892</pid>
+					<pid>2895</pid>
+					<pid>2894</pid>
+					<pid>289</pid>
+					<pid>2983</pid>
+				</newUnitParts>
+				<shoppingList>
+				</shoppingList>
+			</refit>
 		</unit>
 		<unit id="cd89d99b-69bc-420f-8911-b0a12ce48f87" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Grim Reaper" model="GRM-R-PR31" type="Biped" commander="false" externalId="cd89d99b-69bc-420f-8911-b0a12ce48f87" camoCategory="Davion/Chisholm&apos;s Raiders/" camoFileName="1st Chisholms Raiders.jpg">
@@ -702,18 +840,6 @@
 		</unit>
 		<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Enforcer III" model="ENF-7X MUSE COMPACT Mk III" type="Biped" commander="false" externalId="bb96f7e3-ce69-4b74-a250-5011aa07895b">
-				<location index="1"> Center Torso
-					<armor points="19"/>
-				</location>
-				<location index="2"> Right Torso
-					<armor points="8"/>
-				</location>
-				<location index="4"> Right Arm
-					<armor points="5"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="15"/>
-				</location>
 			</entity>
 			<driverId>a1720c9f-9396-4645-a0b1-4120613eb75c</driverId>
 			<gunnerId>a1720c9f-9396-4645-a0b1-4120613eb75c</gunnerId>
@@ -1113,14 +1239,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>6</nTasks>
+			<nTasks>10</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>480</minutesLeft>
+			<minutesLeft>335</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3048-05-20 12:00:00</birthday>
 			<skill>
@@ -1172,7 +1298,7 @@
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>405</minutesLeft>
+			<minutesLeft>285</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3051-05-19 12:00:00</birthday>
 			<skill>
@@ -1271,14 +1397,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>16</nTasks>
+			<nTasks>21</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>480</minutesLeft>
+			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3039-04-17 12:00:00</birthday>
 			<skill>
@@ -1325,14 +1451,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>20</nTasks>
+			<nTasks>21</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>420</minutesLeft>
+			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3050-10-05 12:00:00</birthday>
 			<skill>
@@ -1461,14 +1587,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>14</nTasks>
+			<nTasks>19</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>420</minutesLeft>
+			<minutesLeft>310</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3053-03-31 12:00:00</birthday>
 			<skill>
@@ -2020,14 +2146,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>5</nTasks>
+			<nTasks>11</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>420</minutesLeft>
+			<minutesLeft>130</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3057-10-18 12:00:00</birthday>
 			<skill>
@@ -2080,14 +2206,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>11</nTasks>
+			<nTasks>14</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>420</minutesLeft>
+			<minutesLeft>360</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3043-12-22 12:00:00</birthday>
 			<skill>
@@ -2230,14 +2356,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>10</nTasks>
+			<nTasks>11</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>420</minutesLeft>
+			<minutesLeft>350</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3053-05-27 12:00:00</birthday>
 			<skill>
@@ -3318,6 +3444,12 @@
 			<category>1</category>
 			<date>3077-05-03 12:00:00</date>
 		</transaction>
+		<transaction>
+			<amount>-50000</amount>
+			<description>Purchase of Armor (Standard)</description>
+			<category>1</category>
+			<date>3077-05-09 12:00:00</date>
+		</transaction>
 	</finances>
 	<location>
 		<currentPlanetId>Galatea</currentPlanetId>
@@ -4225,6 +4357,80 @@ Note: This ability is only used for BattleMechs.</desc>
 		<secondSkillBonus>-4</secondSkillBonus>
 	</randomSkillPreferences>
 	<parts>
+		<part id="2983" type="mekhq.campaign.parts.equipment.AmmoBin">
+			<id>2983</id>
+			<name>Anti-Missile System Ammo [IS] Bin</name>
+			<unitTonnage>55</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>9039fabe-890c-4174-9299-2f1edddafb53</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>30</equipmentNum>
+			<typeName>ISAMS Ammo</typeName>
+			<munition>0</munition>
+			<shotsNeeded>0</shotsNeeded>
+			<checkedToday>false</checkedToday>
+			<oneShot>false</oneShot>
+		</part>
+		<part id="2981" type="mekhq.campaign.parts.AmmoStorage">
+			<id>2981</id>
+			<name>MML 5 LRM Semi-guided Ammo</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>IS Ammo MML-5 LRM Semi-guided</typeName>
+			<munition>2097152</munition>
+			<shots>24</shots>
+		</part>
+		<part id="2980" type="mekhq.campaign.parts.AmmoStorage">
+			<id>2980</id>
+			<name>Rotary AC/5 Ammo</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>ISRotaryAC5 Ammo</typeName>
+			<munition>0</munition>
+			<shots>20</shots>
+		</part>
 		<part id="2977" type="mekhq.campaign.parts.MissingMekLocation">
 			<id>2977</id>
 			<name>Mech Right Arm</name>
@@ -5554,11 +5760,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>4</amount>
+			<amount>28</amount>
 			<type>0</type>
 			<location>6</location>
 			<rear>false</rear>
-			<amountNeeded>24</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2911" type="mekhq.campaign.parts.MekLocation">
@@ -5611,11 +5817,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>16</amount>
+			<amount>20</amount>
 			<type>0</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>4</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2909" type="mekhq.campaign.parts.MekLocation">
@@ -5836,11 +6042,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>16</amount>
+			<amount>22</amount>
 			<type>0</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>6</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2901" type="mekhq.campaign.parts.MekLocation">
@@ -5920,11 +6126,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>25</amount>
+			<amount>30</amount>
 			<type>0</type>
 			<location>1</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2898" type="mekhq.campaign.parts.MekLocation">
@@ -6358,7 +6564,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<id>2880</id>
 			<name>XL Gyro</name>
 			<unitTonnage>55</unitTonnage>
-			<hits>1</hits>
+			<hits>0</hits>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
@@ -6764,11 +6970,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>22</amount>
+			<amount>26</amount>
 			<type>0</type>
 			<location>7</location>
 			<rear>false</rear>
-			<amountNeeded>4</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2857" type="mekhq.campaign.parts.MekLocation">
@@ -6821,11 +7027,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>12</amount>
+			<amount>26</amount>
 			<type>0</type>
 			<location>6</location>
 			<rear>false</rear>
-			<amountNeeded>14</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2855" type="mekhq.campaign.parts.MekLocation">
@@ -6878,11 +7084,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>12</amount>
+			<amount>18</amount>
 			<type>0</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>6</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2853" type="mekhq.campaign.parts.MekLocation">
@@ -6935,11 +7141,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>16</amount>
+			<amount>18</amount>
 			<type>0</type>
 			<location>4</location>
 			<rear>false</rear>
-			<amountNeeded>2</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2851" type="mekhq.campaign.parts.MekLocation">
@@ -7019,11 +7225,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>9</amount>
+			<amount>20</amount>
 			<type>0</type>
 			<location>3</location>
 			<rear>false</rear>
-			<amountNeeded>11</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2848" type="mekhq.campaign.parts.MekLocation">
@@ -7103,11 +7309,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>16</amount>
+			<amount>20</amount>
 			<type>0</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>4</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2845" type="mekhq.campaign.parts.MekLocation">
@@ -7160,11 +7366,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>7</amount>
+			<amount>9</amount>
 			<type>0</type>
 			<location>1</location>
 			<rear>true</rear>
-			<amountNeeded>2</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2843" type="mekhq.campaign.parts.Armor">
@@ -7187,11 +7393,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>12</amount>
+			<amount>27</amount>
 			<type>0</type>
 			<location>1</location>
 			<rear>false</rear>
-			<amountNeeded>15</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="2842" type="mekhq.campaign.parts.MekLocation">
@@ -7372,7 +7578,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>53</amount>
+			<amount>36</amount>
 			<type>0</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -12164,7 +12370,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>38</amount>
+			<amount>3</amount>
 			<type>1</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -12351,7 +12557,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>4</equipmentNum>
 			<typeName>Clan Streak LRM 15 Ammo</typeName>
 			<munition>0</munition>
-			<shotsNeeded>8</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -12851,11 +13057,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>13</amount>
+			<amount>26</amount>
 			<type>1</type>
 			<location>7</location>
 			<rear>false</rear>
-			<amountNeeded>13</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="781" type="mekhq.campaign.parts.MekLocation">
@@ -12908,11 +13114,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>22</amount>
+			<amount>26</amount>
 			<type>1</type>
 			<location>6</location>
 			<rear>false</rear>
-			<amountNeeded>4</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="779" type="mekhq.campaign.parts.MekLocation">
@@ -12965,11 +13171,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>13</amount>
+			<amount>18</amount>
 			<type>1</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="777" type="mekhq.campaign.parts.MekLocation">
@@ -13106,11 +13312,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>13</amount>
+			<amount>18</amount>
 			<type>1</type>
 			<location>3</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="772" type="mekhq.campaign.parts.MekLocation">
@@ -13190,11 +13396,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>15</amount>
+			<amount>18</amount>
 			<type>1</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>3</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="769" type="mekhq.campaign.parts.MekLocation">
@@ -13274,11 +13480,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>23</amount>
+			<amount>28</amount>
 			<type>1</type>
 			<location>1</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="766" type="mekhq.campaign.parts.MekLocation">
@@ -13849,7 +14055,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<skillMin>1</skillMin>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
+			<refitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
 			<quantity>1</quantity>
@@ -15203,30 +15409,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>Medium Laser</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
-		<part id="290" type="mekhq.campaign.parts.AmmoStorage">
-			<id>290</id>
-			<name>Anti-Missile System Ammo [IS]</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>ISAMS Ammo</typeName>
-			<munition>0</munition>
-			<shots>12</shots>
-		</part>
 		<part id="1825" type="mekhq.campaign.parts.MekActuator">
 			<id>1825</id>
 			<name>Foot Actuator</name>
@@ -15260,7 +15442,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<skillMin>1</skillMin>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
+			<refitId>9039fabe-890c-4174-9299-2f1edddafb53</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
 			<quantity>1</quantity>
@@ -16854,7 +17036,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<unitTonnage>40</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
-			<mode>RUSH_2</mode>
+			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
 			<unitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</unitId>
 			<workingOvertime>false</workingOvertime>
@@ -16868,11 +17050,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>8</amount>
+			<amount>12</amount>
 			<type>6</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>4</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="241" type="mekhq.campaign.parts.MekLocation">
@@ -17049,7 +17231,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<unitTonnage>40</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
-			<mode>RUSH_2</mode>
+			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
 			<unitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</unitId>
 			<workingOvertime>false</workingOvertime>
@@ -17063,11 +17245,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>13</amount>
+			<amount>15</amount>
 			<type>6</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>2</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="233" type="mekhq.campaign.parts.MekLocation">
@@ -18613,33 +18795,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>5</amountNeeded>
 			<clan>false</clan>
 		</part>
-		<part id="140" type="mekhq.campaign.parts.Armor">
-			<id>140</id>
-			<name>Armor (Reflective)</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>bb035d28-af13-4169-ad1c-d95358330d97</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<amount>7</amount>
-			<type>3</type>
-			<location>1</location>
-			<rear>true</rear>
-			<amountNeeded>0</amountNeeded>
-			<clan>true</clan>
-		</part>
 		<part id="1675" type="mekhq.campaign.parts.MekLocation">
 			<id>1675</id>
 			<name>Mech Left Leg (TSM)</name>
@@ -18669,6 +18824,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
+		</part>
+		<part id="140" type="mekhq.campaign.parts.Armor">
+			<id>140</id>
+			<name>Armor (Reflective)</name>
+			<unitTonnage>50</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>bb035d28-af13-4169-ad1c-d95358330d97</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>7</amount>
+			<type>3</type>
+			<location>1</location>
+			<rear>true</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>true</clan>
 		</part>
 		<part id="1674" type="mekhq.campaign.parts.Armor">
 			<id>1674</id>
@@ -19926,11 +20108,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>15</amount>
+			<amount>16</amount>
 			<type>1</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>1</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="103" type="mekhq.campaign.parts.MekLocation">
@@ -20007,11 +20189,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>5</amount>
+			<amount>16</amount>
 			<type>1</type>
 			<location>4</location>
 			<rear>false</rear>
-			<amountNeeded>11</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="101" type="mekhq.campaign.parts.MekLocation">
@@ -20175,11 +20357,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>8</amount>
+			<amount>19</amount>
 			<type>1</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>11</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="95" type="mekhq.campaign.parts.MekLocation">
@@ -20259,11 +20441,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>19</amount>
+			<amount>25</amount>
 			<type>1</type>
 			<location>1</location>
 			<rear>false</rear>
-			<amountNeeded>6</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="92" type="mekhq.campaign.parts.MekLocation">
@@ -20567,7 +20749,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>85</amount>
+			<amount>56</amount>
 			<type>1</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -20593,7 +20775,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>28</amount>
+			<amount>22</amount>
 			<type>6</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -22391,162 +22573,6 @@ CLDoubleHeatSink
 		</mtf>
 	</custom>
 	<custom>
-		<name>Gladiator GLD-5R Mk III</name>
-		<mtf>Version:1.1
-Gladiator
-GLD-5R Mk III
-
-Config:Biped
-TechBase:Mixed (IS Chassis)
-Era:3077
-Source:TRO 3075
-Rules Level:3
-
-Mass:55
-Engine:220 Light Engine(IS)
-Structure:IS Standard
-Myomer:Standard
-Cockpit:Standard Cockpit
-Gyro:XL Gyro
-
-Heat Sinks:13 Double
-Walk MP:4
-Jump MP:6
-
-Armor:Standard(Inner Sphere)
-LA Armor:18
-RA Armor:18
-LT Armor:20
-RT Armor:20
-CT Armor:27
-HD Armor:9
-LL Armor:26
-RL Armor:26
-RTL Armor:6
-RTR Armor:6
-RTC Armor:9
-
-Weapons:4
-ER Medium Laser, Left Arm
-ER Medium Laser, Left Arm
-Snub-Nose PPC, Right Arm
-MML 5, Right Torso
-
-Left Arm:
-Shoulder
-Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLERMediumLaser
-CLERMediumLaser
-
-Right Arm:
-Shoulder
-Upper Arm Actuator
-Lower Arm Actuator
-Hand Actuator
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISSNPPC
-ISSNPPC
-
-Left Torso:
-Fusion Engine
-Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-IS Improved Jump Jet
-IS Improved Jump Jet
-IS Improved Jump Jet
-IS Improved Jump Jet
-ISGuardianECMSuite
-ISGuardianECMSuite
-ISC3SlaveUnit
-
-Right Torso:
-Fusion Engine
-Fusion Engine
-IS Improved Jump Jet
-IS Improved Jump Jet
-IS Improved Jump Jet
-IS Improved Jump Jet
-ISMML5
-ISMML5
-ISMML5
-ISArtemisIV
-IS Ammo MML-5 LRM Artemis-capable
-IS Ammo MML-5 SRM Artemis-capable
-
-Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
-Gyro
-Gyro
-Gyro
-Gyro
-Gyro
-Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
-
-Head:
-Life Support
-Sensors
-Cockpit
--Empty-
-Sensors
-Life Support
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-Left Leg:
-Hip
-Upper Leg Actuator
-Lower Leg Actuator
-Foot Actuator
-IS Improved Jump Jet
-IS Improved Jump Jet
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-Right Leg:
-Hip
-Upper Leg Actuator
-Lower Leg Actuator
-Foot Actuator
-IS Improved Jump Jet
-IS Improved Jump Jet
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-		</mtf>
-	</custom>
-	<custom>
 		<name>Black Panther BKP-1R Mk III</name>
 		<mtf>Version:1.1
 Black Panther
@@ -23008,6 +23034,315 @@ Lower Leg Actuator
 Foot Actuator
 CLDoubleHeatSink
 CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		</mtf>
+	</custom>
+	<custom>
+		<name>Hermes II HER-7S Mk IV</name>
+		<mtf>Version:1.0
+Hermes II
+HER-7S Mk IV
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3077
+Source:XTRO Marik - Jihad
+Rules Level:4
+
+Mass:40
+Engine:320 XXL Engine(IS)
+Structure:IS Composite
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:8
+Jump MP:8
+
+Armor:Heavy Ferro-Fibrous(Inner Sphere)
+LA Armor:12
+RA Armor:12
+LT Armor:15
+RT Armor:15
+CT Armor:18
+HD Armor:9
+LL Armor:20
+RL Armor:20
+RTL Armor:5
+RTR Armor:5
+RTC Armor:6
+
+Weapons:2
+ER Medium Pulse Laser, Left Torso
+Large Pulse Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+Jump Jet
+CLERMediumPulseLaser
+CLERMediumPulseLaser
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+Jump Jet
+CLLargePulseLaser
+CLLargePulseLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLTargeting Computer
+CLTargeting Computer
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Heavy Ferro-Fibrous
+IS Heavy Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		</mtf>
+	</custom>
+	<custom>
+		<name>Gladiator GLD-5R Mk III</name>
+		<mtf>Version:1.1
+Gladiator
+GLD-5R Mk III
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3077
+Source:TRO 3075
+Rules Level:3
+
+Mass:55
+Engine:220 Light Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+Cockpit:Standard Cockpit
+Gyro:XL Gyro
+
+Heat Sinks:13 Double
+Walk MP:4
+Jump MP:6
+
+Armor:Standard(Inner Sphere)
+LA Armor:18
+RA Armor:18
+LT Armor:20
+RT Armor:20
+CT Armor:27
+HD Armor:9
+LL Armor:26
+RL Armor:26
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:5
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+Snub-Nose PPC, Right Arm
+MML 5, Right Torso
+Anti-Missile System, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+CLERMediumLaser
+CLERMediumLaser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISSNPPC
+ISSNPPC
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+ISGuardianECMSuite
+ISGuardianECMSuite
+ISAMS Ammo
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+ISMML5
+ISMML5
+ISMML5
+ISArtemisIV
+IS Ammo MML-5 LRM Artemis-capable
+IS Ammo MML-5 SRM Artemis-capable
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Improved Jump Jet
+IS Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Improved Jump Jet
+IS Improved Jump Jet
 -Empty-
 -Empty-
 -Empty-
