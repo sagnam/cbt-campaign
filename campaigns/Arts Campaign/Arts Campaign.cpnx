@@ -14,127 +14,31 @@
 		<gmMode>true</gmMode>
 		<showOverview>true</showOverview>
 		<astechPool>60</astechPool>
-		<astechPoolMinutes>18690</astechPoolMinutes>
+		<astechPoolMinutes>25650</astechPoolMinutes>
 		<astechPoolOvertime>14400</astechPoolOvertime>
 		<medicPool>12</medicPool>
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
 		<lastTeamId>0</lastTeamId>
-		<lastPartId>2983</lastPartId>
+		<lastPartId>2987</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>3</lastMissionId>
-		<lastScenarioId>10</lastScenarioId>
-		<calendar>3077-05-09 12:00:00</calendar>
+		<lastScenarioId>11</lastScenarioId>
+		<calendar>3077-05-15 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
 			<faction>General</faction>
 			<percentFemale>50</percentFemale>
 		</nameGen>
 		<currentReport>
-			<reportLine><![CDATA[<b>Wednesday, May 9 3077</b>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:ebe7bc91-c464-4a81-bd40-49c862a5adae'>Prisoner Waheeda  Dhupam</a> heals naturally!]]></reportLine>
-			<reportLine><![CDATA[The customization of Black Panther BKP-1R Mk III is complete.]]></reportLine>
-			<reportLine><![CDATA[The customization of Enforcer III ENF-7X MUSE COMPACT Mk III is complete.]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[Mech Head on Rifleman RFL-3-KH-UK Mk IIII scrapped.]]></reportLine>
-			<reportLine><![CDATA[Rifleman RFL-3-KH-UK Mk IIII has been removed from the unit roster.]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[Mech Right Arm on Ursus PR Mk III scrapped.]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> salvaged.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> replaced.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[ <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[Rifleman RFL-9T has been removed from the unit roster.]]></reportLine>
-			<reportLine><![CDATA[Deleted Transaction: 05/08/3077, Equipment Purchases, Purchase of Laser AMS, -100000]]></reportLine>
-			<reportLine><![CDATA[Deleted Transaction: 05/01/3077, Equipment Purchases, Purchase of Large Pulse Laser, -175000]]></reportLine>
-			<reportLine><![CDATA[Funds added : 14,400 (Purchase of Mech Right Torso)]]></reportLine>
-			<reportLine><![CDATA[Edited Transaction: {Previous = 05/03/3077, Equipment Purchases, Purchase of Mech Right Torso, 14400} -> {New = 05/03/3077, Equipment Purchases, Purchase of Mech Right Torso, 14400}]]></reportLine>
-			<reportLine><![CDATA[Edited Transaction: {Previous = 05/03/3077, Equipment Purchases, Purchase of Mech Right Torso, -14400} -> {New = 05/03/3077, Equipment Purchases, Purchase of Mech Right Torso, -14400}]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:9039fabe-890c-4174-9299-2f1edddafb53'>Gladiator GLD-5R Mk II</a> has been added to the unit roster.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:814205df-e7bd-4ec0-8848-029ced9922c4'>Black Panther BKP-1R Mk II</a> has been added to the unit roster.]]></reportLine>
-			<reportLine><![CDATA[Black Panther BKP-1R Mk III has been removed from the unit roster.]]></reportLine>
-			<reportLine><![CDATA[Gladiator GLD-5R Mk III has been removed from the unit roster.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:93f2b224-e9f8-4203-b8cc-d7c313149f72'>Hoplite HOP-4XD</a> has been recovered.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:814205df-e7bd-4ec0-8848-029ced9922c4'>Black Panther BKP-1R Mk II</a> has been recovered.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:bb96f7e3-ce69-4b74-a250-5011aa07895b'>Enforcer III ENF-7X MUSE COMPACT Mk III</a> has been recovered.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:39ca108a-d98d-4ef6-a1e3-ab494107ecce'>Griffin GRF-3M</a> has been recovered.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:9039fabe-890c-4174-9299-2f1edddafb53'>Gladiator GLD-5R Mk II</a> has been recovered.]]></reportLine>
-			<reportLine><![CDATA[<a href='UNIT:b10b3a94-8ba3-404c-9a93-3b0625244a61'>Hermes II HER-7S Mk III</a> has been recovered.]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:eb7978f0-c882-4a2c-bd48-ca4654d121bd'>Orlando González</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 2 and rolls 4: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 5: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Hoplite HOP-4XD,  needs 5 and rolls 11: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:c21fdf42-e28a-435e-b652-0939b5c4e04e'>Endre Aspelund</a> attempts to fix Armor (Heavy Ferro-Fibrous) on Hermes II HER-7S Mk III,  needs 3 and rolls 5: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:c21fdf42-e28a-435e-b652-0939b5c4e04e'>Endre Aspelund</a> attempts to fix Armor (Heavy Ferro-Fibrous) on Hermes II HER-7S Mk III,  needs 3 and rolls 10: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix Armor (Standard) on Black Panther BKP-1R Mk II,  needs 4 and rolls 5: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 11: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 9: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:fcedbc29-1e40-4915-8ac8-9feb48fdfc45'>James Karnoupakis</a> attempts to fix Armor (Ferro-Fibrous) on Enforcer III ENF-7X MUSE COMPACT Mk III,  needs 5 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:8ad0f7cb-cca7-4f06-99e1-0854a1f6780b'>Luu-Danh Antic</a> attempts to fix XL Gyro on Gladiator GLD-5R Mk II,  needs 8 and rolls 6: <font color='red'><b> failed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to fix XL Gyro on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 6: <font color='red'><b> failed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:cbd3826c-2f56-45a1-947e-05d4d32a9b3f'>Mary Svensli</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 5 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 5: <font color='red'><b> failed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:c21fdf42-e28a-435e-b652-0939b5c4e04e'>Endre Aspelund</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 5 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 9: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Standard) on Gladiator GLD-5R Mk II,  needs 7 and rolls 12: <font color='green'><b> fixed.</b></font>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> works on Hermes II HER-7S Mk IV Customization, 3075 minutes left.]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:eb7978f0-c882-4a2c-bd48-ca4654d121bd'>Orlando González</a> works on Gladiator GLD-5R Mk III Customization, 2045 minutes left.]]></reportLine>
+			<reportLine><![CDATA[<b>Tuesday, May 15 3077</b>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:33543925-5755-44bc-83b7-c2b997b05ee7'>Prisoner Gary Buchanan</a> heals naturally!]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:448770ba-eb82-487f-b587-8f2bec42c8ed'>Ann Perry</a> attempts to heal Ryan,  needs 8 and rolls 12: <font color='green'><b>Successfully healed one hit.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> works on Hermes II HER-7S Mk IV Customization, 645 minutes left.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:eb7978f0-c882-4a2c-bd48-ca4654d121bd'>Orlando González</a> works on Gladiator GLD-5R Mk III Customization, 1925 minutes left.]]></reportLine>
+			<reportLine><![CDATA[The customization of Hermes II HER-7S Mk IV is complete.]]></reportLine>
+			<reportLine><![CDATA[The customization of Gladiator GLD-5R Mk III is complete.]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -439,17 +343,15 @@
 					<armor points="6" type="Internal"/>
 				</location>
 			</entity>
-			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
-			<gunnerId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</gunnerId>
 			<techId>cbd3826c-2f56-45a1-947e-05d4d32a9b3f</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>0</forceId>
+			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>1</daysSinceMaintenance>
-			<daysActivelyMaintained>1</daysActivelyMaintained>
-			<astechDaysMaintained>6</astechDaysMaintained>
+			<daysSinceMaintenance>0</daysSinceMaintenance>
+			<daysActivelyMaintained>0</daysActivelyMaintained>
+			<astechDaysMaintained>0</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -464,9 +366,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>4</daysSinceMaintenance>
-			<daysActivelyMaintained>4</daysActivelyMaintained>
-			<astechDaysMaintained>24</astechDaysMaintained>
+			<daysSinceMaintenance>3</daysSinceMaintenance>
+			<daysActivelyMaintained>3</daysActivelyMaintained>
+			<astechDaysMaintained>18</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -491,18 +393,18 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>11</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>3</daysSinceMaintenance>
-			<daysActivelyMaintained>3</daysActivelyMaintained>
-			<astechDaysMaintained>18</astechDaysMaintained>
+			<daysSinceMaintenance>2</daysSinceMaintenance>
+			<daysActivelyMaintained>2</daysActivelyMaintained>
+			<astechDaysMaintained>12</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
 		</unit>
 		<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Hermes II" model="HER-7S Mk III" type="Biped" commander="false" externalId="b10b3a94-8ba3-404c-9a93-3b0625244a61">
+			<entity chassis="Hermes II" model="HER-7S Mk IV" type="Biped" commander="false" externalId="b10b3a94-8ba3-404c-9a93-3b0625244a61">
 			</entity>
 			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
 			<gunnerId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</gunnerId>
@@ -510,7 +412,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>11</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>1</daysActivelyMaintained>
@@ -519,77 +421,6 @@
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
-			<refit>
-				<entity chassis="Hermes II" model="HER-7S Mk IV" type="Biped" commander="false" externalId="70a4979b-938c-4fc4-8b02-459c5471583d">
-				</entity>
-				<time>3240</time>
-				<timeSpent>165</timeSpent>
-				<refitClass>5</refitClass>
-				<cost>0</cost>
-				<failedCheck>false</failedCheck>
-				<customJob>true</customJob>
-				<kitFound>false</kitFound>
-				<isRefurbishing>false</isRefurbishing>
-				<armorNeeded>0</armorNeeded>
-				<sameArmorType>true</sameArmorType>
-				<assignedTechId>16937ed0-2fbc-470d-b304-ad1ed08e94d5</assignedTechId>
-				<quantity>1</quantity>
-				<daysToWait>0</daysToWait>
-				<oldUnitParts>
-					<pid>763</pid>
-					<pid>2069</pid>
-				</oldUnitParts>
-				<newUnitParts>
-					<pid>228</pid>
-					<pid>229</pid>
-					<pid>230</pid>
-					<pid>231</pid>
-					<pid>232</pid>
-					<pid>233</pid>
-					<pid>234</pid>
-					<pid>235</pid>
-					<pid>749</pid>
-					<pid>237</pid>
-					<pid>238</pid>
-					<pid>239</pid>
-					<pid>240</pid>
-					<pid>241</pid>
-					<pid>242</pid>
-					<pid>243</pid>
-					<pid>244</pid>
-					<pid>751</pid>
-					<pid>246</pid>
-					<pid>2834</pid>
-					<pid>758</pid>
-					<pid>755</pid>
-					<pid>752</pid>
-					<pid>756</pid>
-					<pid>255</pid>
-					<pid>254</pid>
-					<pid>253</pid>
-					<pid>257</pid>
-					<pid>736</pid>
-					<pid>753</pid>
-					<pid>260</pid>
-					<pid>261</pid>
-					<pid>262</pid>
-					<pid>263</pid>
-					<pid>265</pid>
-					<pid>264</pid>
-					<pid>267</pid>
-					<pid>266</pid>
-					<pid>268</pid>
-					<pid>754</pid>
-					<pid>269</pid>
-					<pid>759</pid>
-					<pid>271</pid>
-					<pid>757</pid>
-					<pid>273</pid>
-					<pid>584</pid>
-				</newUnitParts>
-				<shoppingList>
-				</shoppingList>
-			</refit>
 		</unit>
 		<unit id="ce0138ea-1990-4201-9df9-13b64cb95fc0" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Rifleman" model="RFL-8D" type="Biped" commander="false" externalId="ce0138ea-1990-4201-9df9-13b64cb95fc0">
@@ -611,9 +442,9 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>4</daysSinceMaintenance>
-			<daysActivelyMaintained>4</daysActivelyMaintained>
-			<astechDaysMaintained>24</astechDaysMaintained>
+			<daysSinceMaintenance>3</daysSinceMaintenance>
+			<daysActivelyMaintained>3</daysActivelyMaintained>
+			<astechDaysMaintained>18</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -627,15 +458,17 @@
 					<slot index="9" type="IS LB 10-X Cluster Ammo" shots="10"/>
 				</location>
 			</entity>
+			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
+			<gunnerId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</gunnerId>
 			<techId>f321fc47-8a56-4313-81ec-9cb6f638cf80</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>-1</forceId>
-			<scenarioId>-1</scenarioId>
+			<forceId>0</forceId>
+			<scenarioId>11</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>6</daysSinceMaintenance>
-			<daysActivelyMaintained>6</daysActivelyMaintained>
-			<astechDaysMaintained>36</astechDaysMaintained>
+			<daysSinceMaintenance>5</daysSinceMaintenance>
+			<daysActivelyMaintained>5</daysActivelyMaintained>
+			<astechDaysMaintained>30</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -650,22 +483,25 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>11</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>0</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>0</astechDaysMaintained>
+			<daysSinceMaintenance>6</daysSinceMaintenance>
+			<daysActivelyMaintained>6</daysActivelyMaintained>
+			<astechDaysMaintained>36</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
 		</unit>
 		<unit id="9039fabe-890c-4174-9299-2f1edddafb53" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Gladiator" model="GLD-5R Mk II" type="Biped" commander="false" externalId="9039fabe-890c-4174-9299-2f1edddafb53" c3UUID="c6070b9a-26fd-484b-afe2-85ae15deba16" camoCategory="Davion/Chisholm&apos;s Raiders/" camoFileName="1st Chisholms Raiders.jpg">
+			<entity chassis="Gladiator" model="GLD-5R Mk III" type="Biped" commander="false" externalId="9039fabe-890c-4174-9299-2f1edddafb53">
       The first slot in a location is at index="1".
 				<location index="2"> Right Torso
 					<slot index="11" type="IS Ammo MML-5 LRM Artemis-capable" shots="24"/>
 					<slot index="12" type="IS Ammo MML-5 SRM Artemis-capable" shots="20"/>
+				</location>
+				<location index="3"> Left Torso
+					<slot index="12" type="ISAMS Ammo" shots="12"/>
 				</location>
 			</entity>
 			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
@@ -674,7 +510,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>11</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -683,95 +519,6 @@
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
-			<refit>
-				<entity chassis="Gladiator" model="GLD-5R Mk III" type="Biped" commander="false" externalId="a3f337f8-3ee0-4a9f-a67a-42af5a7ca2c9">
-      The first slot in a location is at index="1".
-					<location index="2"> Right Torso
-						<slot index="11" type="IS Ammo MML-5 LRM Artemis-capable" shots="24"/>
-						<slot index="12" type="IS Ammo MML-5 SRM Artemis-capable" shots="20"/>
-					</location>
-					<location index="3"> Left Torso
-						<slot index="12" type="ISAMS Ammo" shots="12"/>
-					</location>
-				</entity>
-				<time>2400</time>
-				<timeSpent>355</timeSpent>
-				<refitClass>5</refitClass>
-				<cost>0</cost>
-				<failedCheck>false</failedCheck>
-				<customJob>true</customJob>
-				<kitFound>false</kitFound>
-				<isRefurbishing>false</isRefurbishing>
-				<armorNeeded>-1</armorNeeded>
-				<sameArmorType>true</sameArmorType>
-				<assignedTechId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</assignedTechId>
-				<quantity>1</quantity>
-				<daysToWait>0</daysToWait>
-				<oldUnitParts>
-					<pid>2872</pid>
-					<pid>2844</pid>
-				</oldUnitParts>
-				<newUnitParts>
-					<pid>2840</pid>
-					<pid>2841</pid>
-					<pid>2842</pid>
-					<pid>2843</pid>
-					<pid>2845</pid>
-					<pid>2846</pid>
-					<pid>2847</pid>
-					<pid>2848</pid>
-					<pid>2849</pid>
-					<pid>2850</pid>
-					<pid>2851</pid>
-					<pid>2852</pid>
-					<pid>2853</pid>
-					<pid>2854</pid>
-					<pid>2855</pid>
-					<pid>2856</pid>
-					<pid>2857</pid>
-					<pid>2858</pid>
-					<pid>2954</pid>
-					<pid>2955</pid>
-					<pid>2956</pid>
-					<pid>2862</pid>
-					<pid>2864</pid>
-					<pid>2863</pid>
-					<pid>2958</pid>
-					<pid>2957</pid>
-					<pid>2959</pid>
-					<pid>2868</pid>
-					<pid>2870</pid>
-					<pid>2869</pid>
-					<pid>2871</pid>
-					<pid>2874</pid>
-					<pid>2873</pid>
-					<pid>2875</pid>
-					<pid>2876</pid>
-					<pid>2877</pid>
-					<pid>2878</pid>
-					<pid>2879</pid>
-					<pid>2880</pid>
-					<pid>2881</pid>
-					<pid>2882</pid>
-					<pid>2883</pid>
-					<pid>2885</pid>
-					<pid>2884</pid>
-					<pid>2887</pid>
-					<pid>2886</pid>
-					<pid>2889</pid>
-					<pid>2888</pid>
-					<pid>2891</pid>
-					<pid>2890</pid>
-					<pid>2893</pid>
-					<pid>2892</pid>
-					<pid>2895</pid>
-					<pid>2894</pid>
-					<pid>289</pid>
-					<pid>2983</pid>
-				</newUnitParts>
-				<shoppingList>
-				</shoppingList>
-			</refit>
 		</unit>
 		<unit id="cd89d99b-69bc-420f-8911-b0a12ce48f87" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Grim Reaper" model="GRM-R-PR31" type="Biped" commander="false" externalId="cd89d99b-69bc-420f-8911-b0a12ce48f87" camoCategory="Davion/Chisholm&apos;s Raiders/" camoFileName="1st Chisholms Raiders.jpg">
@@ -808,9 +555,9 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>4</daysSinceMaintenance>
+			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>24</astechDaysMaintained>
+			<astechDaysMaintained>18</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -830,16 +577,16 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>4</daysSinceMaintenance>
-			<daysActivelyMaintained>4</daysActivelyMaintained>
-			<astechDaysMaintained>24</astechDaysMaintained>
+			<daysSinceMaintenance>3</daysSinceMaintenance>
+			<daysActivelyMaintained>3</daysActivelyMaintained>
+			<astechDaysMaintained>18</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
 		</unit>
 		<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Enforcer III" model="ENF-7X MUSE COMPACT Mk III" type="Biped" commander="false" externalId="bb96f7e3-ce69-4b74-a250-5011aa07895b">
+			<entity chassis="Enforcer III" model="ENF-7X MUSE COMPACT Mk IV" type="Biped" commander="false" externalId="bb96f7e3-ce69-4b74-a250-5011aa07895b">
 			</entity>
 			<driverId>a1720c9f-9396-4645-a0b1-4120613eb75c</driverId>
 			<gunnerId>a1720c9f-9396-4645-a0b1-4120613eb75c</gunnerId>
@@ -847,11 +594,11 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>11</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>6</daysSinceMaintenance>
-			<daysActivelyMaintained>3</daysActivelyMaintained>
-			<astechDaysMaintained>36</astechDaysMaintained>
+			<daysSinceMaintenance>1</daysSinceMaintenance>
+			<daysActivelyMaintained>1</daysActivelyMaintained>
+			<astechDaysMaintained>6</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -1014,7 +761,7 @@
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
 			<xp>1</xp>
-			<daysToWaitForHealing>6</daysToWaitForHealing>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>0</gender>
 			<rank>-2</rank>
 			<rankLevel>0</rankLevel>
@@ -1026,7 +773,7 @@
 			<status>0</status>
 			<prisonerstatus>1</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
-			<hits>2</hits>
+			<hits>1</hits>
 			<toughness>0</toughness>
 			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>0</overtimeLeft>
@@ -1092,7 +839,7 @@
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
-			<hits>2</hits>
+			<hits>1</hits>
 			<toughness>0</toughness>
 			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>0</overtimeLeft>
@@ -1246,7 +993,7 @@
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>335</minutesLeft>
+			<minutesLeft>420</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3048-05-20 12:00:00</birthday>
 			<skill>
@@ -1298,7 +1045,7 @@
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>285</minutesLeft>
+			<minutesLeft>420</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3051-05-19 12:00:00</birthday>
 			<skill>
@@ -1594,7 +1341,7 @@
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>310</minutesLeft>
+			<minutesLeft>405</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3053-03-31 12:00:00</birthday>
 			<skill>
@@ -1907,7 +1654,7 @@
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
 			<nTasks>0</nTasks>
-			<unitId>39ca108a-d98d-4ef6-a1e3-ab494107ecce</unitId>
+			<unitId>be9705d3-9c1e-4a6b-90e9-888b995339fc</unitId>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -1949,6 +1696,7 @@
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Griffin GRF-3M</desc></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc></logEntry>
 				<logEntry><date>3077-05-09 12:00:00</date><desc>Participated in Hanson&apos;s Hairdresser Delivery during mission The Rush Job</desc></logEntry>
+				<logEntry><date>3077-05-15 12:00:00</date><desc>Reassigned to Ursus PR Mk III</desc></logEntry>
 			</personnelLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -2098,7 +1846,7 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>1</nTasks>
+			<nTasks>2</nTasks>
 			<salary>-1</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -2153,7 +1901,7 @@
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>130</minutesLeft>
+			<minutesLeft>480</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3057-10-18 12:00:00</birthday>
 			<skill>
@@ -2213,7 +1961,7 @@
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>360</minutesLeft>
+			<minutesLeft>480</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3043-12-22 12:00:00</birthday>
 			<skill>
@@ -2363,7 +2111,7 @@
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>350</minutesLeft>
+			<minutesLeft>420</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3053-05-27 12:00:00</birthday>
 			<skill>
@@ -2569,6 +2317,13 @@
 						</subforces>
 					</forceStub>
 					<date>3077-05-09 12:00:00</date>
+				</scenario>
+				<scenario id="11" type="mekhq.campaign.mission.Scenario">
+					<name>Any Landing You Can Walk Away From</name>
+					<desc></desc>
+					<report></report>
+					<status>0</status>
+					<id>11</id>
 				</scenario>
 			</scenarios>
 		</mission>
@@ -2963,12 +2718,12 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>11</scenarioId>
 			<units>
 				<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72"/>
 				<unit id="814205df-e7bd-4ec0-8848-029ced9922c4"/>
 				<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b"/>
-				<unit id="39ca108a-d98d-4ef6-a1e3-ab494107ecce"/>
+				<unit id="be9705d3-9c1e-4a6b-90e9-888b995339fc"/>
 				<unit id="9039fabe-890c-4174-9299-2f1edddafb53"/>
 				<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61"/>
 			</units>
@@ -4357,17 +4112,18 @@ Note: This ability is only used for BattleMechs.</desc>
 		<secondSkillBonus>-4</secondSkillBonus>
 	</randomSkillPreferences>
 	<parts>
-		<part id="2983" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>2983</id>
-			<name>Anti-Missile System Ammo [IS] Bin</name>
-			<unitTonnage>55</unitTonnage>
+		<part id="2986" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>2986</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>50</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
+			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
-			<refitId>9039fabe-890c-4174-9299-2f1edddafb53</refitId>
+			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
 			<quantity>1</quantity>
@@ -4376,7 +4132,55 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>30</equipmentNum>
+			<equipmentNum>6</equipmentNum>
+			<typeName>ISMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="2985" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>2985</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>50</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>5</equipmentNum>
+			<typeName>ISMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="2983" type="mekhq.campaign.parts.equipment.AmmoBin">
+			<id>2983</id>
+			<name>Anti-Missile System Ammo [IS] Bin</name>
+			<unitTonnage>55</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>9039fabe-890c-4174-9299-2f1edddafb53</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>15</equipmentNum>
 			<typeName>ISAMS Ammo</typeName>
 			<munition>0</munition>
 			<shotsNeeded>0</shotsNeeded>
@@ -6758,30 +6562,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>IS Improved Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
-		<part id="2872" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>2872</id>
-			<name>C3 Computer [Slave]</name>
-			<unitTonnage>55</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>9039fabe-890c-4174-9299-2f1edddafb53</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>15</equipmentNum>
-			<typeName>ISC3SlaveUnit</typeName>
-			<equipTonnage>1.0</equipTonnage>
-		</part>
 		<part id="2871" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>2871</id>
 			<name>ECM Suite (Guardian)</name>
@@ -7366,7 +7146,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>9</amount>
+			<amount>8</amount>
 			<type>0</type>
 			<location>1</location>
 			<rear>true</rear>
@@ -7578,7 +7358,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>36</amount>
+			<amount>37</amount>
 			<type>0</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -12257,7 +12037,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>2</quantity>
+			<quantity>4</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -13582,7 +13362,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
-			<unitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
@@ -13712,7 +13491,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>6</equipmentNum>
+			<equipmentNum>2</equipmentNum>
 			<typeName>Jump Jet</typeName>
 			<equipTonnage>0.5</equipTonnage>
 		</part>
@@ -13997,30 +13776,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>CLDoubleHeatSink</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
-		<part id="720" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>720</id>
-			<name>Medium Laser</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>5</equipmentNum>
-			<typeName>Medium Laser</typeName>
-			<equipTonnage>1.0</equipTonnage>
-		</part>
 		<part id="706" type="mekhq.campaign.parts.AmmoStorage">
 			<id>706</id>
 			<name>Ultra AC/5 Ammo</name>
@@ -14048,14 +13803,15 @@ Note: This ability is only used for BattleMechs.</desc>
 		<part id="584" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>584</id>
 			<name>ER Medium Pulse Laser</name>
-			<unitTonnage>60</unitTonnage>
+			<unitTonnage>40</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
+			<unitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
-			<refitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</refitId>
+			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
 			<quantity>1</quantity>
@@ -14064,7 +13820,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>20</equipmentNum>
+			<equipmentNum>6</equipmentNum>
 			<typeName>CLERMediumPulseLaser</typeName>
 			<equipTonnage>2.0</equipTonnage>
 		</part>
@@ -14152,7 +13908,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
-			<unitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
@@ -15062,7 +14817,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>1</quantity>
+			<quantity>2</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -15385,30 +15140,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>ISStreakSRM2</typeName>
 			<equipTonnage>1.5</equipTonnage>
 		</part>
-		<part id="291" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>291</id>
-			<name>Medium Laser</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>bb96f7e3-ce69-4b74-a250-5011aa07895b</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>6</equipmentNum>
-			<typeName>Medium Laser</typeName>
-			<equipTonnage>1.0</equipTonnage>
-		</part>
 		<part id="1825" type="mekhq.campaign.parts.MekActuator">
 			<id>1825</id>
 			<name>Foot Actuator</name>
@@ -15435,14 +15166,15 @@ Note: This ability is only used for BattleMechs.</desc>
 		<part id="289" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>289</id>
 			<name>Anti-Missile System</name>
-			<unitTonnage>0</unitTonnage>
+			<unitTonnage>55</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
+			<unitId>9039fabe-890c-4174-9299-2f1edddafb53</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
-			<refitId>9039fabe-890c-4174-9299-2f1edddafb53</refitId>
+			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
 			<quantity>1</quantity>
@@ -15451,7 +15183,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
+			<equipmentNum>22</equipmentNum>
 			<typeName>ISAntiMissileSystem</typeName>
 			<equipTonnage>0.5</equipTonnage>
 		</part>
@@ -15967,7 +15699,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>6</quantity>
+			<quantity>4</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -18795,6 +18527,33 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>5</amountNeeded>
 			<clan>false</clan>
 		</part>
+		<part id="140" type="mekhq.campaign.parts.Armor">
+			<id>140</id>
+			<name>Armor (Reflective)</name>
+			<unitTonnage>50</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>bb035d28-af13-4169-ad1c-d95358330d97</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>7</amount>
+			<type>3</type>
+			<location>1</location>
+			<rear>true</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>true</clan>
+		</part>
 		<part id="1675" type="mekhq.campaign.parts.MekLocation">
 			<id>1675</id>
 			<name>Mech Left Leg (TSM)</name>
@@ -18824,33 +18583,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
-		</part>
-		<part id="140" type="mekhq.campaign.parts.Armor">
-			<id>140</id>
-			<name>Armor (Reflective)</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>bb035d28-af13-4169-ad1c-d95358330d97</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<amount>7</amount>
-			<type>3</type>
-			<location>1</location>
-			<rear>true</rear>
-			<amountNeeded>0</amountNeeded>
-			<clan>true</clan>
 		</part>
 		<part id="1674" type="mekhq.campaign.parts.Armor">
 			<id>1674</id>
@@ -23343,6 +23075,162 @@ Lower Leg Actuator
 Foot Actuator
 IS Improved Jump Jet
 IS Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+		</mtf>
+	</custom>
+	<custom>
+		<name>Enforcer III ENF-7X MUSE COMPACT Mk IV</name>
+		<mtf>Version:1.1
+Enforcer III
+ENF-7X MUSE COMPACT Mk IV
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3077
+Source:Jihad
+Rules Level:4
+
+Mass:50
+Engine:250 XL (Clan) Engine
+Structure:IS Endo Steel
+Myomer:Standard
+Cockpit:Standard Cockpit
+Gyro:XL Gyro
+
+Heat Sinks:12 Double
+Walk MP:5
+Jump MP:8
+
+Armor:Ferro-Fibrous(Clan)
+LA Armor:16
+RA Armor:16
+LT Armor:19
+RT Armor:19
+CT Armor:25
+HD Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:5
+RTR Armor:5
+RTC Armor:7
+
+Weapons:4
+Large Pulse Laser, Left Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Light PPC, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+IS Endo Steel
+IS Ferro-Fibrous
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumPulseLaser
+ISMediumPulseLaser
+Light PPC
+Light PPC
+IS Endo Steel
+IS Endo Steel
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+IS Ferro-Fibrous
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+IS Improved Jump Jet
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Sensors
+Life Support
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
 -Empty-
 -Empty-
 -Empty-
