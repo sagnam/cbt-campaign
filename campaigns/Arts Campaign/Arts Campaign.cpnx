@@ -24,7 +24,7 @@
 		<lastPartId>3329</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>3</lastMissionId>
-		<lastScenarioId>11</lastScenarioId>
+		<lastScenarioId>12</lastScenarioId>
 		<calendar>3077-05-15 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -838,7 +838,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>12</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>1</daysActivelyMaintained>
@@ -957,7 +957,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>12</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -1026,7 +1026,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>12</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>2</daysActivelyMaintained>
@@ -1050,7 +1050,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>12</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>5</daysSinceMaintenance>
 			<daysActivelyMaintained>5</daysActivelyMaintained>
@@ -1086,7 +1086,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>12</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>1</daysActivelyMaintained>
@@ -1105,7 +1105,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>12</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>6</daysSinceMaintenance>
 			<daysActivelyMaintained>6</daysActivelyMaintained>
@@ -3042,6 +3042,13 @@
 					</forceStub>
 					<date>3077-05-15 12:00:00</date>
 				</scenario>
+				<scenario id="12" type="mekhq.campaign.mission.Scenario">
+					<name>Base Defense</name>
+					<desc>Don&apos;t die!</desc>
+					<report></report>
+					<status>0</status>
+					<id>12</id>
+				</scenario>
 			</scenarios>
 		</mission>
 		<mission id="2" type="mekhq.campaign.mission.Mission">
@@ -3435,7 +3442,7 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>12</scenarioId>
 			<units>
 				<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72"/>
 				<unit id="814205df-e7bd-4ec0-8848-029ced9922c4"/>
