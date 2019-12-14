@@ -23,7 +23,7 @@
 		<lastPartId>4417</lastPartId>
 		<lastForceId>0</lastForceId>
 		<lastMissionId>3</lastMissionId>
-		<lastScenarioId>14</lastScenarioId>
+		<lastScenarioId>15</lastScenarioId>
 		<calendar>3077-05-24 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -32,6 +32,18 @@
 		</nameGen>
 		<currentReport>
 			<reportLine><![CDATA[<b>Thursday, May 24 3077</b>]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/15/3077, Equipment Sales, Sale of 4 Medium Pulse Lasers, CSB 120000]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/19/3077, Equipment Purchases, Purchase of Medium Pulse Laser, CSB -60000]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/19/3077, Equipment Purchases, Purchase of Medium Pulse Laser, CSB -60000]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/19/3077, Equipment Purchases, Purchase of Medium Pulse Laser, CSB -60000]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/19/3077, Equipment Purchases, Purchase of Medium Pulse Laser, CSB -60000]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 3 Ultra AC/5s, CSB 300000} -> {New = 05/15/3077, Equipment Sales, Sale of 2 Ultra AC/5s, CSB 200000}]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/19/3077, Equipment Purchases, Purchase of Ultra AC/5, CSB -200000]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 3 ER Large Lasers, CSB 300000} -> {New = 05/15/3077, Equipment Sales, Sale of 2 ER Large Lasers, CSB 200000}]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/16/3077, Equipment Purchases, Purchase of ER Large Laser, CSB -200000]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 2 Large Lasers, CSB 100000} -> {New = 05/15/3077, Equipment Sales, Sale of Large Laser, CSB 50000}]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/16/3077, Equipment Purchases, Purchase of Large Laser, CSB -100000]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of Large Laser, CSB 50000} -> {New = 05/15/3077, Equipment Sales, Sale of 1 Large Laser, CSB 50000}]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -323,7 +335,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>15</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>5</daysSinceMaintenance>
 			<daysActivelyMaintained>5</daysActivelyMaintained>
@@ -364,7 +376,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>15</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>3</daysActivelyMaintained>
@@ -450,11 +462,13 @@
 					<slot index="12" type="ISAMS Ammo" shots="12"/>
 				</location>
 			</entity>
+			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
+			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
 			<techId>6c7ee68c-4f5c-4a05-958e-be513d6cfa0f</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>-1</forceId>
-			<scenarioId>-1</scenarioId>
+			<forceId>0</forceId>
+			<scenarioId>15</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>2</daysActivelyMaintained>
@@ -477,12 +491,10 @@
 					<slot index="4" type="Clan Streak LRM 15 Ammo" shots="8"/>
 				</location>
 			</entity>
-			<driverId>ea523c3c-d20b-41cd-bd79-0242efc267b6</driverId>
-			<gunnerId>ea523c3c-d20b-41cd-bd79-0242efc267b6</gunnerId>
 			<techId>eb7978f0-c882-4a2c-bd48-ca4654d121bd</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>0</forceId>
+			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
@@ -501,12 +513,10 @@
 					<slot index="12" type="IS LB 10-X Cluster Ammo" shots="10"/>
 				</location>
 			</entity>
-			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
-			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
 			<techId>8ad0f7cb-cca7-4f06-99e1-0854a1f6780b</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>0</forceId>
+			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>5</daysSinceMaintenance>
@@ -524,10 +534,12 @@
 					<slot index="12" type="ISAMS Ammo" shots="12"/>
 				</location>
 			</entity>
+			<driverId>ea523c3c-d20b-41cd-bd79-0242efc267b6</driverId>
+			<gunnerId>ea523c3c-d20b-41cd-bd79-0242efc267b6</gunnerId>
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>15</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -540,12 +552,10 @@
 		<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Hermes II" model="HER-7S Mk IV" type="Biped" commander="false" externalId="b10b3a94-8ba3-404c-9a93-3b0625244a61">
 			</entity>
-			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
-			<gunnerId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</gunnerId>
 			<techId>c21fdf42-e28a-435e-b652-0939b5c4e04e</techId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>0</forceId>
+			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
@@ -689,7 +699,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>15</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>1</daysActivelyMaintained>
@@ -713,10 +723,12 @@
 					<slot index="9" type="IS Ammo LRM-20" shots="6"/>
 				</location>
 			</entity>
+			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
+			<gunnerId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</gunnerId>
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>15</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -793,13 +805,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-04-27 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -919,13 +931,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Vehicle</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<personnelLog>
@@ -1028,7 +1040,7 @@
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
 			<nTasks>0</nTasks>
-			<unitId>93f2b224-e9f8-4203-b8cc-d7c313149f72</unitId>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -1044,13 +1056,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1067,6 +1079,7 @@
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Gladiator GLD-5R</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-09 12:00:00</date><desc>Reassigned to Gladiator GLD-5R Mk II</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-09 12:00:00</date><desc>Reassigned to Hoplite HOP-4XD</desc><type>SERVICE</type></logEntry>
+				<logEntry><date>3077-05-24 00:00:00</date><desc>Reassigned to Penetrator PTR-4D</desc><type>SERVICE</type></logEntry>
 			</personnelLog>
 			<missionLog>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc><type>SERVICE</type></logEntry>
@@ -1076,10 +1089,10 @@
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-09 12:00:00</date><desc>Participated in Hanson&apos;s Hairdresser Delivery during mission The Rush Job</desc><type>SERVICE</type></logEntry>
+				<logEntry><date>3077-05-15 00:00:00</date><desc>Participated in Southern Cross Raid during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Any Landing You Can Walk Away From during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Base Defense during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Exodus during mission The Rush Job</desc><type>SERVICE</type></logEntry>
-				<logEntry><date>3077-05-15 00:00:00</date><desc>Participated in Southern Cross Raid during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 			</missionLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -1128,13 +1141,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1195,13 +1208,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Vehicle</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<personnelLog>
@@ -1242,7 +1255,7 @@
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
 			<nTasks>0</nTasks>
-			<unitId>bb035d28-af13-4169-ad1c-d95358330d97</unitId>
+			<unitId>9039fabe-890c-4174-9299-2f1edddafb53</unitId>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -1258,13 +1271,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1282,6 +1295,7 @@
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Reassigned to Rifleman RFL-8D</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-09 12:00:00</date><desc>Reassigned to Gladiator GLD-5R Mk II</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-15 12:00:00</date><desc>Reassigned to Legionnaire LGN-2X1 MUSE FIRE Mk II</desc><type>SERVICE</type></logEntry>
+				<logEntry><date>3077-05-24 00:00:00</date><desc>Reassigned to Gladiator GLD-5R Mk III</desc><type>SERVICE</type></logEntry>
 			</personnelLog>
 			<missionLog>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc><type>SERVICE</type></logEntry>
@@ -1338,13 +1352,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3053-11-09 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1407,12 +1421,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1436,10 +1450,10 @@
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Recon Enforce during mission Hauptmann</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-09 12:00:00</date><desc>Participated in Hanson&apos;s Hairdresser Delivery during mission The Rush Job</desc><type>SERVICE</type></logEntry>
+				<logEntry><date>3077-05-15 00:00:00</date><desc>Participated in Southern Cross Raid during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Any Landing You Can Walk Away From during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Base Defense during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Exodus during mission The Rush Job</desc><type>SERVICE</type></logEntry>
-				<logEntry><date>3077-05-15 00:00:00</date><desc>Participated in Southern Cross Raid during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 			</missionLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -1777,12 +1791,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-09-05 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1955,12 +1969,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2033,13 +2047,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2101,13 +2115,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2178,13 +2192,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3056-06-20 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2220,7 +2234,7 @@
 			<idleMonths>-1</idleMonths>
 			<id>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</id>
 			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
+			<portraitFile>lionel.png</portraitFile>
 			<xp>11</xp>
 			<daysToWaitForHealing>1</daysToWaitForHealing>
 			<gender>0</gender>
@@ -2230,7 +2244,7 @@
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
 			<nTasks>0</nTasks>
-			<unitId>b10b3a94-8ba3-404c-9a93-3b0625244a61</unitId>
+			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -2246,14 +2260,14 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
 				<type>Gunnery/Mech</type>
 				<level>4</level>
 				<bonus>1</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>4</level>
+				<bonus>0</bonus>
 			</skill>
 			<skill>
 				<type>Piloting/Mech</type>
@@ -2266,6 +2280,7 @@
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Assigned to Hermes II HER-7S</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-01-18 12:00:00</date><desc>Reassigned to Grim Reaper GRM-R-PR31</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-04-16 12:00:00</date><desc>Reassigned to Hermes II HER-7S Mk II</desc><type>SERVICE</type></logEntry>
+				<logEntry><date>3077-05-24 00:00:00</date><desc>Reassigned to Archer ARC-7L</desc><type>SERVICE</type></logEntry>
 			</personnelLog>
 			<missionLog>
 				<logEntry><date>3077-01-01 12:00:00</date><desc>Participated in Take Out Sniper Turret during mission First Mission</desc><type>SERVICE</type></logEntry>
@@ -2371,13 +2386,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3040-01-02 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2705,13 +2720,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2773,13 +2788,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2835,12 +2850,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-02-25 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -3516,6 +3531,13 @@
 					</forceStub>
 					<date>3077-05-16 12:00:00</date>
 				</scenario>
+				<scenario id="15" type="mekhq.campaign.mission.Scenario">
+					<name>Tower Defense</name>
+					<desc></desc>
+					<report></report>
+					<status>0</status>
+					<id>15</id>
+				</scenario>
 			</scenarios>
 		</mission>
 	</missions>
@@ -3525,14 +3547,14 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>15</scenarioId>
 			<units>
-				<unit id="93f2b224-e9f8-4203-b8cc-d7c313149f72"/>
+				<unit id="472e53ff-1c11-468e-8330-51ac0c56c474"/>
 				<unit id="814205df-e7bd-4ec0-8848-029ced9922c4"/>
 				<unit id="bb96f7e3-ce69-4b74-a250-5011aa07895b"/>
 				<unit id="1a24b9f9-75f4-4517-bdb2-de71bda8f71a"/>
-				<unit id="bb035d28-af13-4169-ad1c-d95358330d97"/>
-				<unit id="b10b3a94-8ba3-404c-9a93-3b0625244a61"/>
+				<unit id="9039fabe-890c-4174-9299-2f1edddafb53"/>
+				<unit id="01203ad5-eaf1-4252-97fa-08e46ad3aaac"/>
 			</units>
 		</force>
 	</forces>
@@ -4091,8 +4113,8 @@
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>300000 CSB</amount>
-			<description>Sale of 3 ER Large Lasers</description>
+			<amount>200000 CSB</amount>
+			<description>Sale of 2 ER Large Lasers</description>
 			<category>7</category>
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
@@ -4157,8 +4179,8 @@
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>100000 CSB</amount>
-			<description>Sale of 2 Large Lasers</description>
+			<amount>50000 CSB</amount>
+			<description>Sale of 1 Large Laser</description>
 			<category>7</category>
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
@@ -4325,12 +4347,6 @@
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>120000 CSB</amount>
-			<description>Sale of 4 Medium Pulse Lasers</description>
-			<category>7</category>
-			<date>3077-05-15 12:00:00</date>
-		</transaction>
-		<transaction>
 			<amount>175000 CSB</amount>
 			<description>Sale of 2 ProtoMech AC/8s</description>
 			<category>7</category>
@@ -4367,8 +4383,8 @@
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>300000 CSB</amount>
-			<description>Sale of 3 Ultra AC/5s</description>
+			<amount>200000 CSB</amount>
+			<description>Sale of 2 Ultra AC/5s</description>
 			<category>7</category>
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
@@ -4478,18 +4494,6 @@
 			<amount>1778069 CSB</amount>
 			<description>Sale of Locust LCT-3M</description>
 			<category>6</category>
-			<date>3077-05-16 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-200000 CSB</amount>
-			<description>Purchase of ER Large Laser</description>
-			<category>1</category>
-			<date>3077-05-16 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-100000 CSB</amount>
-			<description>Purchase of Large Laser</description>
-			<category>1</category>
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
@@ -4777,36 +4781,6 @@
 		<transaction>
 			<amount>-14000 CSB</amount>
 			<description>Purchase of Jump Jet</description>
-			<category>1</category>
-			<date>3077-05-19 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-60000 CSB</amount>
-			<description>Purchase of Medium Pulse Laser</description>
-			<category>1</category>
-			<date>3077-05-19 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-60000 CSB</amount>
-			<description>Purchase of Medium Pulse Laser</description>
-			<category>1</category>
-			<date>3077-05-19 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-60000 CSB</amount>
-			<description>Purchase of Medium Pulse Laser</description>
-			<category>1</category>
-			<date>3077-05-19 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-60000 CSB</amount>
-			<description>Purchase of Medium Pulse Laser</description>
-			<category>1</category>
-			<date>3077-05-19 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-200000 CSB</amount>
-			<description>Purchase of Ultra AC/5</description>
 			<category>1</category>
 			<date>3077-05-19 12:00:00</date>
 		</transaction>
@@ -5332,26 +5306,6 @@
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Sandblaster (AToW)</displayName>
 			<lookupName>sandblaster</lookupName>
 			<desc>A pilot with this ability gets a +4, +3, or +2 to the cluster table
@@ -5363,12 +5317,32 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5416,12 +5390,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -5436,12 +5410,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5456,12 +5430,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Battlesuit</skill>
-				<skill>Gunnery/Aerospace</skill>
+				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Spacecraft</skill>
-				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Aerospace</skill>
 				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Mech</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -5476,12 +5450,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5496,12 +5470,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5553,11 +5527,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5608,12 +5582,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -5644,12 +5618,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5704,25 +5678,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Blind Fighter (Unofficial)</displayName>
-			<lookupName>blind_fighter</lookupName>
-			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Hopping Jack (Unofficial)</displayName>
 			<lookupName>hopping_jack</lookupName>
 			<desc>Unit only suffers a +2 to-hit penalty for jumping, rather than a +3 to-hit penalty.</desc>
@@ -5734,6 +5689,25 @@ Note: This ability is only used for BattleMechs.</desc>
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Blind Fighter (Unofficial)</displayName>
+			<lookupName>blind_fighter</lookupName>
+			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 	</specialAbilities>
@@ -30654,168 +30628,6 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-		</mtf>
-	</custom>
-	<custom>
-		<name>Black Panther BKP-1R Mk III</name>
-		<mtf>Version:1.1
-Black Panther
-BKP-1R Mk III
-
-Config:Biped
-TechBase:Mixed (IS Chassis)
-Era:3077
-Source:Bob's Garage
-Rules Level:4
-
-Mass:60
-Engine:300 XL Engine(IS)
-Structure:IS Standard
-Myomer:Standard
-Cockpit:Small Cockpit
-Gyro:Standard Gyro
-
-Heat Sinks:19 Double
-Walk MP:5
-Jump MP:5
-
-Armor:Standard(Inner Sphere)
-LA Armor:20
-RA Armor:20
-LT Armor:22
-RT Armor:22
-CT Armor:30
-HD Armor:9
-LL Armor:28
-RL Armor:28
-RTL Armor:6
-RTR Armor:6
-RTC Armor:9
-
-Weapons:6
-ER Medium Pulse Laser, Left Arm
-ER Medium Pulse Laser, Right Arm
-ER Medium Pulse Laser, Left Torso
-Laser AMS, Left Torso
-ER Medium Pulse Laser, Right Torso
-ER Medium Pulse Laser, Center Torso
-
-Left Arm:
-Shoulder
-Upper Arm Actuator
-Lower Arm Actuator
-CLERMediumPulseLaser
-CLERMediumPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
--Empty-
--Empty-
--Empty-
--Empty-
-
-Right Arm:
-Shoulder
-Upper Arm Actuator
-Lower Arm Actuator
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLERMediumPulseLaser
-CLERMediumPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
--Empty-
-
-Left Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLERMediumPulseLaser
-CLERMediumPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-CLLaserAntiMissileSystem
-
-Right Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
-CLERMediumPulseLaser
-CLERMediumPulseLaser
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-Jump Jet
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-
-Center Torso:
-Fusion Engine
-Fusion Engine
-Fusion Engine
-Gyro
-Gyro
-Gyro
-Gyro
-Fusion Engine
-Fusion Engine
-Fusion Engine
-CLERMediumPulseLaser
-CLERMediumPulseLaser
-
-Head:
-Life Support
-Sensors
-Cockpit
-Sensors
-CLTargeting Computer
-CLTargeting Computer
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-Left Leg:
-Hip
-Upper Leg Actuator
-Lower Leg Actuator
-Foot Actuator
-Jump Jet
-Jump Jet
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-Right Leg:
-Hip
-Upper Leg Actuator
-Lower Leg Actuator
-Foot Actuator
-Jump Jet
-Jump Jet
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
-
-overview:This mech is a pure jumper/energy mech.  Best used by pilots with high energy class skills.
-capabilities:Very high mid range damage output for a light heavy mech with high mobility.  Not susceptable to ammo explosions.
-deployment:Mercenary Groups
-history:Only used by Bob-related space marine forces and other outlaws
 		</mtf>
 	</custom>
 	<custom>
