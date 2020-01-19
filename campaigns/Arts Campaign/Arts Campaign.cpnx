@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<campaign version="0.46.0">
+<campaign version="0.46.1">
 	<info>
 		<id>2bb87980-917a-4e06-a174-1a78cf857261</id>
 		<name>Art</name>
@@ -20,7 +20,7 @@
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
-		<lastPartId>4417</lastPartId>
+		<lastPartId>4428</lastPartId>
 		<lastForceId>0</lastForceId>
 		<lastMissionId>3</lastMissionId>
 		<lastScenarioId>15</lastScenarioId>
@@ -44,6 +44,16 @@
 			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 2 Large Lasers, CSB 100000} -> {New = 05/15/3077, Equipment Sales, Sale of Large Laser, CSB 50000}]]></reportLine>
 			<reportLine><![CDATA[Deleted Transaction: 05/16/3077, Equipment Purchases, Purchase of Large Laser, CSB -100000]]></reportLine>
 			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of Large Laser, CSB 50000} -> {New = 05/15/3077, Equipment Sales, Sale of 1 Large Laser, CSB 50000}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of Hi-Scout Drone (PathTrak), CSB 6750} -> {New = 05/16/3077, Unit Sales, Sale of Hi-Scout Drone (PathTrak), CSB 2250}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of Heavy Foot LRM Infantry Stalwart Support - Heavy LRM Infantry, CSB 132750} -> {New = 05/16/3077, Unit Sales, Sale of Heavy Foot LRM Infantry Stalwart Support - Heavy LRM Infantry, CSB 44250}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of 'Mech Mortar/8 Battery (Dual), CSB 546000} -> {New = 05/16/3077, Unit Sales, Sale of 'Mech Mortar/8 Battery (Dual), CSB 182000}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of Light AC/5 Turret (Dual), CSB 494250} -> {New = 05/16/3077, Unit Sales, Sale of Light AC/5 Turret (Dual), CSB 164750}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of MML/9 Turret (Triple), CSB 787846} -> {New = 05/16/3077, Unit Sales, Sale of MML/9 Turret (Triple), CSB 262616}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of Locust LCT-3M, CSB 1778069} -> {New = 05/16/3077, Unit Sales, Sale of Locust LCT-3M, CSB 592690}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of Locust LCT-5W2, CSB 2617713} -> {New = 05/16/3077, Unit Sales, Sale of Locust LCT-5W2, CSB 1017081}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Unit Sales, Sale of Locust LCT-3M, CSB 592690} -> {New = 05/16/3077, Unit Sales, Sale of Locust LCT-3M, CSB 711225}]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/16/3077, Salvage Exchange, Mission 3 Session 2, CSB 4576666} -> {New = 05/16/3077, Salvage Exchange, Mission 3 Session 2, CSB 4229333}]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/24/3077, Equipment Sales, Sale of 1 Watchdog Composite Electronic Warfare System (CEWS), CSB 250000.0]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -805,13 +815,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-04-27 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -931,13 +941,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Vehicle</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<personnelLog>
@@ -1056,13 +1066,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1141,13 +1151,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1208,13 +1218,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Vehicle</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<personnelLog>
@@ -1271,13 +1281,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1352,13 +1362,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3053-11-09 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1421,12 +1431,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1791,12 +1801,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-09-05 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1969,12 +1979,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2047,13 +2057,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2115,13 +2125,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2192,13 +2202,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3056-06-20 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2260,14 +2270,14 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
-				<bonus>1</bonus>
-			</skill>
-			<skill>
 				<type>Small Arms</type>
 				<level>4</level>
 				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
+				<bonus>1</bonus>
 			</skill>
 			<skill>
 				<type>Piloting/Mech</type>
@@ -2386,13 +2396,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3040-01-02 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2720,13 +2730,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2788,13 +2798,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2850,12 +2860,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-02-25 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -4443,7 +4453,7 @@
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>4576666 CSB</amount>
+			<amount>4229333 CSB</amount>
 			<description>Mission 3 Session 2</description>
 			<category>12</category>
 			<date>3077-05-16 12:00:00</date>
@@ -4455,43 +4465,43 @@
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>6750 CSB</amount>
+			<amount>2250 CSB</amount>
 			<description>Sale of Hi-Scout Drone (PathTrak)</description>
 			<category>6</category>
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>132750 CSB</amount>
+			<amount>44250 CSB</amount>
 			<description>Sale of Heavy Foot LRM Infantry Stalwart Support - Heavy LRM Infantry</description>
 			<category>6</category>
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>546000 CSB</amount>
+			<amount>182000 CSB</amount>
 			<description>Sale of &apos;Mech Mortar/8 Battery (Dual)</description>
 			<category>6</category>
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>494250 CSB</amount>
+			<amount>164750 CSB</amount>
 			<description>Sale of Light AC/5 Turret (Dual)</description>
 			<category>6</category>
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>787846 CSB</amount>
+			<amount>262616 CSB</amount>
 			<description>Sale of MML/9 Turret (Triple)</description>
 			<category>6</category>
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>2617713 CSB</amount>
+			<amount>1017081 CSB</amount>
 			<description>Sale of Locust LCT-5W2</description>
 			<category>6</category>
 			<date>3077-05-16 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>1778069 CSB</amount>
+			<amount>711225 CSB</amount>
 			<description>Sale of Locust LCT-3M</description>
 			<category>6</category>
 			<date>3077-05-16 12:00:00</date>
@@ -4801,6 +4811,90 @@
 			<description>Purchase of Armor (Standard)</description>
 			<category>1</category>
 			<date>3077-05-21 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>250 CSB</amount>
+			<description>Sale of 100 Half Machine Gun Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>11250 CSB</amount>
+			<description>Sale of 3 LRM 15 Artemis-capable Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>90000 CSB</amount>
+			<description>Sale of 12 LRM 20 Semi-guided Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>10000 CSB</amount>
+			<description>Sale of 16 LRM 5 Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>0 CSB</amount>
+			<description>Sale of 1 LRM 5 Ammo Bin</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>17500 CSB</amount>
+			<description>Sale of 14 MML 5 LRM Artemis-capable Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>45000 CSB</amount>
+			<description>Sale of 24 MML 5 LRM Semi-guided Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>6000 CSB</amount>
+			<description>Sale of 20 Rotary AC/5 Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>0 CSB</amount>
+			<description>Sale of 3 Rotary AC/5 Ammo Bins</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>27000 CSB</amount>
+			<description>Sale of 50 Streak SRM 2 Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>0 CSB</amount>
+			<description>Sale of 1 Streak SRM 2 Ammo Bin</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>27000 CSB</amount>
+			<description>Sale of 15 Streak SRM 6 Ammo</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>0 CSB</amount>
+			<description>Sale of 1 Streak SRM 6 Ammo Bin</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>1250 CSB</amount>
+			<description>Sale of 1 Lower Arm Actuator</description>
+			<category>7</category>
+			<date>3077-05-24 12:00:00</date>
 		</transaction>
 	</finances>
 	<location>
@@ -5306,6 +5400,26 @@
 			</skillPrereq>
 		</ability>
 		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
 			<displayName>Sandblaster (AToW)</displayName>
 			<lookupName>sandblaster</lookupName>
 			<desc>A pilot with this ability gets a +4, +3, or +2 to the cluster table
@@ -5317,32 +5431,12 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5390,12 +5484,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -5410,12 +5504,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5430,12 +5524,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aircraft</skill>
-				<skill>Gunnery/Spacecraft</skill>
+				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aerospace</skill>
-				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Spacecraft</skill>
 				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Vehicle</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -5450,12 +5544,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5470,12 +5564,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5527,11 +5621,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5582,12 +5676,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -5618,12 +5712,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5678,6 +5772,25 @@ Note: This ability is only used for BattleMechs.</desc>
 			</skillPrereq>
 		</ability>
 		<ability>
+			<displayName>Blind Fighter (Unofficial)</displayName>
+			<lookupName>blind_fighter</lookupName>
+			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
 			<displayName>Hopping Jack (Unofficial)</displayName>
 			<lookupName>hopping_jack</lookupName>
 			<desc>Unit only suffers a +2 to-hit penalty for jumping, rather than a +3 to-hit penalty.</desc>
@@ -5689,25 +5802,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Blind Fighter (Unofficial)</displayName>
-			<lookupName>blind_fighter</lookupName>
-			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 	</specialAbilities>
@@ -7157,32 +7251,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
-		<part id="160" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>160</id>
-			<name>Rotary AC/5 Ammo Bin</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>3</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>7</equipmentNum>
-			<typeName>CLRotaryAC5 Ammo</typeName>
-			<munition>0</munition>
-			<shotsNeeded>20</shotsNeeded>
-			<checkedToday>false</checkedToday>
-			<oneShot>false</oneShot>
-		</part>
 		<part id="161" type="mekhq.campaign.parts.EnginePart">
 			<id>161</id>
 			<name>350 XL Engine</name>
@@ -8182,7 +8250,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<id>265</id>
 			<name>Upper Arm Actuator</name>
 			<unitTonnage>40</unitTonnage>
-			<hits>1</hits>
+			<hits>0</hits>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
@@ -11180,110 +11248,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>CLStreakSRM2</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
-		<part id="1109" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>1109</id>
-			<name>Half Machine Gun Ammo Bin</name>
-			<unitTonnage>35</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Machine Gun Ammo - Half</typeName>
-			<munition>0</munition>
-			<shotsNeeded>100</shotsNeeded>
-			<checkedToday>false</checkedToday>
-			<oneShot>false</oneShot>
-		</part>
-		<part id="1110" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>1110</id>
-			<name>LRM 5 Ammo Bin</name>
-			<unitTonnage>35</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Ammo LRM-5</typeName>
-			<munition>0</munition>
-			<shotsNeeded>24</shotsNeeded>
-			<checkedToday>false</checkedToday>
-			<oneShot>false</oneShot>
-		</part>
-		<part id="1111" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>1111</id>
-			<name>Streak SRM 2 Ammo Bin</name>
-			<unitTonnage>35</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Streak SRM 2 Ammo</typeName>
-			<munition>0</munition>
-			<shotsNeeded>50</shotsNeeded>
-			<checkedToday>false</checkedToday>
-			<oneShot>false</oneShot>
-		</part>
-		<part id="1131" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>1131</id>
-			<name>LRM 15 Artemis-capable Ammo Bin</name>
-			<unitTonnage>35</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>3</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>IS Ammo LRM-15 Artemis-capable</typeName>
-			<munition>8192</munition>
-			<shotsNeeded>8</shotsNeeded>
-			<checkedToday>false</checkedToday>
-			<oneShot>false</oneShot>
-		</part>
 		<part id="1599" type="mekhq.campaign.parts.Armor">
 			<id>1599</id>
 			<name>Armor (Heavy Ferro-Fibrous)</name>
@@ -11458,102 +11422,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<parentPartId>-1</parentPartId>
 			<type>14</type>
 			<location>7</location>
-		</part>
-		<part id="1622" type="mekhq.campaign.parts.AmmoStorage">
-			<id>1622</id>
-			<name>Half Machine Gun Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Machine Gun Ammo - Half</typeName>
-			<munition>0</munition>
-			<shots>100</shots>
-		</part>
-		<part id="1624" type="mekhq.campaign.parts.AmmoStorage">
-			<id>1624</id>
-			<name>LRM 5 Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Ammo LRM-5</typeName>
-			<munition>0</munition>
-			<shots>16</shots>
-		</part>
-		<part id="1626" type="mekhq.campaign.parts.AmmoStorage">
-			<id>1626</id>
-			<name>Streak SRM 2 Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Streak SRM 2 Ammo</typeName>
-			<munition>0</munition>
-			<shots>50</shots>
-		</part>
-		<part id="1637" type="mekhq.campaign.parts.AmmoStorage">
-			<id>1637</id>
-			<name>LRM 15 Artemis-capable Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>IS Ammo LRM-15 Artemis-capable</typeName>
-			<munition>8192</munition>
-			<shots>3</shots>
 		</part>
 		<part id="1658" type="mekhq.campaign.parts.MekLocation">
 			<id>1658</id>
@@ -13805,32 +13673,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>CLTAG</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
-		<part id="2073" type="mekhq.campaign.parts.equipment.AmmoBin">
-			<id>2073</id>
-			<name>Streak SRM 6 Ammo Bin</name>
-			<unitTonnage>20</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Streak SRM 6 Ammo</typeName>
-			<munition>0</munition>
-			<shotsNeeded>15</shotsNeeded>
-			<checkedToday>false</checkedToday>
-			<oneShot>false</oneShot>
-		</part>
 		<part id="2074" type="mekhq.campaign.parts.EnginePart">
 			<id>2074</id>
 			<name>95 Fusion (Clan) [Vehicle] Engine</name>
@@ -13927,30 +13769,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
-		</part>
-		<part id="2473" type="mekhq.campaign.parts.AmmoStorage">
-			<id>2473</id>
-			<name>Streak SRM 6 Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>Clan Streak SRM 6 Ammo</typeName>
-			<munition>0</munition>
-			<shots>15</shots>
 		</part>
 		<part id="2497" type="mekhq.campaign.parts.BaArmor">
 			<id>2497</id>
@@ -19602,54 +19420,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>0</type>
 			<gyroTonnage>2.0</gyroTonnage>
 		</part>
-		<part id="2980" type="mekhq.campaign.parts.AmmoStorage">
-			<id>2980</id>
-			<name>Rotary AC/5 Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>ISRotaryAC5 Ammo</typeName>
-			<munition>0</munition>
-			<shots>20</shots>
-		</part>
-		<part id="2981" type="mekhq.campaign.parts.AmmoStorage">
-			<id>2981</id>
-			<name>MML 5 LRM Semi-guided Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>IS Ammo MML-5 LRM Semi-guided</typeName>
-			<munition>2097152</munition>
-			<shots>24</shots>
-		</part>
 		<part id="2983" type="mekhq.campaign.parts.equipment.AmmoBin">
 			<id>2983</id>
 			<name>Anti-Missile System Ammo [IS] Bin</name>
@@ -19676,30 +19446,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
-		</part>
-		<part id="3329" type="mekhq.campaign.parts.AmmoStorage">
-			<id>3329</id>
-			<name>MML 5 LRM Artemis-capable Ammo</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>IS Ammo MML-5 LRM Artemis-capable</typeName>
-			<munition>8192</munition>
-			<shots>14</shots>
 		</part>
 		<part id="3660" type="mekhq.campaign.parts.MekLocation">
 			<id>3660</id>
@@ -22544,6 +22290,29 @@ Note: This ability is only used for BattleMechs.</desc>
 			<replacementId>-1</replacementId>
 			<type>10</type>
 			<location>5</location>
+		</part>
+		<part id="3886" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>3886</id>
+			<name>TAG</name>
+			<unitTonnage>20</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>ISTAG</typeName>
+			<equipTonnage>1.0</equipTonnage>
 		</part>
 		<part id="3906" type="mekhq.campaign.parts.MekLocation">
 			<id>3906</id>
@@ -27295,28 +27064,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>8</type>
 			<location>5</location>
 		</part>
-		<part id="4330" type="mekhq.campaign.parts.MekActuator">
-			<id>4330</id>
-			<name>Lower Arm Actuator</name>
-			<unitTonnage>50</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<type>9</type>
-			<location>4</location>
-		</part>
 		<part id="4331" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>4331</id>
 			<name>Light PPC</name>
@@ -27886,30 +27633,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
-		</part>
-		<part id="4363" type="mekhq.campaign.parts.AmmoStorage">
-			<id>4363</id>
-			<name>LRM 20 Semi-guided Ammo</name>
-			<unitTonnage>1</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>-1</equipmentNum>
-			<typeName>IS Ammo LRM-20 Semi-guided</typeName>
-			<munition>2097152</munition>
-			<shots>12</shots>
 		</part>
 		<part id="4368" type="mekhq.campaign.parts.MekLocation">
 			<id>4368</id>
@@ -28839,6 +28562,75 @@ Note: This ability is only used for BattleMechs.</desc>
 			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
+		</part>
+		<part id="4418" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>4418</id>
+			<name>ER Medium Laser</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>1</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>CLERMediumLaser</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="4423" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>4423</id>
+			<name>ER Medium Laser</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>CLBAERMediumLaser</typeName>
+			<equipTonnage>0.8</equipTonnage>
+		</part>
+		<part id="4424" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>4424</id>
+			<name>Watchdog Composite Electronic Warfare System (CEWS)</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>WatchdogECMSuite</typeName>
+			<equipTonnage>1.5</equipTonnage>
 		</part>
 	</parts>
 	<gameOptions>
@@ -29865,7 +29657,7 @@ Note: This ability is only used for BattleMechs.</desc>
 	</customPlanetaryEvents>
 	<custom>
 		<name>Enforcer III ENF-7X MUSE COMPACT Mk II</name>
-		<mtf>Version:1.1
+		<mtf><![CDATA[Version:1.1
 Enforcer III
 ENF-7X MUSE COMPACT Mk II
 
@@ -30016,11 +29808,11 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Legionnaire LGN-2X1 MUSE FIRE Mk II</name>
-		<mtf>Version:1.1
+		<mtf><![CDATA[Version:1.1
 Legionnaire
 LGN-2X1 MUSE FIRE Mk II
 
@@ -30171,11 +29963,11 @@ IS Endo Steel
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Ursus PR Mk II</name>
-		<mtf>Version:1.0
+		<mtf><![CDATA[Version:1.0
 Ursus
 PR Mk II
 
@@ -30323,11 +30115,11 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Hermes II HER-7S Mk II</name>
-		<mtf>Version:1.0
+		<mtf><![CDATA[Version:1.0
 Hermes II
 HER-7S Mk II
 
@@ -30476,11 +30268,11 @@ IS Heavy Ferro-Fibrous
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Ursus PR Mk III</name>
-		<mtf>Version:1.0
+		<mtf><![CDATA[Version:1.0
 Ursus
 PR Mk III
 
@@ -30628,11 +30420,11 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Hermes II HER-7S Mk III</name>
-		<mtf>Version:1.0
+		<mtf><![CDATA[Version:1.0
 Hermes II
 HER-7S Mk III
 
@@ -30781,11 +30573,11 @@ IS Heavy Ferro-Fibrous
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Enforcer III ENF-7X MUSE COMPACT Mk III</name>
-		<mtf>Version:1.1
+		<mtf><![CDATA[Version:1.1
 Enforcer III
 ENF-7X MUSE COMPACT Mk III
 
@@ -30937,11 +30729,11 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Hermes II HER-7S Mk IV</name>
-		<mtf>Version:1.0
+		<mtf><![CDATA[Version:1.0
 Hermes II
 HER-7S Mk IV
 
@@ -31089,11 +30881,11 @@ IS Heavy Ferro-Fibrous
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Gladiator GLD-5R Mk III</name>
-		<mtf>Version:1.1
+		<mtf><![CDATA[Version:1.1
 Gladiator
 GLD-5R Mk III
 
@@ -31246,11 +31038,11 @@ IS Improved Jump Jet
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Enforcer III ENF-7X MUSE COMPACT Mk IV</name>
-		<mtf>Version:1.1
+		<mtf><![CDATA[Version:1.1
 Enforcer III
 ENF-7X MUSE COMPACT Mk IV
 
@@ -31402,11 +31194,11 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 	<custom>
 		<name>Enforcer III ENF-7X MUSE COMPACT Mk V</name>
-		<mtf>Version:1.1
+		<mtf><![CDATA[Version:1.1
 Enforcer III
 ENF-7X MUSE COMPACT Mk V
 
@@ -31559,6 +31351,6 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-		</mtf>
+]]></mtf>
 	</custom>
 </campaign>
