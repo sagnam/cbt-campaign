@@ -23,7 +23,7 @@
 		<lastPartId>4840</lastPartId>
 		<lastForceId>0</lastForceId>
 		<lastMissionId>3</lastMissionId>
-		<lastScenarioId>15</lastScenarioId>
+		<lastScenarioId>16</lastScenarioId>
 		<calendar>3077-06-06 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -323,7 +323,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>16</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
 			<daysActivelyMaintained>4</daysActivelyMaintained>
@@ -364,7 +364,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>16</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>2</daysActivelyMaintained>
@@ -458,7 +458,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>16</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
 			<daysActivelyMaintained>4</daysActivelyMaintained>
@@ -525,7 +525,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>16</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -586,7 +586,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>16</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>6</daysSinceMaintenance>
 			<daysActivelyMaintained>6</daysActivelyMaintained>
@@ -615,7 +615,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>0</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>16</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>0</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -3531,6 +3531,13 @@
 					</forceStub>
 					<date>3077-05-24 12:00:00</date>
 				</scenario>
+				<scenario id="16" type="mekhq.campaign.mission.Scenario">
+					<name>Unburnable Airfield</name>
+					<desc></desc>
+					<report></report>
+					<status>0</status>
+					<id>16</id>
+				</scenario>
 			</scenarios>
 		</mission>
 	</missions>
@@ -3540,7 +3547,7 @@
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
 			<iconFileName>grimejection11.jpg</iconFileName>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>16</scenarioId>
 			<units>
 				<unit id="472e53ff-1c11-468e-8330-51ac0c56c474"/>
 				<unit id="814205df-e7bd-4ec0-8848-029ced9922c4"/>
