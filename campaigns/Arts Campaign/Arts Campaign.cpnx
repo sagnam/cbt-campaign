@@ -34,6 +34,13 @@
 			<reportLine><![CDATA[<b>Saturday, June 9 3077</b>]]></reportLine>
 			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> works on BattleMaster BLR-1GR-UK Mk III Customization, 16020 minutes left.]]></reportLine>
 			<reportLine><![CDATA[The customization of BattleMaster BLR-1GR-UK Mk III is complete.]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 3 Flamers, CSB 11250} -> {New = 05/15/3077, Equipment Sales, Sale of 2 Flamers, CSB 7500}]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 06/06/3077, Equipment Purchases, Purchase of Flamer, CSB -7500]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 06/06/3077, Equipment Purchases, Purchase of ER Medium Laser, CSB -80000]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 06/06/3077, Equipment Purchases, Purchase of ER Medium Laser, CSB -80000]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 06/09/3077, Equipment Sales, Sale of 2 ER Medium Lasers, CSB 80000.0]]></reportLine>
+			<reportLine><![CDATA[Deleted Transaction: 05/24/3077, Equipment Purchases, Purchase of ER Large Laser, CSB -200000]]></reportLine>
+			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 2 ER Large Lasers, CSB 200000} -> {New = 05/15/3077, Equipment Sales, Sale of ER Large Laser, CSB 100000}]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -4094,8 +4101,8 @@
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>200000 CSB</amount>
-			<description>Sale of 2 ER Large Lasers</description>
+			<amount>100000 CSB</amount>
+			<description>Sale of ER Large Laser</description>
 			<category>7</category>
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
@@ -4106,8 +4113,8 @@
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>11250 CSB</amount>
-			<description>Sale of 3 Flamers</description>
+			<amount>7500 CSB</amount>
+			<description>Sale of 2 Flamers</description>
 			<category>7</category>
 			<date>3077-05-15 12:00:00</date>
 		</transaction>
@@ -4916,12 +4923,6 @@
 			<date>3077-05-24 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>-200000 CSB</amount>
-			<description>Purchase of ER Large Laser</description>
-			<category>1</category>
-			<date>3077-05-24 12:00:00</date>
-		</transaction>
-		<transaction>
 			<amount>-300000 CSB</amount>
 			<description>Purchase of ER PPC</description>
 			<category>1</category>
@@ -4994,18 +4995,6 @@
 			<date>3077-06-06 12:00:00</date>
 		</transaction>
 		<transaction>
-			<amount>-80000 CSB</amount>
-			<description>Purchase of ER Medium Laser</description>
-			<category>1</category>
-			<date>3077-06-06 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-80000 CSB</amount>
-			<description>Purchase of ER Medium Laser</description>
-			<category>1</category>
-			<date>3077-06-06 12:00:00</date>
-		</transaction>
-		<transaction>
 			<amount>9505849 CSB</amount>
 			<description>Sale of Hermes II HER-7S Mk IV</description>
 			<category>6</category>
@@ -5015,12 +5004,6 @@
 			<amount>-8317200 CSB</amount>
 			<description>Purchased Zeus ZEU-5S</description>
 			<category>2</category>
-			<date>3077-06-06 12:00:00</date>
-		</transaction>
-		<transaction>
-			<amount>-7500 CSB</amount>
-			<description>Purchase of Flamer</description>
-			<category>1</category>
 			<date>3077-06-06 12:00:00</date>
 		</transaction>
 		<transaction>
@@ -22404,7 +22387,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>3</quantity>
+			<quantity>1</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
