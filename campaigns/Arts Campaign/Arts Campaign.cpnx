@@ -20,27 +20,18 @@
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
-		<lastPartId>6472</lastPartId>
+		<lastPartId>6498</lastPartId>
 		<lastForceId>0</lastForceId>
 		<lastMissionId>3</lastMissionId>
 		<lastScenarioId>16</lastScenarioId>
-		<calendar>3077-06-09 12:00:00</calendar>
+		<calendar>3077-07-20 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
 			<faction>General</faction>
 			<percentFemale>50</percentFemale>
 		</nameGen>
 		<currentReport>
-			<reportLine><![CDATA[<b>Saturday, June 9 3077</b>]]></reportLine>
-			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> works on BattleMaster BLR-1GR-UK Mk III Customization, 16020 minutes left.]]></reportLine>
-			<reportLine><![CDATA[The customization of BattleMaster BLR-1GR-UK Mk III is complete.]]></reportLine>
-			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 3 Flamers, CSB 11250} -> {New = 05/15/3077, Equipment Sales, Sale of 2 Flamers, CSB 7500}]]></reportLine>
-			<reportLine><![CDATA[Deleted Transaction: 06/06/3077, Equipment Purchases, Purchase of Flamer, CSB -7500]]></reportLine>
-			<reportLine><![CDATA[Deleted Transaction: 06/06/3077, Equipment Purchases, Purchase of ER Medium Laser, CSB -80000]]></reportLine>
-			<reportLine><![CDATA[Deleted Transaction: 06/06/3077, Equipment Purchases, Purchase of ER Medium Laser, CSB -80000]]></reportLine>
-			<reportLine><![CDATA[Deleted Transaction: 06/09/3077, Equipment Sales, Sale of 2 ER Medium Lasers, CSB 80000.0]]></reportLine>
-			<reportLine><![CDATA[Deleted Transaction: 05/24/3077, Equipment Purchases, Purchase of ER Large Laser, CSB -200000]]></reportLine>
-			<reportLine><![CDATA[Edited Transaction: {Previous = 05/15/3077, Equipment Sales, Sale of 2 ER Large Lasers, CSB 200000} -> {New = 05/15/3077, Equipment Sales, Sale of ER Large Laser, CSB 100000}]]></reportLine>
+			<reportLine><![CDATA[<b>Friday, July 20 3077</b>]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -332,9 +323,9 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>0</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>0</astechDaysMaintained>
+			<daysSinceMaintenance>6</daysSinceMaintenance>
+			<daysActivelyMaintained>6</daysActivelyMaintained>
+			<astechDaysMaintained>36</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -354,9 +345,9 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>4</daysSinceMaintenance>
-			<daysActivelyMaintained>4</daysActivelyMaintained>
-			<astechDaysMaintained>24</astechDaysMaintained>
+			<daysSinceMaintenance>3</daysSinceMaintenance>
+			<daysActivelyMaintained>3</daysActivelyMaintained>
+			<astechDaysMaintained>18</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -402,9 +393,9 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>0</daysSinceMaintenance>
+			<daysSinceMaintenance>6</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>0</astechDaysMaintained>
+			<astechDaysMaintained>36</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -429,16 +420,19 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>6</daysSinceMaintenance>
-			<daysActivelyMaintained>6</daysActivelyMaintained>
-			<astechDaysMaintained>36</astechDaysMaintained>
+			<daysSinceMaintenance>5</daysSinceMaintenance>
+			<daysActivelyMaintained>5</daysActivelyMaintained>
+			<astechDaysMaintained>30</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
 		</unit>
 		<unit id="472e53ff-1c11-468e-8330-51ac0c56c474" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Penetrator" model="PTR-4D Mk III" type="Biped" commander="false" externalId="472e53ff-1c11-468e-8330-51ac0c56c474" camoCategory="-- No Camo --">
+			<entity chassis="Penetrator" model="PTR-4D Matt Mk IV" type="Biped" commander="false" externalId="472e53ff-1c11-468e-8330-51ac0c56c474" c3UUID="441e741d-5930-4554-b778-ab180550218d">
+				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+				</c3iset>
 			</entity>
 			<driverId>ea523c3c-d20b-41cd-bd79-0242efc267b6</driverId>
 			<gunnerId>ea523c3c-d20b-41cd-bd79-0242efc267b6</gunnerId>
@@ -447,9 +441,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>6</daysSinceMaintenance>
+			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>36</astechDaysMaintained>
+			<astechDaysMaintained>18</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -472,9 +466,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>4</daysSinceMaintenance>
+			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>24</astechDaysMaintained>
+			<astechDaysMaintained>18</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -510,9 +504,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>3</daysSinceMaintenance>
+			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>18</astechDaysMaintained>
+			<astechDaysMaintained>12</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -538,9 +532,9 @@
 			<forceId>-1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>0</daysSinceMaintenance>
-			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>0</astechDaysMaintained>
+			<daysSinceMaintenance>6</daysSinceMaintenance>
+			<daysActivelyMaintained>6</daysActivelyMaintained>
+			<astechDaysMaintained>36</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -559,9 +553,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>2</daysSinceMaintenance>
+			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>12</astechDaysMaintained>
+			<astechDaysMaintained>6</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -575,20 +569,19 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>2</daysSinceMaintenance>
+			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>12</astechDaysMaintained>
+			<astechDaysMaintained>6</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
 			<history></history>
 		</unit>
 		<unit id="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Penetrator" model="PTR-4D" type="Biped" commander="false" externalId="8e9da27e-eb33-4e93-b4a0-f684de9af4ed">
-      The first slot in a location is at index="1".
-				<location index="1"> Center Torso
-					<slot index="12" type="ISAMS Ammo" shots="12"/>
-				</location>
+			<entity chassis="Penetrator" model="PTR-4D Ryan Mk II" type="Biped" commander="false" externalId="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" c3UUID="28bc1504-4675-42b5-81b6-26130fa23ee2">
+				<c3iset>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+				</c3iset>
 			</entity>
 			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
 			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
@@ -597,9 +590,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>2</daysSinceMaintenance>
+			<daysSinceMaintenance>6</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>12</astechDaysMaintained>
+			<astechDaysMaintained>36</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -623,9 +616,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>3</daysSinceMaintenance>
+			<daysSinceMaintenance>2</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>18</astechDaysMaintained>
+			<astechDaysMaintained>12</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -644,9 +637,9 @@
 			<forceId>0</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
-			<daysSinceMaintenance>2</daysSinceMaintenance>
+			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
-			<astechDaysMaintained>12</astechDaysMaintained>
+			<astechDaysMaintained>6</astechDaysMaintained>
 			<mothballTime>0</mothballTime>
 			<mothballed>false</mothballed>
 			<fluffName></fluffName>
@@ -691,13 +684,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-04-27 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -817,13 +810,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Vehicle</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<personnelLog>
@@ -942,13 +935,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1031,13 +1024,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1098,13 +1091,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Vehicle</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<personnelLog>
@@ -1161,13 +1154,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1245,13 +1238,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3053-11-09 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1314,12 +1307,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1538,14 +1531,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>12</nTasks>
+			<nTasks>20</nTasks>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
+			<minutesLeft>480</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3039-04-17 12:00:00</birthday>
 			<skill>
@@ -1680,12 +1673,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-09-05 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1858,12 +1851,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1940,13 +1933,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2008,13 +2001,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2089,13 +2082,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3056-06-20 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2157,14 +2150,14 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
 				<type>Gunnery/Mech</type>
 				<level>4</level>
 				<bonus>1</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>4</level>
+				<bonus>0</bonus>
 			</skill>
 			<skill>
 				<type>Piloting/Mech</type>
@@ -2287,13 +2280,13 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3040-01-02 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2594,7 +2587,7 @@
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
 			<xp>1</xp>
-			<daysToWaitForHealing>5</daysToWaitForHealing>
+			<daysToWaitForHealing>9</daysToWaitForHealing>
 			<gender>0</gender>
 			<rank>-2</rank>
 			<rankLevel>0</rankLevel>
@@ -2606,7 +2599,7 @@
 			<status>0</status>
 			<prisonerstatus>1</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
-			<hits>4</hits>
+			<hits>1</hits>
 			<toughness>0</toughness>
 			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>0</overtimeLeft>
@@ -2617,13 +2610,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2685,13 +2678,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2747,12 +2740,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3054-02-25 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -5312,6 +5305,84 @@
 			<category>1</category>
 			<date>3077-06-08 12:00:00</date>
 		</transaction>
+		<transaction>
+			<amount>-300000 CSB</amount>
+			<description>Purchase of ER PPC</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-60000 CSB</amount>
+			<description>Purchase of Medium Pulse Laser</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-750000 CSB</amount>
+			<description>Purchase of Improved C3 Computer (C3I)</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-100000 CSB</amount>
+			<description>Purchase of Armor (Ferro-Fibrous)</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-100000 CSB</amount>
+			<description>Purchase of Armor (Ferro-Fibrous)</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-750000 CSB</amount>
+			<description>Purchase of Improved C3 Computer (C3I)</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-100000 CSB</amount>
+			<description>Purchase of Armor (Ferro-Fibrous)</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-100000 CSB</amount>
+			<description>Purchase of Armor (Ferro-Fibrous)</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-60000 CSB</amount>
+			<description>Purchase of Medium Pulse Laser</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-60000 CSB</amount>
+			<description>Purchase of Medium Pulse Laser</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-60000 CSB</amount>
+			<description>Purchase of Medium Pulse Laser</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-60000 CSB</amount>
+			<description>Purchase of Medium Pulse Laser</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-100000 CSB</amount>
+			<description>Purchase of Armor (Ferro-Fibrous)</description>
+			<category>1</category>
+			<date>3077-06-09 12:00:00</date>
+		</transaction>
 	</finances>
 	<location>
 		<currentPlanetId>Galatea</currentPlanetId>
@@ -5816,26 +5887,6 @@
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Sandblaster (AToW)</displayName>
 			<lookupName>sandblaster</lookupName>
 			<desc>A pilot with this ability gets a +4, +3, or +2 to the cluster table
@@ -5847,12 +5898,32 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5900,12 +5971,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -5920,12 +5991,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5940,12 +6011,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Battlesuit</skill>
-				<skill>Gunnery/Aerospace</skill>
+				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Spacecraft</skill>
-				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Aerospace</skill>
 				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Mech</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -5960,12 +6031,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -5980,12 +6051,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6037,11 +6108,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6092,12 +6163,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -6128,12 +6199,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6188,25 +6259,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Blind Fighter (Unofficial)</displayName>
-			<lookupName>blind_fighter</lookupName>
-			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Hopping Jack (Unofficial)</displayName>
 			<lookupName>hopping_jack</lookupName>
 			<desc>Unit only suffers a +2 to-hit penalty for jumping, rather than a +3 to-hit penalty.</desc>
@@ -6218,6 +6270,25 @@ Note: This ability is only used for BattleMechs.</desc>
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Blind Fighter (Unofficial)</displayName>
+			<lookupName>blind_fighter</lookupName>
+			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 	</specialAbilities>
@@ -6363,7 +6434,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>2</quantity>
+			<quantity>3</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -9933,6 +10004,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
@@ -9944,7 +10016,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>8</equipmentNum>
+			<equipmentNum>13</equipmentNum>
 			<typeName>CLTAG</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
@@ -10018,32 +10090,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>12</equipmentNum>
 			<typeName>Jump Jet</typeName>
 			<equipTonnage>0.5</equipTonnage>
-		</part>
-		<part id="2450" type="mekhq.campaign.parts.Armor">
-			<id>2450</id>
-			<name>Armor (Ferro-Fibrous)</name>
-			<unitTonnage>0</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<amount>129</amount>
-			<type>1</type>
-			<location>-1</location>
-			<rear>false</rear>
-			<amountNeeded>0</amountNeeded>
-			<clan>false</clan>
 		</part>
 		<part id="2497" type="mekhq.campaign.parts.BaArmor">
 			<id>2497</id>
@@ -14966,7 +15012,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3953" type="mekhq.campaign.parts.Armor">
 			<id>3953</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -14985,7 +15031,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<amount>9</amount>
-			<type>0</type>
+			<type>1</type>
 			<location>0</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15023,7 +15069,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3955" type="mekhq.campaign.parts.Armor">
 			<id>3955</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15041,8 +15087,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>33</amount>
-			<type>0</type>
+			<amount>35</amount>
+			<type>1</type>
 			<location>1</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15050,7 +15096,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3956" type="mekhq.campaign.parts.Armor">
 			<id>3956</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15068,8 +15114,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>10</amount>
-			<type>0</type>
+			<amount>11</amount>
+			<type>1</type>
 			<location>1</location>
 			<rear>true</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15077,7 +15123,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3957" type="mekhq.campaign.parts.Armor">
 			<id>3957</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15096,7 +15142,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<amount>24</amount>
-			<type>0</type>
+			<type>1</type>
 			<location>2</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15104,7 +15150,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3958" type="mekhq.campaign.parts.Armor">
 			<id>3958</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15122,8 +15168,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>7</amount>
-			<type>0</type>
+			<amount>8</amount>
+			<type>1</type>
 			<location>2</location>
 			<rear>true</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15131,7 +15177,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3959" type="mekhq.campaign.parts.Armor">
 			<id>3959</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15150,7 +15196,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<amount>24</amount>
-			<type>0</type>
+			<type>1</type>
 			<location>3</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15158,7 +15204,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3960" type="mekhq.campaign.parts.Armor">
 			<id>3960</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15176,8 +15222,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>7</amount>
-			<type>0</type>
+			<amount>8</amount>
+			<type>1</type>
 			<location>3</location>
 			<rear>true</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15185,7 +15231,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3961" type="mekhq.campaign.parts.Armor">
 			<id>3961</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15203,8 +15249,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>22</amount>
-			<type>0</type>
+			<amount>24</amount>
+			<type>1</type>
 			<location>4</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15242,7 +15288,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3963" type="mekhq.campaign.parts.Armor">
 			<id>3963</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15260,8 +15306,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>22</amount>
-			<type>0</type>
+			<amount>24</amount>
+			<type>1</type>
 			<location>5</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15299,7 +15345,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3965" type="mekhq.campaign.parts.Armor">
 			<id>3965</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15317,8 +15363,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>29</amount>
-			<type>0</type>
+			<amount>32</amount>
+			<type>1</type>
 			<location>6</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15326,7 +15372,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="3967" type="mekhq.campaign.parts.Armor">
 			<id>3967</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -15344,8 +15390,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>29</amount>
-			<type>0</type>
+			<amount>32</amount>
+			<type>1</type>
 			<location>7</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -15371,33 +15417,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>5</equipmentNum>
+			<equipmentNum>1</equipmentNum>
 			<typeName>Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
-		</part>
-		<part id="3971" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>3971</id>
-			<name>ER Large Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>6</equipmentNum>
-			<typeName>ISERLargeLaser</typeName>
-			<equipTonnage>5.0</equipTonnage>
 		</part>
 		<part id="3975" type="mekhq.campaign.parts.EnginePart">
 			<id>3975</id>
@@ -16873,7 +16895,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>392</amount>
+			<amount>816</amount>
 			<type>0</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -17461,30 +17483,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>ISERPPC</typeName>
 			<equipTonnage>7.0</equipTonnage>
 		</part>
-		<part id="4355" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4355</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>9</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
-		</part>
 		<part id="4357" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>4357</id>
 			<name>Medium Pulse Laser</name>
@@ -17505,55 +17503,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>13</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
-		</part>
-		<part id="4358" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4358</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>11</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
-		</part>
-		<part id="4359" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4359</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>8</equipmentNum>
+			<equipmentNum>12</equipmentNum>
 			<typeName>ISMediumPulseLaser</typeName>
 			<equipTonnage>2.0</equipTonnage>
 		</part>
@@ -17700,54 +17650,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<sensors>false</sensors>
 			<lifeSupport>false</lifeSupport>
 			<breached>false</breached>
-		</part>
-		<part id="4370" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4370</id>
-			<name>ER Large Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>7</equipmentNum>
-			<typeName>ISERLargeLaser</typeName>
-			<equipTonnage>5.0</equipTonnage>
-		</part>
-		<part id="4371" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4371</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>10</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
 		</part>
 		<part id="4373" type="mekhq.campaign.parts.MekActuator">
 			<id>4373</id>
@@ -17912,30 +17814,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>9</equipmentNum>
 			<typeName>Jump Jet</typeName>
 			<equipTonnage>0.5</equipTonnage>
-		</part>
-		<part id="4383" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4383</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>12</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
 		</part>
 		<part id="4384" type="mekhq.campaign.parts.EnginePart">
 			<id>4384</id>
@@ -19132,7 +19010,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>8</quantity>
+			<quantity>6</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -20892,7 +20770,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4642" type="mekhq.campaign.parts.Armor">
 			<id>4642</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -20911,7 +20789,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<amount>9</amount>
-			<type>0</type>
+			<type>1</type>
 			<location>0</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -20949,7 +20827,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4644" type="mekhq.campaign.parts.Armor">
 			<id>4644</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -20967,8 +20845,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>34</amount>
-			<type>0</type>
+			<amount>35</amount>
+			<type>1</type>
 			<location>1</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -20976,7 +20854,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4645" type="mekhq.campaign.parts.Armor">
 			<id>4645</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -20994,8 +20872,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>9</amount>
-			<type>0</type>
+			<amount>11</amount>
+			<type>1</type>
 			<location>1</location>
 			<rear>true</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21033,7 +20911,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4647" type="mekhq.campaign.parts.Armor">
 			<id>4647</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21052,7 +20930,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<amount>24</amount>
-			<type>0</type>
+			<type>1</type>
 			<location>2</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21060,7 +20938,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4648" type="mekhq.campaign.parts.Armor">
 			<id>4648</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21078,8 +20956,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>7</amount>
-			<type>0</type>
+			<amount>8</amount>
+			<type>1</type>
 			<location>2</location>
 			<rear>true</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21117,7 +20995,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4650" type="mekhq.campaign.parts.Armor">
 			<id>4650</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21136,7 +21014,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
 			<amount>24</amount>
-			<type>0</type>
+			<type>1</type>
 			<location>3</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21144,7 +21022,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4651" type="mekhq.campaign.parts.Armor">
 			<id>4651</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21162,8 +21040,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>7</amount>
-			<type>0</type>
+			<amount>8</amount>
+			<type>1</type>
 			<location>3</location>
 			<rear>true</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21201,7 +21079,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4653" type="mekhq.campaign.parts.Armor">
 			<id>4653</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21219,8 +21097,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>21</amount>
-			<type>0</type>
+			<amount>24</amount>
+			<type>1</type>
 			<location>4</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21228,7 +21106,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4654" type="mekhq.campaign.parts.Armor">
 			<id>4654</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21246,8 +21124,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>21</amount>
-			<type>0</type>
+			<amount>24</amount>
+			<type>1</type>
 			<location>5</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21285,7 +21163,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4656" type="mekhq.campaign.parts.Armor">
 			<id>4656</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21303,8 +21181,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>26</amount>
-			<type>0</type>
+			<amount>32</amount>
+			<type>1</type>
 			<location>6</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21312,7 +21190,7 @@ Note: This ability is only used for BattleMechs.</desc>
 		</part>
 		<part id="4657" type="mekhq.campaign.parts.Armor">
 			<id>4657</id>
-			<name>Armor (Standard)</name>
+			<name>Armor (Ferro-Fibrous)</name>
 			<unitTonnage>75</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
@@ -21330,8 +21208,8 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>26</amount>
-			<type>0</type>
+			<amount>32</amount>
+			<type>1</type>
 			<location>7</location>
 			<rear>false</rear>
 			<amountNeeded>0</amountNeeded>
@@ -21381,33 +21259,9 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>5</equipmentNum>
+			<equipmentNum>1</equipmentNum>
 			<typeName>Jump Jet</typeName>
 			<equipTonnage>1.0</equipTonnage>
-		</part>
-		<part id="4660" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4660</id>
-			<name>ER Large Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>7</equipmentNum>
-			<typeName>ISERLargeLaser</typeName>
-			<equipTonnage>5.0</equipTonnage>
 		</part>
 		<part id="4661" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>4661</id>
@@ -21417,13 +21271,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>1</quantity>
+			<quantity>11</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -21433,78 +21286,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>ISMediumPulseLaser</typeName>
 			<equipTonnage>2.0</equipTonnage>
 		</part>
-		<part id="4662" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4662</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>12</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
-		</part>
-		<part id="4663" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4663</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>13</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
-		</part>
-		<part id="4664" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4664</id>
-			<name>Anti-Missile System</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>14</equipmentNum>
-			<typeName>ISAntiMissileSystem</typeName>
-			<equipTonnage>0.5</equipTonnage>
-		</part>
 		<part id="4665" type="mekhq.campaign.parts.equipment.AmmoBin">
 			<id>4665</id>
 			<name>Anti-Missile System Ammo [IS] Bin</name>
@@ -21513,7 +21294,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
@@ -21528,7 +21308,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>15</equipmentNum>
 			<typeName>ISAMS Ammo</typeName>
 			<munition>0</munition>
-			<shotsNeeded>0</shotsNeeded>
+			<shotsNeeded>12</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -21772,7 +21552,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>9</quantity>
+			<quantity>7</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -21805,78 +21585,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>13</equipmentNum>
 			<typeName>ISDoubleHeatSink</typeName>
 			<equipTonnage>1.0</equipTonnage>
-		</part>
-		<part id="4712" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4712</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>10</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
-		</part>
-		<part id="4713" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4713</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>9</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
-		</part>
-		<part id="4714" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4714</id>
-			<name>Medium Pulse Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>8</equipmentNum>
-			<typeName>ISMediumPulseLaser</typeName>
-			<equipTonnage>2.0</equipTonnage>
 		</part>
 		<part id="4716" type="mekhq.campaign.parts.MekLocation">
 			<id>4716</id>
@@ -21931,30 +21639,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>8</type>
 			<location>5</location>
 		</part>
-		<part id="4719" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>4719</id>
-			<name>ER Large Laser</name>
-			<unitTonnage>75</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>6</equipmentNum>
-			<typeName>ISERLargeLaser</typeName>
-			<equipTonnage>5.0</equipTonnage>
-		</part>
 		<part id="4720" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>4720</id>
 			<name>TAG</name>
@@ -21975,7 +21659,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>14</equipmentNum>
+			<equipmentNum>15</equipmentNum>
 			<typeName>ISTAG</typeName>
 			<equipTonnage>1.0</equipTonnage>
 		</part>
@@ -22497,7 +22181,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>4</quantity>
+			<quantity>1</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -25394,7 +25078,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>1</quantity>
+			<quantity>5</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -25931,6 +25615,416 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>12</equipmentNum>
 			<typeName>ISC3iUnit</typeName>
 			<equipTonnage>2.5</equipTonnage>
+		</part>
+		<part id="6473" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>6473</id>
+			<name>Double Heat Sink</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>10</equipmentNum>
+			<typeName>ISDoubleHeatSink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="6474" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>6474</id>
+			<name>Double Heat Sink</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>13</equipmentNum>
+			<typeName>ISDoubleHeatSink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="6475" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6475</id>
+			<name>Large Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>5</equipmentNum>
+			<typeName>CLLargePulseLaser</typeName>
+			<equipTonnage>6.0</equipTonnage>
+		</part>
+		<part id="6476" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6476</id>
+			<name>ER Medium Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>7</equipmentNum>
+			<typeName>ISERMediumLaser</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="6477" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6477</id>
+			<name>ER Medium Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>11</equipmentNum>
+			<typeName>ISERMediumLaser</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="6478" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6478</id>
+			<name>ER PPC</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>6</equipmentNum>
+			<typeName>CLERPPC</typeName>
+			<equipTonnage>6.0</equipTonnage>
+		</part>
+		<part id="6480" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6480</id>
+			<name>Improved C3 Computer (C3I)</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>12</equipmentNum>
+			<typeName>ISC3iUnit</typeName>
+			<equipTonnage>2.5</equipTonnage>
+		</part>
+		<part id="6484" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6484</id>
+			<name>Large Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>5</equipmentNum>
+			<typeName>CLLargePulseLaser</typeName>
+			<equipTonnage>6.0</equipTonnage>
+		</part>
+		<part id="6485" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6485</id>
+			<name>Large Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>6</equipmentNum>
+			<typeName>CLLargePulseLaser</typeName>
+			<equipTonnage>6.0</equipTonnage>
+		</part>
+		<part id="6488" type="mekhq.campaign.parts.Armor">
+			<id>6488</id>
+			<name>Armor (Ferro-Fibrous)</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<amount>117</amount>
+			<type>1</type>
+			<location>-1</location>
+			<rear>false</rear>
+			<amountNeeded>0</amountNeeded>
+			<clan>false</clan>
+		</part>
+		<part id="6491" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6491</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>11</equipmentNum>
+			<typeName>CLMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="6492" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6492</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>8</equipmentNum>
+			<typeName>CLMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="6493" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6493</id>
+			<name>Improved C3 Computer (C3I)</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>472e53ff-1c11-468e-8330-51ac0c56c474</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>14</equipmentNum>
+			<typeName>ISC3iUnit</typeName>
+			<equipTonnage>2.5</equipTonnage>
+		</part>
+		<part id="6494" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6494</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>7</equipmentNum>
+			<typeName>CLMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="6495" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6495</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>8</equipmentNum>
+			<typeName>CLMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="6496" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6496</id>
+			<name>Medium Pulse Laser</name>
+			<unitTonnage>75</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>8e9da27e-eb33-4e93-b4a0-f684de9af4ed</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>10</equipmentNum>
+			<typeName>CLMediumPulseLaser</typeName>
+			<equipTonnage>2.0</equipTonnage>
+		</part>
+		<part id="6498" type="mekhq.campaign.parts.AmmoStorage">
+			<id>6498</id>
+			<name>Anti-Missile System Ammo [IS]</name>
+			<unitTonnage>1</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>ISAMS Ammo</typeName>
+			<munition>0</munition>
+			<shots>12</shots>
 		</part>
 	</parts>
 	<gameOptions>
@@ -26904,10 +26998,10 @@ Note: This ability is only used for BattleMechs.</desc>
 		</gameoption>
 	</gameOptions>
 	<personnelMarket>
-		<person id="c02892d6-cdc2-4fab-a8ad-6d8e3df133c8" type="mekhq.campaign.personnel.Person">
-			<name>Zak Matevosova</name>
+		<person id="b1c7fe4c-5fb0-4cc3-afd1-0299edd158aa" type="mekhq.campaign.personnel.Person">
+			<name>Quynh-Anh Huang</name>
 			<callsign></callsign>
-			<primaryRole>1</primaryRole>
+			<primaryRole>6</primaryRole>
 			<secondaryRole>0</secondaryRole>
 			<primaryDesignator>0</primaryDesignator>
 			<secondaryDesignator>0</secondaryDesignator>
@@ -26919,12 +27013,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<bloodname></bloodname>
 			<biography></biography>
 			<idleMonths>-1</idleMonths>
-			<id>c02892d6-cdc2-4fab-a8ad-6d8e3df133c8</id>
+			<id>b1c7fe4c-5fb0-4cc3-afd1-0299edd158aa</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
 			<xp>0</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
+			<gender>1</gender>
 			<rank>0</rank>
 			<rankLevel>0</rankLevel>
 			<rankSystem>-1</rankSystem>
@@ -26939,20 +27033,20 @@ Note: This ability is only used for BattleMechs.</desc>
 			<toughness>0</toughness>
 			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>0</overtimeLeft>
-			<birthday>3048-01-23 12:00:00</birthday>
+			<birthday>3042-02-11 12:00:00</birthday>
 			<skill>
 				<type>Tactics</type>
-				<level>0</level>
+				<level>1</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Piloting/Mech</type>
-				<level>4</level>
+				<type>Gunnery/Vehicle</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<founder>false</founder>
@@ -26960,7 +27054,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<originalUnitTech>0</originalUnitTech>
 			<acquisitions>0</acquisitions>
 <extraData/>		</person>
-		<daysSinceRolled>1</daysSinceRolled>
+		<daysSinceRolled>2</daysSinceRolled>
 		<paidRecruitType>0</paidRecruitType>
 	</personnelMarket>
 	<customPlanetaryEvents>
@@ -30494,6 +30588,320 @@ Life Support
 Sensors
 Cockpit
 Clan Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+]]></mtf>
+	</custom>
+	<custom>
+		<name>Penetrator PTR-4D Matt Mk IV</name>
+		<mtf><![CDATA[Version:1.0
+Penetrator
+PTR-4D Matt Mk IV
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3077
+Source:TRO 3055 - Clan Invasion
+Rules Level:3
+
+Mass:75
+Engine:300 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:14 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous(Inner Sphere)
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:7
+Large Pulse Laser, Left Arm
+ER PPC, Right Arm
+ER Medium Laser, Left Torso
+Medium Pulse Laser, Left Torso
+ER Medium Laser, Right Torso
+Medium Pulse Laser, Right Torso
+TAG, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERPPC
+CLERPPC
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+ISERMediumLaser
+CLMediumPulseLaser
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Right Torso:
+ISERMediumLaser
+ISMediumPulseLaser
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3iUnit
+ISC3iUnit
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISTAG
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+]]></mtf>
+	</custom>
+	<custom>
+		<name>Penetrator PTR-4D Ryan Mk II</name>
+		<mtf><![CDATA[Version:1.0
+Penetrator
+PTR-4D Ryan Mk II
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3077
+Source:TRO 3055 - Clan Invasion
+Rules Level:3
+
+Mass:75
+Engine:300 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:12 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous(Inner Sphere)
+LA Armor:24
+RA Armor:24
+LT Armor:24
+RT Armor:24
+CT Armor:35
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:8
+RTR Armor:8
+RTC Armor:11
+
+Weapons:7
+Large Pulse Laser, Left Arm
+Large Pulse Laser, Right Arm
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+TAG (Clan), Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+CLMediumPulseLaser
+CLMediumPulseLaser
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+CLMediumPulseLaser
+CLMediumPulseLaser
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3iUnit
+ISC3iUnit
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLTAG
 Sensors
 Life Support
 -Empty-
