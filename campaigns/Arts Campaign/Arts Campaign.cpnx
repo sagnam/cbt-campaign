@@ -20,7 +20,7 @@
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
-		<lastPartId>6498</lastPartId>
+		<lastPartId>6505</lastPartId>
 		<lastForceId>0</lastForceId>
 		<lastMissionId>3</lastMissionId>
 		<lastScenarioId>16</lastScenarioId>
@@ -32,6 +32,24 @@
 		</nameGen>
 		<currentReport>
 			<reportLine><![CDATA[<b>Friday, July 20 3077</b>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find HAG/40   needs 8 and rolls 3:<font color='red'><b> part not found</b>.</font>]]></reportLine>
+			<reportLine><![CDATA[1 HAG/40 has been added to the procurement list.]]></reportLine>
+			<reportLine><![CDATA[<font color='Green'><b>HAG/40  found.</b></font>]]></reportLine>
+			<reportLine><![CDATA[1 HAG/40 has arrived]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find LRM 20   needs 5 and rolls 5:<font color='green'><b> part found</b>.</font> It will be delivered in 123 days.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find LRM 20   needs 5 and rolls 8:<font color='green'><b> part found</b>.</font> It will be delivered in 92 days.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find LRM 20   needs 5 and rolls 3:<font color='red'><b> part not found</b>.</font>]]></reportLine>
+			<reportLine><![CDATA[1 LRM 20 has been added to the procurement list.]]></reportLine>
+			<reportLine><![CDATA[<font color='Green'><b>LRM 20  found.</b></font>]]></reportLine>
+			<reportLine><![CDATA[1 LRM 20 has arrived]]></reportLine>
+			<reportLine><![CDATA[1 LRM 20 has arrived]]></reportLine>
+			<reportLine><![CDATA[1 LRM 20 has arrived]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find Double Heat Sink   needs 6 and rolls 6:<font color='green'><b> part found</b>.</font> It will be delivered in 123 days.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find Double Heat Sink   needs 6 and rolls 10:<font color='green'><b> part found</b>.</font> It will be delivered in 31 days.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find Double Heat Sink   needs 6 and rolls 7:<font color='green'><b> part found</b>.</font> It will be delivered in 92 days. (1XP gained) ]]></reportLine>
+			<reportLine><![CDATA[1 Double Heat Sink has arrived]]></reportLine>
+			<reportLine><![CDATA[1 Double Heat Sink has arrived]]></reportLine>
+			<reportLine><![CDATA[1 Double Heat Sink has arrived]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -432,6 +450,11 @@
 			<entity chassis="Penetrator" model="PTR-4D Matt Mk IV" type="Biped" commander="false" externalId="472e53ff-1c11-468e-8330-51ac0c56c474" c3UUID="441e741d-5930-4554-b778-ab180550218d">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>ea523c3c-d20b-41cd-bd79-0242efc267b6</driverId>
@@ -494,7 +517,12 @@
 					<slot index="5" type="IS Ammo LRM-5 Semi-guided" shots="24"/>
 				</location>
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
@@ -543,7 +571,12 @@
 		<unit id="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Warlord" model="BLR-2XC Mk III" type="Biped" commander="false" externalId="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc" c3UUID="a78ca5b0-713e-4bc1-81f9-7757dc71b51a">
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>a1720c9f-9396-4645-a0b1-4120613eb75c</driverId>
@@ -580,7 +613,12 @@
 		<unit id="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Penetrator" model="PTR-4D Ryan Mk II" type="Biped" commander="false" externalId="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" c3UUID="28bc1504-4675-42b5-81b6-26130fa23ee2">
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>86cf842d-8c1f-42c7-ad42-70dc17065c92</driverId>
@@ -606,7 +644,12 @@
 					<slot index="11" type="IS Gauss Ammo" shots="8"/>
 				</location>
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
@@ -627,6 +670,11 @@
 		<unit id="819e4377-19b0-4638-b043-63e4f7c62095" type="mekhq.campaign.unit.Unit">
 			<entity chassis="BattleMaster" model="BLR-1GR-UK Mk III" type="Biped" commander="false" externalId="819e4377-19b0-4638-b043-63e4f7c62095" c3UUID="17ed845a-dfd7-40ea-ac69-eaf8406845cb">
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -1523,7 +1571,7 @@
 			<id>16937ed0-2fbc-470d-b304-ad1ed08e94d5</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>5</xp>
+			<xp>6</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>1</gender>
 			<rank>0</rank>
@@ -1531,7 +1579,7 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>20</nTasks>
+			<nTasks>0</nTasks>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -1556,7 +1604,7 @@
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
 			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
+			<acquisitions>7</acquisitions>
 <extraData/>		</person>
 		<person id="eb7978f0-c882-4a2c-bd48-ca4654d121bd" type="mekhq.campaign.personnel.Person">
 			<name>Orlando González</name>
@@ -5382,6 +5430,48 @@
 			<description>Purchase of Armor (Ferro-Fibrous)</description>
 			<category>1</category>
 			<date>3077-06-09 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-600000 CSB</amount>
+			<description>Purchase of HAG/40</description>
+			<category>1</category>
+			<date>3077-07-20 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-250000 CSB</amount>
+			<description>Purchase of LRM 20</description>
+			<category>1</category>
+			<date>3077-07-20 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-250000 CSB</amount>
+			<description>Purchase of LRM 20</description>
+			<category>1</category>
+			<date>3077-07-20 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-250000 CSB</amount>
+			<description>Purchase of LRM 20</description>
+			<category>1</category>
+			<date>3077-07-20 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-6000 CSB</amount>
+			<description>Purchase of Double Heat Sink</description>
+			<category>1</category>
+			<date>3077-07-20 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-6000 CSB</amount>
+			<description>Purchase of Double Heat Sink</description>
+			<category>1</category>
+			<date>3077-07-20 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-6000 CSB</amount>
+			<description>Purchase of Double Heat Sink</description>
+			<category>1</category>
+			<date>3077-07-20 12:00:00</date>
 		</transaction>
 	</finances>
 	<location>
@@ -12583,7 +12673,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>4</quantity>
+			<quantity>7</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -26025,6 +26115,52 @@ Note: This ability is only used for BattleMechs.</desc>
 			<typeName>ISAMS Ammo</typeName>
 			<munition>0</munition>
 			<shots>12</shots>
+		</part>
+		<part id="6499" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6499</id>
+			<name>HAG/40</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>CLHAG40</typeName>
+			<equipTonnage>16.0</equipTonnage>
+		</part>
+		<part id="6500" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>6500</id>
+			<name>LRM 20</name>
+			<unitTonnage>0</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>3</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>CLLRM20</typeName>
+			<equipTonnage>5.0</equipTonnage>
 		</part>
 	</parts>
 	<gameOptions>
