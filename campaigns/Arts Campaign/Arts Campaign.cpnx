@@ -23,7 +23,7 @@
 		<lastPartId>6530</lastPartId>
 		<lastForceId>0</lastForceId>
 		<lastMissionId>4</lastMissionId>
-		<lastScenarioId>18</lastScenarioId>
+		<lastScenarioId>19</lastScenarioId>
 		<calendar>3077-07-21 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -444,6 +444,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -511,6 +512,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -564,6 +566,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -605,6 +608,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -631,7 +635,12 @@
 					<slot index="11" type="IS Gauss Ammo" shots="8"/>
 				</location>
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
@@ -656,6 +665,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -3621,6 +3631,13 @@
 						</subforces>
 					</forceStub>
 					<date>3077-07-20 12:00:00</date>
+				</scenario>
+				<scenario id="19" type="mekhq.campaign.mission.Scenario">
+					<name>Laser at a Medium Pace</name>
+					<desc></desc>
+					<report></report>
+					<status>0</status>
+					<id>19</id>
 				</scenario>
 			</scenarios>
 		</mission>
