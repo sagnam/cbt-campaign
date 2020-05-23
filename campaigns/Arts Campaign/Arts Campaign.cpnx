@@ -20,7 +20,7 @@
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
-		<lastPartId>7456</lastPartId>
+		<lastPartId>7480</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>4</lastMissionId>
 		<lastScenarioId>20</lastScenarioId>
@@ -94,6 +94,9 @@
 			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
 			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
 			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find Flamer   needs 3 and rolls 9:<font color='green'><b> part found</b>.</font> It will be delivered in 31 days.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:16937ed0-2fbc-470d-b304-ad1ed08e94d5'>Cíntia Henring</a> attempts to find Flamer   needs 3 and rolls 10:<font color='green'><b> part found</b>.</font> It will be delivered in 31 days.]]></reportLine>
+			<reportLine><![CDATA[The customization of Archer ARC-7L Mk VII is complete.]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -494,7 +497,6 @@
 			<entity chassis="Penetrator" model="PTR-4D Matt Mk IV" type="Biped" commander="false" externalId="472e53ff-1c11-468e-8330-51ac0c56c474" c3UUID="441e741d-5930-4554-b778-ab180550218d">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
-					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -542,7 +544,7 @@
 			<history></history>
 		</unit>
 		<unit id="01203ad5-eaf1-4252-97fa-08e46ad3aaac" type="mekhq.campaign.unit.Unit">
-			<entity chassis="Archer" model="ARC-7L Mk V" type="Biped" commander="false" externalId="01203ad5-eaf1-4252-97fa-08e46ad3aaac" c3UUID="22f76dc0-4121-4c9a-86d7-6085dfcfaf35">
+			<entity chassis="Archer" model="ARC-7L Mk VII" type="Biped" commander="false" externalId="01203ad5-eaf1-4252-97fa-08e46ad3aaac" c3UUID="22f76dc0-4121-4c9a-86d7-6085dfcfaf35">
       The first slot in a location is at index="1".
 				<location index="2"> Right Torso
 					<slot index="11" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
@@ -550,23 +552,15 @@
 				</location>
 				<location index="3"> Left Torso
 					<slot index="1" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
-					<slot index="6" type="IS Ammo LRM-20" shots="6"/>
-					<slot index="7" type="IS Ammo LRM-20" shots="6"/>
+					<slot index="6" type="IS Ammo LRM-20" shots="0"/>
+					<slot index="7" type="IS Ammo LRM-20" shots="0"/>
 					<slot index="8" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
 					<slot index="9" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
-					<slot index="11" type="IS Ammo LRM-20" shots="6"/>
-					<slot index="12" type="IS Ammo LRM-20" shots="6"/>
-				</location>
-				<location index="4"> Right Arm
-					<slot index="5" type="IS Ammo LRM-5 Semi-guided" shots="24"/>
+					<slot index="11" type="IS Ammo LRM-20" shots="0"/>
+					<slot index="12" type="IS Ammo LRM-20" shots="0"/>
 				</location>
 				<c3iset>
-					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
-					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
-					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
-					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
-					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
@@ -616,7 +610,6 @@
 			<entity chassis="Warlord" model="BLR-2XC Mk III" type="Biped" commander="false" externalId="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc" c3UUID="a78ca5b0-713e-4bc1-81f9-7757dc71b51a">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
-					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -658,7 +651,6 @@
 			<entity chassis="Penetrator" model="PTR-4D Ryan Mk II" type="Biped" commander="false" externalId="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" c3UUID="28bc1504-4675-42b5-81b6-26130fa23ee2">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
-					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -689,7 +681,6 @@
 				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
-					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -715,7 +706,6 @@
 			<entity chassis="BattleMaster" model="BLR-1GR-UK Mk III" type="Biped" commander="false" externalId="819e4377-19b0-4638-b043-63e4f7c62095" c3UUID="17ed845a-dfd7-40ea-ac69-eaf8406845cb">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
-					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -1585,13 +1575,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1678,13 +1668,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1771,12 +1761,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -1998,7 +1988,7 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
+			<nTasks>2</nTasks>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
@@ -2023,7 +2013,7 @@
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
 			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
+			<acquisitions>2</acquisitions>
 <extraData/>		</person>
 		<person id="eb7978f0-c882-4a2c-bd48-ca4654d121bd" type="mekhq.campaign.personnel.Person">
 			<name>Orlando González</name>
@@ -2256,12 +2246,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2342,13 +2332,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2432,14 +2422,14 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
-				<bonus>1</bonus>
-			</skill>
-			<skill>
 				<type>Small Arms</type>
 				<level>4</level>
 				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
+				<bonus>1</bonus>
 			</skill>
 			<skill>
 				<type>Piloting/Mech</type>
@@ -5673,6 +5663,18 @@
 			<category>1</category>
 			<date>3077-07-22 12:00:00</date>
 		</transaction>
+		<transaction>
+			<amount>-7500 CSB</amount>
+			<description>Purchase of Flamer</description>
+			<category>1</category>
+			<date>3077-07-22 12:00:00</date>
+		</transaction>
+		<transaction>
+			<amount>-7500 CSB</amount>
+			<description>Purchase of Flamer</description>
+			<category>1</category>
+			<date>3077-07-22 12:00:00</date>
+		</transaction>
 	</finances>
 	<location>
 		<currentPlanetId>Galatea</currentPlanetId>
@@ -6231,6 +6233,26 @@
 			</skillPrereq>
 		</ability>
 		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
 			<displayName>Sandblaster (AToW)</displayName>
 			<lookupName>sandblaster</lookupName>
 			<desc>A pilot with this ability gets a +4, +3, or +2 to the cluster table
@@ -6242,32 +6264,12 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6315,12 +6317,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -6335,12 +6337,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6355,12 +6357,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aircraft</skill>
-				<skill>Gunnery/Spacecraft</skill>
+				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aerospace</skill>
-				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Spacecraft</skill>
 				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Vehicle</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -6375,12 +6377,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6395,12 +6397,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6452,11 +6454,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6507,12 +6509,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -6543,12 +6545,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6603,6 +6605,25 @@ Note: This ability is only used for BattleMechs.</desc>
 			</skillPrereq>
 		</ability>
 		<ability>
+			<displayName>Blind Fighter (Unofficial)</displayName>
+			<lookupName>blind_fighter</lookupName>
+			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
 			<displayName>Hopping Jack (Unofficial)</displayName>
 			<lookupName>hopping_jack</lookupName>
 			<desc>Unit only suffers a +2 to-hit penalty for jumping, rather than a +3 to-hit penalty.</desc>
@@ -6614,25 +6635,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Blind Fighter (Unofficial)</displayName>
-			<lookupName>blind_fighter</lookupName>
-			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 	</specialAbilities>
@@ -6877,30 +6879,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>17</equipmentNum>
 			<typeName>CLERMediumPulseLaser</typeName>
 			<equipTonnage>2.0</equipTonnage>
-		</part>
-		<part id="721" type="mekhq.campaign.parts.equipment.HeatSink">
-			<id>721</id>
-			<name>Double Heat Sink</name>
-			<unitTonnage>70</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>5</equipmentNum>
-			<typeName>CLDoubleHeatSink</typeName>
-			<equipTonnage>1.0</equipTonnage>
 		</part>
 		<part id="739" type="mekhq.campaign.parts.equipment.EquipmentPart">
 			<id>739</id>
@@ -8058,7 +8036,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>1</quantity>
+			<quantity>2</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -12927,7 +12905,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>7</quantity>
+			<quantity>18</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -18451,7 +18429,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>11</equipmentNum>
 			<typeName>IS Ammo LRM-20</typeName>
 			<munition>0</munition>
-			<shotsNeeded>0</shotsNeeded>
+			<shotsNeeded>6</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -18478,7 +18456,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>16</equipmentNum>
 			<typeName>IS Ammo LRM-20</typeName>
 			<munition>0</munition>
-			<shotsNeeded>0</shotsNeeded>
+			<shotsNeeded>6</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -18505,7 +18483,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>10</equipmentNum>
 			<typeName>IS Ammo LRM-20</typeName>
 			<munition>0</munition>
-			<shotsNeeded>0</shotsNeeded>
+			<shotsNeeded>6</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -18559,7 +18537,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>15</equipmentNum>
 			<typeName>IS Ammo LRM-20</typeName>
 			<munition>0</munition>
-			<shotsNeeded>0</shotsNeeded>
+			<shotsNeeded>6</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -18664,7 +18642,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>4</equipmentNum>
+			<equipmentNum>1</equipmentNum>
 			<typeName>WatchdogECMSuite</typeName>
 			<equipTonnage>1.5</equipTonnage>
 		</part>
@@ -21772,7 +21750,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<refitId>null</refitId>
 			<daysToArrival>0</daysToArrival>
 			<brandNew>false</brandNew>
-			<quantity>7</quantity>
+			<quantity>4</quantity>
 			<daysToWait>0</daysToWait>
 			<replacementId>-1</replacementId>
 			<quality>3</quality>
@@ -23483,7 +23461,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<equipmentNum>3</equipmentNum>
+			<equipmentNum>2</equipmentNum>
 			<typeName>ISC3iUnit</typeName>
 			<equipTonnage>2.5</equipTonnage>
 		</part>
@@ -23567,78 +23545,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
-		</part>
-		<part id="6045" type="mekhq.campaign.parts.equipment.HeatSink">
-			<id>6045</id>
-			<name>Double Heat Sink</name>
-			<unitTonnage>70</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>1</equipmentNum>
-			<typeName>CLDoubleHeatSink</typeName>
-			<equipTonnage>1.0</equipTonnage>
-		</part>
-		<part id="6046" type="mekhq.campaign.parts.equipment.HeatSink">
-			<id>6046</id>
-			<name>Double Heat Sink</name>
-			<unitTonnage>70</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>2</equipmentNum>
-			<typeName>CLDoubleHeatSink</typeName>
-			<equipTonnage>1.0</equipTonnage>
-		</part>
-		<part id="6047" type="mekhq.campaign.parts.equipment.EquipmentPart">
-			<id>6047</id>
-			<name>LRM 5</name>
-			<unitTonnage>70</unitTonnage>
-			<hits>0</hits>
-			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
-			<skillMin>1</skillMin>
-			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
-			<workingOvertime>false</workingOvertime>
-			<shorthandedMod>0</shorthandedMod>
-			<refitId>null</refitId>
-			<daysToArrival>0</daysToArrival>
-			<brandNew>false</brandNew>
-			<quantity>1</quantity>
-			<daysToWait>0</daysToWait>
-			<replacementId>-1</replacementId>
-			<quality>3</quality>
-			<isTeamSalvaging>false</isTeamSalvaging>
-			<parentPartId>-1</parentPartId>
-			<equipmentNum>25</equipmentNum>
-			<typeName>CLLRM5</typeName>
-			<equipTonnage>1.0</equipTonnage>
 		</part>
 		<part id="6052" type="mekhq.campaign.parts.Armor">
 			<id>6052</id>
@@ -26715,7 +26621,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
-			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
@@ -26730,7 +26635,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>7</equipmentNum>
 			<typeName>IS Ammo LRM-5 Semi-guided</typeName>
 			<munition>2097152</munition>
-			<shotsNeeded>0</shotsNeeded>
+			<shotsNeeded>24</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -26742,7 +26647,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<timeSpent>0</timeSpent>
 			<mode>NORMAL</mode>
 			<skillMin>1</skillMin>
-			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
 			<workingOvertime>false</workingOvertime>
 			<shorthandedMod>0</shorthandedMod>
 			<refitId>null</refitId>
@@ -49051,7 +48955,126 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>-1</equipmentNum>
 			<typeName>Clan Ammo LRM-20 (Clan) Semi-guided</typeName>
 			<munition>2097152</munition>
-			<shots>10</shots>
+			<shots>34</shots>
+		</part>
+		<part id="7476" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>7476</id>
+			<name>Double Heat Sink</name>
+			<unitTonnage>70</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>3</equipmentNum>
+			<typeName>ISDoubleHeatSink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="7477" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>7477</id>
+			<name>Double Heat Sink</name>
+			<unitTonnage>70</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>4</equipmentNum>
+			<typeName>ISDoubleHeatSink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="7478" type="mekhq.campaign.parts.equipment.HeatSink">
+			<id>7478</id>
+			<name>Double Heat Sink</name>
+			<unitTonnage>70</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<unitId>01203ad5-eaf1-4252-97fa-08e46ad3aaac</unitId>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>7</equipmentNum>
+			<typeName>ISDoubleHeatSink</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="7479" type="mekhq.campaign.parts.equipment.EquipmentPart">
+			<id>7479</id>
+			<name>Flamer</name>
+			<unitTonnage>70</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>31</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>2</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>Flamer</typeName>
+			<equipTonnage>1.0</equipTonnage>
+		</part>
+		<part id="7480" type="mekhq.campaign.parts.AmmoStorage">
+			<id>7480</id>
+			<name>LRM 5 Semi-guided Ammo</name>
+			<unitTonnage>1</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>IS Ammo LRM-5 Semi-guided</typeName>
+			<munition>2097152</munition>
+			<shots>24</shots>
 		</part>
 	</parts>
 	<gameOptions>
@@ -50067,13 +50090,13 @@ Note: This ability is only used for BattleMechs.</desc>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Vehicle</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<founder>false</founder>
@@ -53959,6 +53982,161 @@ Lower Leg Actuator
 Foot Actuator
 Jump Jet
 Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+]]></mtf>
+	</custom>
+	<custom>
+		<name>Archer ARC-7L Mk VII</name>
+		<mtf><![CDATA[Version:1.0
+Archer
+ARC-7L Mk VII
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3077
+Source:Civil War
+Rules Level:4
+
+Mass:70
+Engine:210 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:11 Double
+Walk MP:3
+Jump MP:3
+
+Armor:Light Ferro-Fibrous(Inner Sphere)
+LA Armor:22
+RA Armor:22
+LT Armor:23
+RT Armor:23
+CT Armor:33
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:7
+RTR Armor:7
+RTC Armor:11
+
+Weapons:5
+Flamer, Right Arm
+LRM 20, Left Torso
+LRM 20, Right Torso
+LRM 20, Right Torso
+Flamer, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+IS Light Ferro-Fibrous
+IS Light Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Flamer
+IS Light Ferro-Fibrous
+IS Light Ferro-Fibrous
+IS Light Ferro-Fibrous
+IS Light Ferro-Fibrous
+IS Light Ferro-Fibrous
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Left Torso:
+Clan Ammo LRM-20 (Clan) Semi-guided
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+ISCASE
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+
+Right Torso:
+Jump Jet
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+ISCASE
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Flamer
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+WatchdogECMSuite
+WatchdogECMSuite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+ISC3iUnit
+ISC3iUnit
 -Empty-
 -Empty-
 -Empty-
