@@ -23,7 +23,7 @@
 		<lastPartId>7480</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>4</lastMissionId>
-		<lastScenarioId>20</lastScenarioId>
+		<lastScenarioId>21</lastScenarioId>
 		<calendar>3077-07-22 12:00:00</calendar>
 		<fatigueLevel>0</fatigueLevel>
 		<nameGen>
@@ -497,6 +497,7 @@
 			<entity chassis="Penetrator" model="PTR-4D Matt Mk IV" type="Biped" commander="false" externalId="472e53ff-1c11-468e-8330-51ac0c56c474" c3UUID="441e741d-5930-4554-b778-ab180550218d">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -508,7 +509,7 @@
 			<salvaged>false</salvaged>
 			<site>4</site>
 			<forceId>1</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>21</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>5</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -560,7 +561,12 @@
 					<slot index="12" type="IS Ammo LRM-20" shots="0"/>
 				</location>
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</driverId>
@@ -568,7 +574,7 @@
 			<salvaged>false</salvaged>
 			<site>4</site>
 			<forceId>1</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>21</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -610,6 +616,7 @@
 			<entity chassis="Warlord" model="BLR-2XC Mk III" type="Biped" commander="false" externalId="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc" c3UUID="a78ca5b0-713e-4bc1-81f9-7757dc71b51a">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -621,7 +628,7 @@
 			<salvaged>false</salvaged>
 			<site>4</site>
 			<forceId>1</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>21</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -651,6 +658,7 @@
 			<entity chassis="Penetrator" model="PTR-4D Ryan Mk II" type="Biped" commander="false" externalId="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" c3UUID="28bc1504-4675-42b5-81b6-26130fa23ee2">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -662,7 +670,7 @@
 			<salvaged>false</salvaged>
 			<site>4</site>
 			<forceId>1</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>21</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -681,6 +689,7 @@
 				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -692,7 +701,7 @@
 			<salvaged>false</salvaged>
 			<site>2</site>
 			<forceId>1</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>21</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -706,6 +715,7 @@
 			<entity chassis="BattleMaster" model="BLR-1GR-UK Mk III" type="Biped" commander="false" externalId="819e4377-19b0-4638-b043-63e4f7c62095" c3UUID="17ed845a-dfd7-40ea-ac69-eaf8406845cb">
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
@@ -717,7 +727,7 @@
 			<salvaged>false</salvaged>
 			<site>3</site>
 			<forceId>1</forceId>
-			<scenarioId>-1</scenarioId>
+			<scenarioId>21</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
 			<daysActivelyMaintained>0</daysActivelyMaintained>
@@ -1644,7 +1654,7 @@
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
 			<xp>15</xp>
-			<daysToWaitForHealing>14</daysToWaitForHealing>
+			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>0</gender>
 			<rank>0</rank>
 			<rankLevel>0</rankLevel>
@@ -1657,7 +1667,7 @@
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
-			<hits>1</hits>
+			<hits>0</hits>
 			<toughness>0</toughness>
 			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>0</overtimeLeft>
@@ -3700,6 +3710,13 @@
 					</forceStub>
 					<date>3077-07-22 12:00:00</date>
 				</scenario>
+				<scenario id="21" type="mekhq.campaign.mission.Scenario">
+					<name>The Jack Handy-Off</name>
+					<desc></desc>
+					<report></report>
+					<status>0</status>
+					<id>21</id>
+				</scenario>
 			</scenarios>
 		</mission>
 	</missions>
@@ -3716,7 +3733,7 @@
 					<desc></desc>
 					<iconCategory>-- General --</iconCategory>
 					<iconFileName>grimejection11.jpg</iconFileName>
-					<scenarioId>-1</scenarioId>
+					<scenarioId>21</scenarioId>
 					<units>
 						<unit id="472e53ff-1c11-468e-8330-51ac0c56c474"/>
 						<unit id="819e4377-19b0-4638-b043-63e4f7c62095"/>
