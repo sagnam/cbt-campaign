@@ -14,13 +14,13 @@
 		<gmMode>true</gmMode>
 		<showOverview>true</showOverview>
 		<astechPool>60</astechPool>
-		<astechPoolMinutes>26262</astechPoolMinutes>
+		<astechPoolMinutes>20808</astechPoolMinutes>
 		<astechPoolOvertime>14400</astechPoolOvertime>
 		<medicPool>12</medicPool>
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
-		<lastPartId>7455</lastPartId>
+		<lastPartId>7456</lastPartId>
 		<lastForceId>1</lastForceId>
 		<lastMissionId>4</lastMissionId>
 		<lastScenarioId>20</lastScenarioId>
@@ -67,6 +67,33 @@
 			<reportLine><![CDATA[Prisoner Young-Hee Kim has been removed from the personnel roster.]]></reportLine>
 			<reportLine><![CDATA[Prisoner Jawhar bin Kaliq has been removed from the personnel roster.]]></reportLine>
 			<reportLine><![CDATA[Prisoner Tooko Candeloro has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c1ee9e8b-f794-4680-8343-8462bce76b1d'>Akshita  Jimuta</a> attempts to fix Armor (Light Ferro-Fibrous) on Archer ARC-7L Mk V,  needs 3 and rolls 9: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c1ee9e8b-f794-4680-8343-8462bce76b1d'>Akshita  Jimuta</a> attempts to fix Armor (Light Ferro-Fibrous) on Archer ARC-7L Mk V,  needs 3 and rolls 8: <font color='green'><b> fixed.</b></font> (1XP gained) ]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c1ee9e8b-f794-4680-8343-8462bce76b1d'>Akshita  Jimuta</a> attempts to fix Armor (Light Ferro-Fibrous) on Archer ARC-7L Mk V,  needs 3 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c1ee9e8b-f794-4680-8343-8462bce76b1d'>Akshita  Jimuta</a> attempts to fix Armor (Light Ferro-Fibrous) on Archer ARC-7L Mk V,  needs 3 and rolls 10: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:c1ee9e8b-f794-4680-8343-8462bce76b1d'>Akshita  Jimuta</a> attempts to fix Armor (Light Ferro-Fibrous) on Archer ARC-7L Mk V,  needs 3 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<font color='green'>Mass Repair/Salvage complete for 1 units.</font> 5 repair/salvage actions performed.<br/>- 1 unit had repairs/parts salvaged.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:cbd3826c-2f56-45a1-947e-05d4d32a9b3f'>Mary Svensli</a> attempts to fix Armor (Heavy Ferro-Fibrous) on Zeus ZEU-5S Mk III,  needs 7 and rolls 10: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<font color='green'>Mass Repair/Salvage complete for 1 units.</font> 1 repair/salvage action performed.<br/>- 1 unit had repairs/parts salvaged.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Ryan Mk II,  needs 3 and rolls 4: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Ryan Mk II,  needs 3 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Ryan Mk II,  needs 3 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Ryan Mk II,  needs 3 and rolls 3: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Ryan Mk II,  needs 3 and rolls 8: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Ryan Mk II,  needs 3 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<font color='green'>Mass Repair/Salvage complete for 1 units.</font> 6 repair/salvage actions performed.<br/>- 1 unit had repairs/parts salvaged.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Standard) on Warlord BLR-2XC Mk III,  needs 3 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Standard) on Warlord BLR-2XC Mk III,  needs 3 and rolls 9: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<font color='green'>Mass Repair/Salvage complete for 1 units.</font> 2 repair/salvage actions performed.<br/>- 1 unit had repairs/parts salvaged.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:cbd3826c-2f56-45a1-947e-05d4d32a9b3f'>Mary Svensli</a> attempts to fix Armor (Ferro-Fibrous) on BattleMaster BLR-1GR-UK Mk III,  needs 7 and rolls 5: <font color='red'><b> failed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:cbd3826c-2f56-45a1-947e-05d4d32a9b3f'>Mary Svensli</a> attempts to fix Armor (Ferro-Fibrous) on BattleMaster BLR-1GR-UK Mk III,  needs 7 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:cbd3826c-2f56-45a1-947e-05d4d32a9b3f'>Mary Svensli</a> attempts to fix Armor (Ferro-Fibrous) on BattleMaster BLR-1GR-UK Mk III,  needs 5 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<font color='green'>Mass Repair/Salvage complete for 1 units.</font> 3 repair/salvage actions performed.<br/>- 1 unit had repairs/parts salvaged.]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:1c96159b-fcf8-46be-99c0-e510252b3a8a'>Scott Gibson</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 9: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 7: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
+			<reportLine><![CDATA[<a href='PERSON:6c7ee68c-4f5c-4a05-958e-be513d6cfa0f'>Daphne Barlow</a> attempts to fix Armor (Ferro-Fibrous) on Penetrator PTR-4D Matt Mk IV,  needs 3 and rolls 6: <font color='green'><b> fixed.</b></font>]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -465,19 +492,6 @@
 		</unit>
 		<unit id="472e53ff-1c11-468e-8330-51ac0c56c474" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Penetrator" model="PTR-4D Matt Mk IV" type="Biped" commander="false" externalId="472e53ff-1c11-468e-8330-51ac0c56c474" c3UUID="441e741d-5930-4554-b778-ab180550218d">
-				<location index="2"> Right Torso
-					<armor points="20"/>
-					<armor points="6" type="Rear"/>
-				</location>
-				<location index="4"> Right Arm
-					<armor points="6"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="22"/>
-				</location>
-				<location index="6"> Right Leg
-					<armor points="27"/>
-				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
@@ -530,32 +544,21 @@
 		<unit id="01203ad5-eaf1-4252-97fa-08e46ad3aaac" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Archer" model="ARC-7L Mk V" type="Biped" commander="false" externalId="01203ad5-eaf1-4252-97fa-08e46ad3aaac" c3UUID="22f76dc0-4121-4c9a-86d7-6085dfcfaf35">
       The first slot in a location is at index="1".
-				<location index="1"> Center Torso
-					<armor points="23"/>
-				</location>
 				<location index="2"> Right Torso
-					<armor points="8"/>
-					<slot index="11" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="4"/>
-					<slot index="12" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
-				</location>
-				<location index="3"> Left Torso
-					<armor points="4"/>
-					<slot index="1" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
-					<slot index="6" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
-					<slot index="7" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
-					<slot index="8" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
-					<slot index="9" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
 					<slot index="11" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
 					<slot index="12" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
 				</location>
+				<location index="3"> Left Torso
+					<slot index="1" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
+					<slot index="6" type="IS Ammo LRM-20" shots="6"/>
+					<slot index="7" type="IS Ammo LRM-20" shots="6"/>
+					<slot index="8" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
+					<slot index="9" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
+					<slot index="11" type="IS Ammo LRM-20" shots="6"/>
+					<slot index="12" type="IS Ammo LRM-20" shots="6"/>
+				</location>
 				<location index="4"> Right Arm
-					<slot index="5" type="IS Ammo LRM-5 Semi-guided" shots="2"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="14"/>
-				</location>
-				<location index="7"> Left Leg
-					<armor points="25"/>
+					<slot index="5" type="IS Ammo LRM-5 Semi-guided" shots="24"/>
 				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
@@ -611,12 +614,6 @@
 		</unit>
 		<unit id="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Warlord" model="BLR-2XC Mk III" type="Biped" commander="false" externalId="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc" c3UUID="a78ca5b0-713e-4bc1-81f9-7757dc71b51a">
-				<location index="2"> Right Torso
-					<armor points="13"/>
-				</location>
-				<location index="3"> Left Torso
-					<armor points="5"/>
-				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
@@ -659,24 +656,6 @@
 		</unit>
 		<unit id="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Penetrator" model="PTR-4D Ryan Mk II" type="Biped" commander="false" externalId="8e9da27e-eb33-4e93-b4a0-f684de9af4ed" c3UUID="28bc1504-4675-42b5-81b6-26130fa23ee2">
-				<location index="1"> Center Torso
-					<armor points="32"/>
-				</location>
-				<location index="2"> Right Torso
-					<armor points="16"/>
-				</location>
-				<location index="3"> Left Torso
-					<armor points="19"/>
-				</location>
-				<location index="4"> Right Arm
-					<armor points="11"/>
-				</location>
-				<location index="6"> Right Leg
-					<armor points="22"/>
-				</location>
-				<location index="7"> Left Leg
-					<armor points="27"/>
-				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
@@ -705,11 +684,8 @@
 			<entity chassis="Zeus" model="ZEU-5S Mk III" type="Biped" commander="false" externalId="2d850ff6-67dc-460d-91ee-30946556c02b" c3UUID="f6a71956-e4b4-4ded-bd6f-792d9acd39b6">
       The first slot in a location is at index="1".
 				<location index="3"> Left Torso
-					<slot index="10" type="IS Gauss Ammo" shots="0"/>
-					<slot index="11" type="IS Gauss Ammo" shots="2"/>
-				</location>
-				<location index="7"> Left Leg
-					<armor points="27"/>
+					<slot index="10" type="IS Gauss Ammo" shots="8"/>
+					<slot index="11" type="IS Gauss Ammo" shots="8"/>
 				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
@@ -737,12 +713,6 @@
 		</unit>
 		<unit id="819e4377-19b0-4638-b043-63e4f7c62095" type="mekhq.campaign.unit.Unit">
 			<entity chassis="BattleMaster" model="BLR-1GR-UK Mk III" type="Biped" commander="false" externalId="819e4377-19b0-4638-b043-63e4f7c62095" c3UUID="17ed845a-dfd7-40ea-ac69-eaf8406845cb">
-				<location index="4"> Right Arm
-					<armor points="23"/>
-				</location>
-				<location index="5"> Left Arm
-					<armor points="13"/>
-				</location>
 				<c3iset>
 					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
@@ -1615,13 +1585,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1708,13 +1678,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1801,12 +1771,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2159,14 +2129,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>12</nTasks>
+			<nTasks>21</nTasks>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>405</minutesLeft>
+			<minutesLeft>5</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3053-03-31 12:00:00</birthday>
 			<skill>
@@ -2213,7 +2183,7 @@
 			<id>c1ee9e8b-f794-4680-8343-8462bce76b1d</id>
 			<portraitCategory>-- General --</portraitCategory>
 			<portraitFile>None</portraitFile>
-			<xp>2</xp>
+			<xp>3</xp>
 			<daysToWaitForHealing>15</daysToWaitForHealing>
 			<gender>1</gender>
 			<rank>0</rank>
@@ -2221,14 +2191,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>23</nTasks>
+			<nTasks>3</nTasks>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>285</minutesLeft>
+			<minutesLeft>0</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3056-12-02 12:00:00</birthday>
 			<skill>
@@ -2286,12 +2256,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2372,13 +2342,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2462,14 +2432,14 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
 				<type>Gunnery/Mech</type>
 				<level>4</level>
 				<bonus>1</bonus>
+			</skill>
+			<skill>
+				<type>Small Arms</type>
+				<level>4</level>
+				<bonus>0</bonus>
 			</skill>
 			<skill>
 				<type>Piloting/Mech</type>
@@ -2584,14 +2554,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>15</nTasks>
+			<nTasks>19</nTasks>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>480</minutesLeft>
+			<minutesLeft>345</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3057-10-18 12:00:00</birthday>
 			<skill>
@@ -2794,14 +2764,14 @@
 			<rankSystem>-1</rankSystem>
 			<maneiDominiRank>-1</maneiDominiRank>
 			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>20</nTasks>
+			<nTasks>23</nTasks>
 			<salary>-1 CSB</salary>
 			<status>0</status>
 			<prisonerstatus>0</prisonerstatus>
 			<willingToDefect>false</willingToDefect>
 			<hits>0</hits>
 			<toughness>0</toughness>
-			<minutesLeft>397</minutesLeft>
+			<minutesLeft>308</minutesLeft>
 			<overtimeLeft>240</overtimeLeft>
 			<birthday>3053-05-27 12:00:00</birthday>
 			<skill>
@@ -6261,26 +6231,6 @@
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Sandblaster (AToW)</displayName>
 			<lookupName>sandblaster</lookupName>
 			<desc>A pilot with this ability gets a +4, +3, or +2 to the cluster table
@@ -6292,12 +6242,32 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6345,12 +6315,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -6365,12 +6335,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6385,12 +6355,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Battlesuit</skill>
-				<skill>Gunnery/Aerospace</skill>
+				<skill>Gunnery/Aircraft</skill>
 				<skill>Gunnery/Spacecraft</skill>
-				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Aerospace</skill>
 				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Mech</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -6405,12 +6375,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6425,12 +6395,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6482,11 +6452,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6537,12 +6507,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Battlesuit::Veteran</skill>
-				<skill>Gunnery/Aerospace::Veteran</skill>
+				<skill>Gunnery/Aircraft::Veteran</skill>
 				<skill>Gunnery/Spacecraft::Veteran</skill>
-				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Aerospace::Veteran</skill>
 				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Mech::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -6573,12 +6543,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
 				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
 				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -6633,25 +6603,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			</skillPrereq>
 		</ability>
 		<ability>
-			<displayName>Blind Fighter (Unofficial)</displayName>
-			<lookupName>blind_fighter</lookupName>
-			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
 			<displayName>Hopping Jack (Unofficial)</displayName>
 			<lookupName>hopping_jack</lookupName>
 			<desc>Unit only suffers a +2 to-hit penalty for jumping, rather than a +3 to-hit penalty.</desc>
@@ -6663,6 +6614,25 @@ Note: This ability is only used for BattleMechs.</desc>
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
+			<displayName>Blind Fighter (Unofficial)</displayName>
+			<lookupName>blind_fighter</lookupName>
+			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 	</specialAbilities>
@@ -15515,11 +15485,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>20</amount>
+			<amount>24</amount>
 			<type>1</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>4</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="3958" type="mekhq.campaign.parts.Armor">
@@ -15542,11 +15512,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>6</amount>
+			<amount>8</amount>
 			<type>1</type>
 			<location>2</location>
 			<rear>true</rear>
-			<amountNeeded>2</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="3959" type="mekhq.campaign.parts.Armor">
@@ -15623,11 +15593,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>6</amount>
+			<amount>24</amount>
 			<type>1</type>
 			<location>4</location>
 			<rear>false</rear>
-			<amountNeeded>18</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="3962" type="mekhq.campaign.parts.MekLocation">
@@ -15680,11 +15650,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>22</amount>
+			<amount>24</amount>
 			<type>1</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>2</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="3964" type="mekhq.campaign.parts.MekLocation">
@@ -15737,11 +15707,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>27</amount>
+			<amount>32</amount>
 			<type>1</type>
 			<location>6</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="3967" type="mekhq.campaign.parts.Armor">
@@ -16129,11 +16099,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>23</amount>
+			<amount>33</amount>
 			<type>5</type>
 			<location>1</location>
 			<rear>false</rear>
-			<amountNeeded>10</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4004" type="mekhq.campaign.parts.Armor">
@@ -16183,11 +16153,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>8</amount>
+			<amount>23</amount>
 			<type>5</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>15</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4006" type="mekhq.campaign.parts.Armor">
@@ -16237,11 +16207,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>4</amount>
+			<amount>23</amount>
 			<type>5</type>
 			<location>3</location>
 			<rear>false</rear>
-			<amountNeeded>19</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4008" type="mekhq.campaign.parts.Armor">
@@ -16348,11 +16318,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>14</amount>
+			<amount>22</amount>
 			<type>5</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>8</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4013" type="mekhq.campaign.parts.MekLocation">
@@ -16462,11 +16432,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>25</amount>
+			<amount>30</amount>
 			<type>5</type>
 			<location>7</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4024" type="mekhq.campaign.parts.equipment.JumpJet">
@@ -17192,7 +17162,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>660</amount>
+			<amount>628</amount>
 			<type>0</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -18454,7 +18424,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>8</equipmentNum>
 			<typeName>Clan Ammo LRM-20 (Clan) Semi-guided</typeName>
 			<munition>2097152</munition>
-			<shotsNeeded>6</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -18562,7 +18532,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>12</equipmentNum>
 			<typeName>Clan Ammo LRM-20 (Clan) Semi-guided</typeName>
 			<munition>2097152</munition>
-			<shotsNeeded>6</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -18859,11 +18829,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>13</amount>
+			<amount>25</amount>
 			<type>0</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>12</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="4495" type="mekhq.campaign.parts.Armor">
@@ -18943,11 +18913,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>5</amount>
+			<amount>25</amount>
 			<type>0</type>
 			<location>3</location>
 			<rear>false</rear>
-			<amountNeeded>20</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="4498" type="mekhq.campaign.parts.Armor">
@@ -21095,11 +21065,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>32</amount>
+			<amount>35</amount>
 			<type>1</type>
 			<location>1</location>
 			<rear>false</rear>
-			<amountNeeded>3</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4645" type="mekhq.campaign.parts.Armor">
@@ -21179,11 +21149,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>16</amount>
+			<amount>24</amount>
 			<type>1</type>
 			<location>2</location>
 			<rear>false</rear>
-			<amountNeeded>8</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4648" type="mekhq.campaign.parts.Armor">
@@ -21263,11 +21233,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>19</amount>
+			<amount>24</amount>
 			<type>1</type>
 			<location>3</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4651" type="mekhq.campaign.parts.Armor">
@@ -21347,11 +21317,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>11</amount>
+			<amount>24</amount>
 			<type>1</type>
 			<location>4</location>
 			<rear>false</rear>
-			<amountNeeded>13</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4654" type="mekhq.campaign.parts.Armor">
@@ -21431,11 +21401,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>22</amount>
+			<amount>32</amount>
 			<type>1</type>
 			<location>6</location>
 			<rear>false</rear>
-			<amountNeeded>10</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4657" type="mekhq.campaign.parts.Armor">
@@ -21458,11 +21428,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>27</amount>
+			<amount>32</amount>
 			<type>1</type>
 			<location>7</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="4658" type="mekhq.campaign.parts.equipment.JumpJet">
@@ -23017,11 +22987,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>27</amount>
+			<amount>32</amount>
 			<type>6</type>
 			<location>7</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>false</clan>
 		</part>
 		<part id="5880" type="mekhq.campaign.parts.equipment.EquipmentPart">
@@ -23436,7 +23406,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>5</equipmentNum>
 			<typeName>IS Gauss Ammo</typeName>
 			<munition>0</munition>
-			<shotsNeeded>8</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -23463,7 +23433,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>6</equipmentNum>
 			<typeName>IS Gauss Ammo</typeName>
 			<munition>0</munition>
-			<shotsNeeded>6</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -23486,7 +23456,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>17</amount>
+			<amount>12</amount>
 			<type>6</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -23540,7 +23510,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>13</equipmentNum>
 			<typeName>Clan Ammo LRM-20 (Clan) Semi-guided</typeName>
 			<munition>2097152</munition>
-			<shotsNeeded>6</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -23567,7 +23537,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>21</equipmentNum>
 			<typeName>Clan Ammo LRM-20 (Clan) Semi-guided</typeName>
 			<munition>2097152</munition>
-			<shotsNeeded>2</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -23689,7 +23659,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>95</amount>
+			<amount>38</amount>
 			<type>5</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -24055,11 +24025,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>23</amount>
+			<amount>28</amount>
 			<type>1</type>
 			<location>4</location>
 			<rear>false</rear>
-			<amountNeeded>5</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="6363" type="mekhq.campaign.parts.MekLocation">
@@ -24098,7 +24068,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<unitTonnage>85</unitTonnage>
 			<hits>0</hits>
 			<timeSpent>0</timeSpent>
-			<mode>NORMAL</mode>
+			<mode>RUSH_2</mode>
 			<skillMin>1</skillMin>
 			<unitId>819e4377-19b0-4638-b043-63e4f7c62095</unitId>
 			<workingOvertime>false</workingOvertime>
@@ -24112,11 +24082,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>13</amount>
+			<amount>28</amount>
 			<type>1</type>
 			<location>5</location>
 			<rear>false</rear>
-			<amountNeeded>15</amountNeeded>
+			<amountNeeded>0</amountNeeded>
 			<clan>true</clan>
 		</part>
 		<part id="6365" type="mekhq.campaign.parts.MekLocation">
@@ -25784,7 +25754,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>68</amount>
+			<amount>48</amount>
 			<type>1</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -26760,7 +26730,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<equipmentNum>7</equipmentNum>
 			<typeName>IS Ammo LRM-5 Semi-guided</typeName>
 			<munition>2097152</munition>
-			<shotsNeeded>22</shotsNeeded>
+			<shotsNeeded>0</shotsNeeded>
 			<checkedToday>false</checkedToday>
 			<oneShot>false</oneShot>
 		</part>
@@ -36172,7 +36142,7 @@ Note: This ability is only used for BattleMechs.</desc>
 			<quality>3</quality>
 			<isTeamSalvaging>false</isTeamSalvaging>
 			<parentPartId>-1</parentPartId>
-			<amount>172</amount>
+			<amount>97</amount>
 			<type>1</type>
 			<location>-1</location>
 			<rear>false</rear>
@@ -49059,6 +49029,30 @@ Note: This ability is only used for BattleMechs.</desc>
 			<type>10</type>
 			<location>5</location>
 		</part>
+		<part id="7456" type="mekhq.campaign.parts.AmmoStorage">
+			<id>7456</id>
+			<name>LRM 20 (Clan) Semi-guided Ammo</name>
+			<unitTonnage>1</unitTonnage>
+			<hits>0</hits>
+			<timeSpent>0</timeSpent>
+			<mode>NORMAL</mode>
+			<skillMin>1</skillMin>
+			<workingOvertime>false</workingOvertime>
+			<shorthandedMod>0</shorthandedMod>
+			<refitId>null</refitId>
+			<daysToArrival>0</daysToArrival>
+			<brandNew>false</brandNew>
+			<quantity>1</quantity>
+			<daysToWait>0</daysToWait>
+			<replacementId>-1</replacementId>
+			<quality>3</quality>
+			<isTeamSalvaging>false</isTeamSalvaging>
+			<parentPartId>-1</parentPartId>
+			<equipmentNum>-1</equipmentNum>
+			<typeName>Clan Ammo LRM-20 (Clan) Semi-guided</typeName>
+			<munition>2097152</munition>
+			<shots>10</shots>
+		</part>
 	</parts>
 	<gameOptions>
 		<gameoption>
@@ -50073,13 +50067,13 @@ Note: This ability is only used for BattleMechs.</desc>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Vehicle</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<founder>false</founder>
