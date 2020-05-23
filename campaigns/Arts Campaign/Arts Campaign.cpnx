@@ -20,8 +20,8 @@
 		<camoCategory>-- No Camo --</camoCategory>
 		<camoFileName>null</camoFileName>
 		<colorIndex>0</colorIndex>
-		<lastPartId>7436</lastPartId>
-		<lastForceId>0</lastForceId>
+		<lastPartId>7455</lastPartId>
+		<lastForceId>1</lastForceId>
 		<lastMissionId>4</lastMissionId>
 		<lastScenarioId>20</lastScenarioId>
 		<calendar>3077-07-22 12:00:00</calendar>
@@ -53,6 +53,20 @@
 			<reportLine><![CDATA[<a href='UNIT:3246fcc2-5aaf-464d-980e-920c73421959'>Shadow Hawk SHD-7M</a> has been added to the unit roster.]]></reportLine>
 			<reportLine><![CDATA[<a href='UNIT:4a9628dd-4456-4f4b-91ad-8f864b49f2f8'>Vindicator VND-5L</a> has been added to the unit roster.]]></reportLine>
 			<reportLine><![CDATA[<font color='green'><b> part found</b>.</font> It will be delivered in 0 days.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Joscelyn Thian has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Dennis Beerbaum has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Tibalt Syversen has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Gary Buchanan has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Ngoc Crespo has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Mandakini  Punati has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Andrea Feather has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Waheeda  Dhupam has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Dan Xuan has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Gong Tan has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Sebastiaan Wemerman has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Young-Hee Kim has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Jawhar bin Kaliq has been removed from the personnel roster.]]></reportLine>
+			<reportLine><![CDATA[Prisoner Tooko Candeloro has been removed from the personnel roster.]]></reportLine>
 		</currentReport>
 	</info>
 	<campaignOptions>
@@ -469,6 +483,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -476,7 +491,7 @@
 			<gunnerId>ea523c3c-d20b-41cd-bd79-0242efc267b6</gunnerId>
 			<salvaged>false</salvaged>
 			<site>4</site>
-			<forceId>0</forceId>
+			<forceId>1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>5</daysSinceMaintenance>
@@ -526,12 +541,12 @@
 				<location index="3"> Left Torso
 					<armor points="4"/>
 					<slot index="1" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
-					<slot index="6" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
-					<slot index="7" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
+					<slot index="6" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
+					<slot index="7" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
 					<slot index="8" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
 					<slot index="9" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
-					<slot index="11" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
-					<slot index="12" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="0"/>
+					<slot index="11" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
+					<slot index="12" type="Clan Ammo LRM-20 (Clan) Semi-guided" shots="6"/>
 				</location>
 				<location index="4"> Right Arm
 					<slot index="5" type="IS Ammo LRM-5 Semi-guided" shots="2"/>
@@ -547,6 +562,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -554,7 +570,7 @@
 			<gunnerId>2c5fa8bb-3073-4231-84dd-e9fd7dd2c743</gunnerId>
 			<salvaged>false</salvaged>
 			<site>4</site>
-			<forceId>0</forceId>
+			<forceId>1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
@@ -606,6 +622,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -613,7 +630,7 @@
 			<gunnerId>a1720c9f-9396-4645-a0b1-4120613eb75c</gunnerId>
 			<salvaged>false</salvaged>
 			<site>4</site>
-			<forceId>0</forceId>
+			<forceId>1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
@@ -665,6 +682,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -672,7 +690,7 @@
 			<gunnerId>86cf842d-8c1f-42c7-ad42-70dc17065c92</gunnerId>
 			<salvaged>false</salvaged>
 			<site>4</site>
-			<forceId>0</forceId>
+			<forceId>1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>1</daysSinceMaintenance>
@@ -694,14 +712,19 @@
 					<armor points="27"/>
 				</location>
 				<c3iset>
+					<c3i_link link="441e741d-5930-4554-b778-ab180550218d"/>
+					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
+					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
+					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
 					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
+					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
 			<driverId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</driverId>
 			<gunnerId>fe469eae-8f4b-4ef2-b24f-bf8e162c0b68</gunnerId>
 			<salvaged>false</salvaged>
 			<site>2</site>
-			<forceId>0</forceId>
+			<forceId>1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>4</daysSinceMaintenance>
@@ -725,6 +748,7 @@
 					<c3i_link link="22f76dc0-4121-4c9a-86d7-6085dfcfaf35"/>
 					<c3i_link link="a78ca5b0-713e-4bc1-81f9-7757dc71b51a"/>
 					<c3i_link link="28bc1504-4675-42b5-81b6-26130fa23ee2"/>
+					<c3i_link link="f6a71956-e4b4-4ded-bd6f-792d9acd39b6"/>
 					<c3i_link link="17ed845a-dfd7-40ea-ac69-eaf8406845cb"/>
 				</c3iset>
 			</entity>
@@ -732,7 +756,7 @@
 			<gunnerId>ca9e14bb-222e-448c-8342-82a24daf0988</gunnerId>
 			<salvaged>false</salvaged>
 			<site>3</site>
-			<forceId>0</forceId>
+			<forceId>1</forceId>
 			<scenarioId>-1</scenarioId>
 			<daysToArrival>0</daysToArrival>
 			<daysSinceMaintenance>3</daysSinceMaintenance>
@@ -1169,24 +1193,13 @@
 				<location index="4"> Right Arm has been blown off.
 					<armor points="3"/>
 					<blownOff/>
-         <slot index="6" type="IS Stealth" isMissing="true" isDestroyed="false"/>
-         <slot index="7" type="IS Stealth" isMissing="true" isDestroyed="false"/>
-         <slot index="8" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="9" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="10" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="11" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="12" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 				<location index="5"> Left Arm has been blown off.
 					<armor points="Destroyed"/>
 					<armor points="4" type="Internal"/>
 					<blownOff/>
-         <slot index="6" type="IS Stealth" isMissing="true" isDestroyed="false"/>
-         <slot index="7" type="IS Stealth" isMissing="true" isDestroyed="false"/>
-         <slot index="8" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="9" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="10" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="11" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 				<location index="6"> Right Leg
 					<armor points="2"/>
@@ -1218,7 +1231,7 @@
 				<location index="4"> Right Arm has been blown off.
 					<armor points="6"/>
 					<blownOff/>
-         <slot index="12" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 			</entity>
 			<salvaged>false</salvaged>
@@ -1236,6 +1249,7 @@
 		</unit>
 		<unit id="219f7962-bf94-4da9-9a3e-af216993d504" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Jenner" model="JR7-K" type="Biped" commander="false" externalId="219f7962-bf94-4da9-9a3e-af216993d504">
+      The first slot in a location is at index="1".
 				<location index="1" isDestroyed="true" /> Center Torso
 				<location index="2" isDestroyed="true" /> Right Torso
 				<location index="3" isDestroyed="true" /> Left Torso
@@ -1244,6 +1258,7 @@
 					<armor points="Destroyed"/>
 					<armor points="3" type="Internal"/>
 					<blownOff/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 				<location index="7" isDestroyed="true" /> Left Leg
 			</entity>
@@ -1281,7 +1296,7 @@
 					<armor points="Destroyed"/>
 					<armor points="3" type="Internal"/>
 					<blownOff/>
-         <slot index="1" type="System" isHit="true" isDestroyed="true"/>
+         <slot index="1" type="System" isHit="true" isMissing="true" isDestroyed="true"/>
          <slot index="2" type="System" isHit="true" isRepairable="false" isDestroyed="true"/>
 				</location>
 				<location index="6"> Right Leg
@@ -1306,7 +1321,7 @@
       The first slot in a location is at index="1".
 				<location index="1" isDestroyed="true" /> Center Torso
 				<location index="2"> Right Torso
-					<armor points="0"/>
+					<armor points="Destroyed"/>
 					<armor points="3" type="Internal"/>
 					<armor points="Destroyed" type="Rear"/>
          <slot index="1" type="System" isHit="true" isDestroyed="false"/>
@@ -1322,10 +1337,7 @@
 				</location>
 				<location index="5"> Left Arm has been blown off.
 					<blownOff/>
-         <slot index="7" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="8" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="9" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="10" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 				<location index="6"> Right Leg
 					<armor points="14"/>
@@ -1431,15 +1443,16 @@
 				<location index="4"> Right Arm has been blown off.
 					<armor points="10"/>
 					<blownOff/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 				<location index="5"> Left Arm
-					<armor points="0"/>
+					<armor points="Destroyed"/>
 					<armor points="3" type="Internal"/>
          <slot index="1" type="System" isHit="true" isDestroyed="false"/>
-         <slot index="3" type="System" isHit="true" isDestroyed="false"/>
+         <slot index="3" type="System" isHit="true" isDestroyed="true"/>
 				</location>
 				<location index="7"> Left Leg
-					<armor points="0"/>
+					<armor points="Destroyed"/>
 				</location>
 			</entity>
 			<salvaged>true</salvaged>
@@ -1497,13 +1510,7 @@
 				</location>
 				<location index="4"> Right Arm has been blown off.
 					<blownOff/>
-         <slot index="6" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="7" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="8" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="9" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="10" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="11" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
-         <slot index="12" type="IS Endo Steel" isMissing="true" isDestroyed="false"/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 				<location index="5"> Left Arm
 					<armor points="6"/>
@@ -1531,6 +1538,7 @@
 		</unit>
 		<unit id="4a9628dd-4456-4f4b-91ad-8f864b49f2f8" type="mekhq.campaign.unit.Unit">
 			<entity chassis="Vindicator" model="VND-5L" type="Biped" commander="false" externalId="4a9628dd-4456-4f4b-91ad-8f864b49f2f8">
+      The first slot in a location is at index="1".
 				<location index="1" isDestroyed="true" /> Center Torso
 				<location index="2" isDestroyed="true" /> Right Torso
 				<location index="3"> Left Torso
@@ -1542,6 +1550,7 @@
 					<armor points="Destroyed"/>
 					<armor points="6" type="Internal"/>
 					<blownOff/>
+         <slot index="1" type="System" isMissing="true" isDestroyed="false"/>
 				</location>
 				<location index="5" isDestroyed="true" /> Left Arm
 				<location index="7"> Left Leg
@@ -1563,251 +1572,6 @@
 		</unit>
 	</units>
 	<personnel>
-		<person id="055942de-43e9-4c74-a2f9-49131bb0a1ad" type="mekhq.campaign.personnel.Person">
-			<name>Joscelyn Thian</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>055942de-43e9-4c74-a2f9-49131bb0a1ad</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3047-04-27 12:00:00</birthday>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<edge>edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion</edge>
-			<personnelLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Base Defense during mission The Rush Job</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="c4d4f056-0b95-41ba-976c-b7d6a0f6e2fa" type="mekhq.campaign.personnel.Person">
-			<name>Dennis Beerbaum</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>c4d4f056-0b95-41ba-976c-b7d6a0f6e2fa</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3050-01-05 12:00:00</birthday>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>6</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>6</level>
-				<bonus>0</bonus>
-			</skill>
-			<edge>edge 2::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion</edge>
-			<personnelLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Base Defense during mission The Rush Job</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="f8e3fab9-4293-4952-8a81-d97ae32d07e2" type="mekhq.campaign.personnel.Person">
-			<name>Jawhar bin Kaliq</name>
-			<callsign></callsign>
-			<primaryRole>6</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>f8e3fab9-4293-4952-8a81-d97ae32d07e2</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3055-06-24 12:00:00</birthday>
-			<skill>
-				<type>Tactics</type>
-				<level>1</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Any Landing You Can Walk Away From during mission The Rush Job</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="9568ae7d-ae23-41c1-8a5b-9463ce9be8c2" type="mekhq.campaign.personnel.Person">
-			<name>Tibalt Syversen</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>9568ae7d-ae23-41c1-8a5b-9463ce9be8c2</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3041-10-15 12:00:00</birthday>
-			<skill>
-				<type>Tactics</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
 		<person id="ea523c3c-d20b-41cd-bd79-0242efc267b6" type="mekhq.campaign.personnel.Person">
 			<name>Matt</name>
 			<callsign></callsign>
@@ -1851,13 +1615,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -1895,135 +1659,6 @@
 				<logEntry><date>3077-07-20 00:00:00</date><desc>Participated in Raiding Warren during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-21 00:00:00</date><desc>Participated in Laser at a Medium Pace during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-22 00:00:00</date><desc>Participated in Master Bait and Switch during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="33543925-5755-44bc-83b7-c2b997b05ee7" type="mekhq.campaign.personnel.Person">
-			<name>Gary Buchanan</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>33543925-5755-44bc-83b7-c2b997b05ee7</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3052-10-01 12:00:00</birthday>
-			<skill>
-				<type>Tactics</type>
-				<level>1</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="96aa1d0b-c92f-4c8c-9893-ebf986ee13db" type="mekhq.campaign.personnel.Person">
-			<name>Tooko Candeloro</name>
-			<callsign></callsign>
-			<primaryRole>5</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>96aa1d0b-c92f-4c8c-9893-ebf986ee13db</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3054-05-04 12:00:00</birthday>
-			<skill>
-				<type>Piloting/VTOL</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Any Landing You Can Walk Away From during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 			</missionLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -2073,13 +1708,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2117,69 +1752,6 @@
 				<logEntry><date>3077-07-20 00:00:00</date><desc>Participated in Raiding Warren during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-21 00:00:00</date><desc>Participated in Laser at a Medium Pace during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-22 00:00:00</date><desc>Participated in Master Bait and Switch during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="038f8cf0-1c3c-4b68-a68b-4c9874ccd7e6" type="mekhq.campaign.personnel.Person">
-			<name>Ngoc Crespo</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>038f8cf0-1c3c-4b68-a68b-4c9874ccd7e6</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3053-11-09 12:00:00</birthday>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<edge>edge 1::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion</edge>
-			<personnelLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Base Defense during mission The Rush Job</desc><type>SERVICE</type></logEntry>
 			</missionLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -2229,12 +1801,12 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2561,68 +2133,6 @@
 			<originalUnitTech>0</originalUnitTech>
 			<acquisitions>0</acquisitions>
 <extraData/>		</person>
-		<person id="3befc743-7dac-4cd8-a6c4-8e53eca8f08e" type="mekhq.campaign.personnel.Person">
-			<name>Mandakini  Punati</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>3befc743-7dac-4cd8-a6c4-8e53eca8f08e</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3054-09-05 12:00:00</birthday>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
 		<person id="1c96159b-fcf8-46be-99c0-e510252b3a8a" type="mekhq.campaign.personnel.Person">
 			<name>Scott Gibson</name>
 			<callsign></callsign>
@@ -2776,12 +2286,12 @@
 			<overtimeLeft>0</overtimeLeft>
 			<birthday>3047-01-18 12:00:00</birthday>
 			<skill>
-				<type>Gunnery/Mech</type>
+				<type>Small Arms</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
+				<type>Gunnery/Mech</type>
 				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
@@ -2813,73 +2323,6 @@
 				<logEntry><date>3077-07-20 00:00:00</date><desc>Participated in Raiding Warren during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-21 00:00:00</date><desc>Participated in Laser at a Medium Pace during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-22 00:00:00</date><desc>Participated in Master Bait and Switch during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="c019ed3e-2492-4b15-a489-c9c098e567f6" type="mekhq.campaign.personnel.Person">
-			<name>Andrea Feather</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>c019ed3e-2492-4b15-a489-c9c098e567f6</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3052-05-25 12:00:00</birthday>
-			<skill>
-				<type>Tactics</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-28 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc><type>SERVICE</type></logEntry>
 			</missionLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -2929,13 +2372,13 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Mech</type>
+				<level>3</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
@@ -2970,68 +2413,6 @@
 				<logEntry><date>3077-07-20 00:00:00</date><desc>Participated in Raiding Warren during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-21 00:00:00</date><desc>Participated in Laser at a Medium Pace during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
 				<logEntry><date>3077-07-22 00:00:00</date><desc>Participated in Master Bait and Switch during mission Probing the Taurian Concordat</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="ebe7bc91-c464-4a81-bd40-49c862a5adae" type="mekhq.campaign.personnel.Person">
-			<name>Waheeda  Dhupam</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>ebe7bc91-c464-4a81-bd40-49c862a5adae</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3056-06-20 12:00:00</birthday>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc><type>SERVICE</type></logEntry>
 			</missionLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
@@ -3081,14 +2462,14 @@
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Mech</type>
-				<level>4</level>
-				<bonus>1</bonus>
-			</skill>
-			<skill>
 				<type>Small Arms</type>
 				<level>4</level>
 				<bonus>0</bonus>
+			</skill>
+			<skill>
+				<type>Gunnery/Mech</type>
+				<level>4</level>
+				<bonus>1</bonus>
 			</skill>
 			<skill>
 				<type>Piloting/Mech</type>
@@ -3172,68 +2553,6 @@
 			<personnelLog>
 				<logEntry><date>3077-04-28 12:00:00</date><desc>Joined Art</desc><type>CUSTOM</type></logEntry>
 			</personnelLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="d7d598c0-9773-43c9-8a02-be18667afb96" type="mekhq.campaign.personnel.Person">
-			<name>Dan Xuan</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>d7d598c0-9773-43c9-8a02-be18667afb96</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3040-01-02 12:00:00</birthday>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-24 12:00:00</date><desc>Participated in Recover Hijacked Convoy during mission Hauptmann</desc><type>SERVICE</type></logEntry>
-			</missionLog>
 			<founder>false</founder>
 			<originalUnitWeight>0</originalUnitWeight>
 			<originalUnitTech>0</originalUnitTech>
@@ -3502,203 +2821,6 @@
 			<originalUnitTech>0</originalUnitTech>
 			<acquisitions>0</acquisitions>
 <extraData/>		</person>
-		<person id="f6af284f-7721-4add-b980-0d3703e4325b" type="mekhq.campaign.personnel.Person">
-			<name>Gong Tan</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>f6af284f-7721-4add-b980-0d3703e4325b</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>7</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>1</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3050-01-09 12:00:00</birthday>
-			<skill>
-				<type>Tactics</type>
-				<level>1</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<edge>edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion</edge>
-			<personnelLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-05-15 12:00:00</date><desc>Participated in Base Defense during mission The Rush Job</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="ee6b6d29-fa56-4846-a8e6-eae051d833f1" type="mekhq.campaign.personnel.Person">
-			<name>Sebastiaan Wemerman</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>ee6b6d29-fa56-4846-a8e6-eae051d833f1</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>1</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3044-08-18 12:00:00</birthday>
-			<skill>
-				<type>Tactics</type>
-				<level>1</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>5</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-28 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-28 12:00:00</date><desc>Participated in Search For Beacon during mission Hauptmann</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
-		<person id="ae80e408-2baa-42f9-829e-5c98dafbb0d8" type="mekhq.campaign.personnel.Person">
-			<name>Young-Hee Kim</name>
-			<callsign></callsign>
-			<primaryRole>1</primaryRole>
-			<secondaryRole>0</secondaryRole>
-			<primaryDesignator>0</primaryDesignator>
-			<secondaryDesignator>0</secondaryDesignator>
-			<commander>false</commander>
-			<dependent>false</dependent>
-			<faction>MERC</faction>
-			<clan>false</clan>
-			<phenotype>0</phenotype>
-			<bloodname></bloodname>
-			<biography></biography>
-			<idleMonths>-1</idleMonths>
-			<id>ae80e408-2baa-42f9-829e-5c98dafbb0d8</id>
-			<portraitCategory>-- General --</portraitCategory>
-			<portraitFile>None</portraitFile>
-			<xp>1</xp>
-			<daysToWaitForHealing>15</daysToWaitForHealing>
-			<gender>0</gender>
-			<rank>-2</rank>
-			<rankLevel>0</rankLevel>
-			<rankSystem>-1</rankSystem>
-			<maneiDominiRank>-1</maneiDominiRank>
-			<maneiDominiClass>0</maneiDominiClass>
-			<nTasks>0</nTasks>
-			<salary>-1 CSB</salary>
-			<status>0</status>
-			<prisonerstatus>1</prisonerstatus>
-			<willingToDefect>false</willingToDefect>
-			<hits>0</hits>
-			<toughness>0</toughness>
-			<minutesLeft>0</minutesLeft>
-			<overtimeLeft>0</overtimeLeft>
-			<birthday>3054-02-25 12:00:00</birthday>
-			<skill>
-				<type>Small Arms</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Gunnery/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<skill>
-				<type>Piloting/Mech</type>
-				<level>3</level>
-				<bonus>0</bonus>
-			</skill>
-			<personnelLog>
-				<logEntry><date>3077-04-15 12:00:00</date><desc>Made prisoner by Art</desc><type>SERVICE</type></logEntry>
-			</personnelLog>
-			<missionLog>
-				<logEntry><date>3077-04-15 12:00:00</date><desc>Participated in Materiel Recovery during mission Hauptmann</desc><type>SERVICE</type></logEntry>
-			</missionLog>
-			<founder>false</founder>
-			<originalUnitWeight>0</originalUnitWeight>
-			<originalUnitTech>0</originalUnitTech>
-			<acquisitions>0</acquisitions>
-<extraData/>		</person>
 	</personnel>
 	<ancestors>
 	</ancestors>
@@ -3707,7 +2829,7 @@
 			<name>First Mission</name>
 			<type>Company Contract</type>
 			<planetId>Unknown Planet</planetId>
-			<status>0</status>
+			<status>1</status>
 			<desc>Do what were are told</desc>
 			<id>1</id>
 			<scenarios>
@@ -3821,7 +2943,7 @@
 			<name>Hauptmann</name>
 			<type>Company Contract</type>
 			<planetId>Unknown Planet</planetId>
-			<status>0</status>
+			<status>1</status>
 			<desc>Pirate headhunting</desc>
 			<id>2</id>
 			<scenarios>
@@ -3928,13 +3050,6 @@
 						</subforces>
 					</forceStub>
 					<date>3077-04-19 12:00:00</date>
-				</scenario>
-				<scenario id="6" type="mekhq.campaign.mission.Scenario">
-					<name>Protect Factory</name>
-					<desc>50,000 per week.</desc>
-					<report></report>
-					<status>0</status>
-					<id>6</id>
 				</scenario>
 				<scenario id="7" type="mekhq.campaign.mission.Scenario">
 					<name>Recover Hijacked Convoy</name>
@@ -4091,7 +3206,7 @@
 			<name>The Rush Job</name>
 			<type></type>
 			<planetId>Unknown Planet</planetId>
-			<status>0</status>
+			<status>1</status>
 			<desc></desc>
 			<id>3</id>
 			<scenarios>
@@ -4630,19 +3745,28 @@
 	</missions>
 	<forces>
 		<force id="0" type="mekhq.campaign.force.Force">
-			<name>Premature Ejections</name>
+			<name>Hansen&apos;s Roughriders</name>
 			<desc></desc>
 			<iconCategory>-- General --</iconCategory>
-			<iconFileName>grimejection11.jpg</iconFileName>
+			<iconFileName>Hansensroughriders.jpg</iconFileName>
 			<scenarioId>-1</scenarioId>
-			<units>
-				<unit id="472e53ff-1c11-468e-8330-51ac0c56c474"/>
-				<unit id="819e4377-19b0-4638-b043-63e4f7c62095"/>
-				<unit id="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc"/>
-				<unit id="01203ad5-eaf1-4252-97fa-08e46ad3aaac"/>
-				<unit id="8e9da27e-eb33-4e93-b4a0-f684de9af4ed"/>
-				<unit id="2d850ff6-67dc-460d-91ee-30946556c02b"/>
-			</units>
+			<subforces>
+				<force id="1" type="mekhq.campaign.force.Force">
+					<name>Premature Ejections</name>
+					<desc></desc>
+					<iconCategory>-- General --</iconCategory>
+					<iconFileName>grimejection11.jpg</iconFileName>
+					<scenarioId>-1</scenarioId>
+					<units>
+						<unit id="472e53ff-1c11-468e-8330-51ac0c56c474"/>
+						<unit id="819e4377-19b0-4638-b043-63e4f7c62095"/>
+						<unit id="7f2502ab-f322-41d8-a3d6-1ed1c13a8fbc"/>
+						<unit id="01203ad5-eaf1-4252-97fa-08e46ad3aaac"/>
+						<unit id="8e9da27e-eb33-4e93-b4a0-f684de9af4ed"/>
+						<unit id="2d850ff6-67dc-460d-91ee-30946556c02b"/>
+					</units>
+				</force>
+			</subforces>
 		</force>
 	</forces>
 	<finances>
@@ -7137,6 +6261,26 @@
 			</skillPrereq>
 		</ability>
 		<ability>
+			<displayName>Multi-Tasker (aToW)</displayName>
+			<lookupName>multi_tasker</lookupName>
+			<desc>Secondary target modifiers are reduced by one.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
 			<displayName>Sandblaster (AToW)</displayName>
 			<lookupName>sandblaster</lookupName>
 			<desc>A pilot with this ability gets a +4, +3, or +2 to the cluster table
@@ -7148,32 +6292,12 @@ at short, medium, or long/extended range, respectively, but only with a speciali
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Multi-Tasker (aToW)</displayName>
-			<lookupName>multi_tasker</lookupName>
-			<desc>Secondary target modifiers are reduced by one.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
 				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -7221,12 +6345,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -7241,12 +6365,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -7261,12 +6385,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aircraft</skill>
-				<skill>Gunnery/Spacecraft</skill>
+				<skill>Gunnery/Battlesuit</skill>
 				<skill>Gunnery/Aerospace</skill>
-				<skill>Gunnery/Vehicle</skill>
+				<skill>Gunnery/Spacecraft</skill>
 				<skill>Gunnery/Mech</skill>
+				<skill>Gunnery/Vehicle</skill>
 				<skill>Gunnery/Protomech</skill>
 			</skillPrereq>
 		</ability>
@@ -7281,12 +6405,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -7301,12 +6425,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -7358,11 +6482,11 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -7413,12 +6537,12 @@ Units also receive a -1 BTH to rolls against skidding, sideslipping, and going o
 			<removeAbilities>cluster_hitter</removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aircraft::Veteran</skill>
-				<skill>Gunnery/Spacecraft::Veteran</skill>
+				<skill>Gunnery/Battlesuit::Veteran</skill>
 				<skill>Gunnery/Aerospace::Veteran</skill>
-				<skill>Gunnery/Vehicle::Veteran</skill>
+				<skill>Gunnery/Spacecraft::Veteran</skill>
 				<skill>Gunnery/Mech::Veteran</skill>
+				<skill>Gunnery/Vehicle::Veteran</skill>
 				<skill>Gunnery/Protomech::Veteran</skill>
 			</skillPrereq>
 		</ability>
@@ -7449,12 +6573,12 @@ Note: This ability is only used for BattleMechs.</desc>
 			<removeAbilities></removeAbilities>
 			<choiceValues></choiceValues>
 			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Spacecraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
 				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Spacecraft::Regular</skill>
 				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
 				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
@@ -7509,6 +6633,25 @@ Note: This ability is only used for BattleMechs.</desc>
 			</skillPrereq>
 		</ability>
 		<ability>
+			<displayName>Blind Fighter (Unofficial)</displayName>
+			<lookupName>blind_fighter</lookupName>
+			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
+			<xpCost>6</xpCost>
+			<weight>2</weight>
+			<prereqAbilities></prereqAbilities>
+			<invalidAbilities></invalidAbilities>
+			<removeAbilities></removeAbilities>
+			<choiceValues></choiceValues>
+			<skillPrereq>
+				<skill>Gunnery/Aircraft::Regular</skill>
+				<skill>Gunnery/Battlesuit::Regular</skill>
+				<skill>Gunnery/Aerospace::Regular</skill>
+				<skill>Gunnery/Mech::Regular</skill>
+				<skill>Gunnery/Vehicle::Regular</skill>
+				<skill>Gunnery/Protomech::Regular</skill>
+			</skillPrereq>
+		</ability>
+		<ability>
 			<displayName>Hopping Jack (Unofficial)</displayName>
 			<lookupName>hopping_jack</lookupName>
 			<desc>Unit only suffers a +2 to-hit penalty for jumping, rather than a +3 to-hit penalty.</desc>
@@ -7520,25 +6663,6 @@ Note: This ability is only used for BattleMechs.</desc>
 			<choiceValues></choiceValues>
 			<skillPrereq>
 				<skill>Piloting/Mech::Veteran</skill>
-			</skillPrereq>
-		</ability>
-		<ability>
-			<displayName>Blind Fighter (Unofficial)</displayName>
-			<lookupName>blind_fighter</lookupName>
-			<desc>A pilot with this ability does not suffer the initial -1 to hit due to darkness.</desc>
-			<xpCost>6</xpCost>
-			<weight>2</weight>
-			<prereqAbilities></prereqAbilities>
-			<invalidAbilities></invalidAbilities>
-			<removeAbilities></removeAbilities>
-			<choiceValues></choiceValues>
-			<skillPrereq>
-				<skill>Gunnery/Battlesuit::Regular</skill>
-				<skill>Gunnery/Aircraft::Regular</skill>
-				<skill>Gunnery/Aerospace::Regular</skill>
-				<skill>Gunnery/Vehicle::Regular</skill>
-				<skill>Gunnery/Mech::Regular</skill>
-				<skill>Gunnery/Protomech::Regular</skill>
 			</skillPrereq>
 		</ability>
 	</specialAbilities>
@@ -50949,13 +50073,13 @@ Note: This ability is only used for BattleMechs.</desc>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Small Arms</type>
-				<level>2</level>
+				<type>Gunnery/Vehicle</type>
+				<level>5</level>
 				<bonus>0</bonus>
 			</skill>
 			<skill>
-				<type>Gunnery/Vehicle</type>
-				<level>5</level>
+				<type>Small Arms</type>
+				<level>2</level>
 				<bonus>0</bonus>
 			</skill>
 			<founder>false</founder>
