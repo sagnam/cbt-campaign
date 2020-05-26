@@ -1,0 +1,152 @@
+Version:1.0
+Catapult
+CPLT-C5A Mk II
+
+Config:Biped
+TechBase:Mixed (IS Chassis)
+Era:3077
+Source:Jihad
+Rules Level:3
+
+Mass:65
+Engine:260 Fusion Engine(IS)
+Structure:IS Endo Steel
+Myomer:Standard
+
+Heat Sinks:10 Double
+Walk MP:4
+Jump MP:4
+
+Armor:Ferro-Fibrous(Clan)
+LA Armor:20
+RA Armor:20
+LT Armor:24
+RT Armor:24
+CT Armor:33
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:6
+RTR Armor:6
+RTC Armor:9
+
+Weapons:4
+Flamer, Head
+LRM 10, Left Torso
+LRM 20, Right Torso
+LRM 20, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+-Empty-
+-Empty-
+
+Left Torso:
+ISCASE
+LRM 10
+LRM 10
+IS Ammo LRM-10 Semi-guided
+Jump Jet
+Jump Jet
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+Clan Ammo LRM-20 (Clan) Semi-guided
+
+Right Torso:
+ISGuardianECMSuite
+ISGuardianECMSuite
+Jump Jet
+Jump Jet
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+CLLRM20
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3iUnit
+ISC3iUnit
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLFlamer
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+imagefile:.\data\images\fluff\Mech\Catapult 3050U.jpg
+
